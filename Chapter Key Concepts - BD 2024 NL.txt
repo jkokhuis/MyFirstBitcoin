@@ -51,49 +51,37 @@ Hoofdstuk 3:
 Hoofdstuk 4: 
 
 1.	De oorsprong van Fiat Money: 
-
-?	Verken de oorsprong van fiatgeld aan de hand van een kort historisch overzicht en begrijp hoe het een dominante vorm van valuta werd.
+- Verken de oorsprong van fiatgeld aan de hand van een kort historisch overzicht en begrijp hoe het een dominante vorm van valuta werd.
 
 2.	Het Fiat-systeem: 
-
-?	De fundamentele aspecten van het fiatsysteem begrijpen, waaronder de aard van het systeem als een per decreet vastgesteld monetair systeem, de rol van fractioneel reservebankieren en de belangrijkste spelers die dit systeem controleren.
+- De fundamentele aspecten van het fiatsysteem begrijpen, waaronder de aard van het systeem als een per decreet vastgesteld monetair systeem, de rol van fractioneel reservebankieren en de belangrijkste spelers die dit systeem controleren.
 
 3.	Fractionele reserve bankactiviteit: 
-
-?	Doe mee aan de Fractional Reserve Banking-activiteit om inzicht te krijgen in de werking van dit systeem, waarbij de nadruk ligt op de afhankelijkheid van schulden en de gevolgen voor de bredere economie.
+- Doe mee aan de Fractional Reserve Banking-activiteit om inzicht te krijgen in de werking van dit systeem, waarbij de nadruk ligt op de afhankelijkheid van schulden en de gevolgen voor de bredere economie.
 
 4.	Beheerders en begunstigden:
-
-?	Identificeer de entiteiten die het fiatsysteem controleren en onderzoek wie er profiteert van de werking ervan, waardoor een dieper inzicht ontstaat in de dynamiek die hier speelt.
+- Identificeer de entiteiten die het fiatsysteem controleren en onderzoek wie er profiteert van de werking ervan, waardoor een dieper inzicht ontstaat in de dynamiek die hier speelt.
 
 5.	CBDC's en de toekomst: 
-
-?	Verken het concept van CBDC's (Central Bank Digital Currencies) als een blik op de mogelijke toekomstige ontwikkelingen van fiatgeld, waarbij de voortdurende evolutie van monetaire systemen wordt erkend.
+- Verken het concept van CBDC's (Central Bank Digital Currencies) als een blik op de mogelijke toekomstige ontwikkelingen van fiatgeld, waarbij de voortdurende evolutie van monetaire systemen wordt erkend.
 
 
 Hoofdstuk 5: 
 
-
-
 1.	Afnemende koopkracht: 
-
-?	Het concept van monetaire inflatie en de invloed ervan op de koopkracht begrijpen. De effecten van inflatie: Een veiling om de effecten uit eerste hand te ervaren.
+- Het concept van monetaire inflatie en de invloed ervan op de koopkracht begrijpen. De effecten van inflatie: Een veiling om de effecten uit eerste hand te ervaren.
 
 2.	Wereldwijde schuldenlast en sociale ongelijkheid:
-
-?	De dubbele impact van de wereldwijde schuldenlast en sociale ongelijkheid verkennen. De individuele en maatschappelijke gevolgen herkennen, met de nadruk op het verlies aan koopkracht en de groeiende welvaartskloof.
+- De dubbele impact van de wereldwijde schuldenlast en sociale ongelijkheid verkennen. De individuele en maatschappelijke gevolgen herkennen, met de nadruk op het verlies aan koopkracht en de groeiende welvaartskloof.
 
 3.	De gevolgen van het Fiat-systeem Activiteit:
-
-?	Deelnemen aan de activiteit Gevolgen van het Fiat-systeem, om licht te werpen op de bredere gevolgen van het huidige monetaire kader.
+- Deelnemen aan de activiteit Gevolgen van het Fiat-systeem, om licht te werpen op de bredere gevolgen van het huidige monetaire kader.
 
 4.	De Cypherpunks en Decentralisatie: 
-
-?	Leer het verhaal van de Cypherpunks en hun motivatie om op zoek te gaan naar een gedecentraliseerde valuta. Maak onderscheid tussen gecentraliseerde en gedecentraliseerde systemen en leer meer over de geschiedenis van digitale valuta.
+- Leer het verhaal van de Cypherpunks en hun motivatie om op zoek te gaan naar een gedecentraliseerde valuta. Maak onderscheid tussen gecentraliseerde en gedecentraliseerde systemen en leer meer over de geschiedenis van digitale valuta.
 
 5.	CBDC's (Central Bank Digital Currencies):
-
-?	Verken het evoluerende landschap van CBDC's (Central Bank Digital Currencies) en hun potentiële impact op de toekomst van geld.
+- Verken het evoluerende landschap van CBDC's (Central Bank Digital Currencies) en hun potentiële impact op de toekomst van geld.
 
 Hoofdstuk 6: 
 
