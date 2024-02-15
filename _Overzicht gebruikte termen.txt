@@ -10,6 +10,8 @@ Bitcoin ledger - Bitcoin grootboek
 
 Genesis-block - Genesis-blok
 
+Key concepts - begrippen of concepten
+
 Lightning network - Lightning netwerk
 Lightning transactions - Lightning transacties
 
