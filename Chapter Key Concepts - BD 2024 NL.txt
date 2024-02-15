@@ -5,58 +5,48 @@ Hoofdstuk 1:
 Sleutelbegrippen: 
 
 1.	Cursus Introductie:
+- Ontdek de cursusdoelen en verwachtingen voor het Bitcoin-diploma.
 
-?	Ontdek de cursusdoelen en verwachtingen voor het Bitcoin-diploma.
-
-2.	Reflectieve activiteit - Geld definiëren:
-
-?	Doe een reflectieoefening door vijf antwoorden te geven op belangrijke vragen over geld.
+2.	Reflectieve activiteit - Geld definiÃ«ren:
+- Doe een reflectieoefening door vijf antwoorden te geven op belangrijke vragen over geld.
 
 3.	Discussie in de klas - Waarom we geld nodig hebben:
-
-?	Deelnemen aan een klassikale discussie over de fundamentele noodzaak van geld.
-?	Individuele perspectieven op het belang van geld delen en vergelijken.
-?	De basis leggen voor het begrijpen van de rol van geld in economische systemen.
+- Deelnemen aan een klassikale discussie over de fundamentele noodzaak van geld.
+- Individuele perspectieven op het belang van geld delen en vergelijken.
+- De basis leggen voor het begrijpen van de rol van geld in economische systemen.
 
 Hoofdstuk 2:
 
 Sleutelbegrippen: 
 
  1. Geld begrijpen:
-
-?	Ontdek de fundamentele definitie en het concept van geld.
-?	Bespreek de verschillende perspectieven binnen de klas om de veelzijdige aard van geld te begrijpen.
+- Ontdek de fundamentele definitie en het concept van geld.
+- Bespreek de verschillende perspectieven binnen de klas om de veelzijdige aard van geld te begrijpen.
 
 2. Functies, eigenschappen en typen:
-
-?	Verdiep je in de functies, eigenschappen en soorten geld.
-?	Herken het belang van deze aspecten bij het definiëren en gebruiken van geld.
+- Verdiep je in de functies, eigenschappen en soorten geld.
+- Herken het belang van deze aspecten bij het definiÃ«ren en gebruiken van geld.
 
 3. Psychologie van geld:
-
-?	De psychologische aspecten van geld begrijpen, waaronder schaarste, tijdsvoorkeur en afwegingen.
-?	Doe mee aan de activiteit "Tijdsvoorkeur" om psychologische elementen te koppelen aan levensechte scenario's.
+- De psychologische aspecten van geld begrijpen, waaronder schaarste, tijdsvoorkeur en afwegingen.
+- Doe mee aan de activiteit "Tijdsvoorkeur" om psychologische elementen te koppelen aan levensechte scenario's.
 
 Hoofdstuk 3:
 
 
 1.	Inleiding tot de geschiedenis en evolutie van geld: 
-
-?	Verken de geschiedenis en evolutie van geld. Begrijp hoe oude handelsvormen hebben geleid tot de ontwikkeling van de valuta die we vandaag de dag gebruiken.
+- Verken de geschiedenis en evolutie van geld. Begrijp hoe oude handelsvormen hebben geleid tot de ontwikkeling van de valuta die we vandaag de dag gebruiken.
 
 2.	Activiteit ruilhandel: 
-
-?	Doe mee aan een praktische ruilhandelervaring om de uitdagingen van directe ruil te begrijpen en de behoefte aan een efficiënter systeem in te zien.
+- Doe mee aan een praktische ruilhandelervaring om de uitdagingen van directe ruil te begrijpen en de behoefte aan een efficiÃ«nter systeem in te zien.
 
 3.	Evolutie van valuta: 
-
-?	Verken de overgang van oude vormen zoals schelpen en kralen naar het ontstaan van munten en papiergeld. Volg de reis van papier naar plastic en ontrafel de evolutie van valuta door de geschiedenis heen.
+- Verken de overgang van oude vormen zoals schelpen en kralen naar het ontstaan van munten en papiergeld. Volg de reis van papier naar plastic en ontrafel de evolutie van valuta door de geschiedenis heen.
 
 4.	Revolutie van digitale valuta: 
-
-?	Ontdek het huidige hoogtepunt in de evolutie van geld - digitale valuta. 
-?	Begrijp hoe het alleen in elektronische vorm bestaat, waardoor onmiddellijke, goedkope transacties wereldwijd mogelijk zijn. 
-?	Lees meer over de belangrijke rol die Bitcoin speelde bij het oplossen van de eerste uitdagingen van digitale valuta, waardoor ze klaar waren voor wereldwijd gebruik.
+- Ontdek het huidige hoogtepunt in de evolutie van geld - digitale valuta. 
+- Begrijp hoe het alleen in elektronische vorm bestaat, waardoor onmiddellijke, goedkope transacties wereldwijd mogelijk zijn. 
+- Lees meer over de belangrijke rol die Bitcoin speelde bij het oplossen van de eerste uitdagingen van digitale valuta, waardoor ze klaar waren voor wereldwijd gebruik.
 
 Hoofdstuk 4: 
 
@@ -103,7 +93,7 @@ Hoofdstuk 5:
 
 5.	CBDC's (Central Bank Digital Currencies):
 
-?	Verken het evoluerende landschap van CBDC's (Central Bank Digital Currencies) en hun potentiële impact op de toekomst van geld.
+?	Verken het evoluerende landschap van CBDC's (Central Bank Digital Currencies) en hun potentiÃ«le impact op de toekomst van geld.
 
 Hoofdstuk 6: 
 
@@ -139,7 +129,7 @@ Hoofdstuk 7.
 
 3.	Een Bitcoin-wallet opzetten:
 
-?	Leer de essentiële stappen om een Bitcoin-portemonnee te downloaden, sleutels aan te maken en back-ups te maken voor veilige transacties.
+?	Leer de essentiÃ«le stappen om een Bitcoin-portemonnee te downloaden, sleutels aan te maken en back-ups te maken voor veilige transacties.
 
 4.	Bitcoin verwerven: 
 
@@ -154,7 +144,7 @@ Hoofdstuk 8:
 
  1. Inleiding tot Lightning Network:
 
-?	Erken de evolutie van Bitcoin door middel van technologieën zoals het Lightning Network, waardoor de mogelijkheden worden vergroot.
+?	Erken de evolutie van Bitcoin door middel van technologieÃ«n zoals het Lightning Network, waardoor de mogelijkheden worden vergroot.
 
 2. Lightning Portemonnee Soorten: 
 
@@ -162,11 +152,11 @@ Hoofdstuk 8:
 
 3. Een Lightning-wallet instellen: 
 
-?	Leer de essentiële stappen om een Bitcoin Lightning Wallet op te zetten, waarmee snellere en schaalbaardere transacties mogelijk worden.
+?	Leer de essentiÃ«le stappen om een Bitcoin Lightning Wallet op te zetten, waarmee snellere en schaalbaardere transacties mogelijk worden.
 
 4. Bliksemtransacties: 
 
-?	Verken het proces van het verzenden en ontvangen van Lightning-transacties, met de nadruk op de snelheid en efficiëntie van het Lightning Network.
+?	Verken het proces van het verzenden en ontvangen van Lightning-transacties, met de nadruk op de snelheid en efficiÃ«ntie van het Lightning Network.
 
 5. Hands-on activiteit: 
 
@@ -181,7 +171,7 @@ Hoofdstuk 9:
 
 2. Publieke en private sleutels: 
 
-?	Ontdek het belang van cryptografische beveiliging in Bitcoin-transacties door middel van openbare en privésleutels, samen met een activiteit waarbij SHA 256 hashing wordt gedemonstreerd.
+?	Ontdek het belang van cryptografische beveiliging in Bitcoin-transacties door middel van openbare en privÃ©sleutels, samen met een activiteit waarbij SHA 256 hashing wordt gedemonstreerd.
 
 3. Het UTXO-model: 
 
@@ -198,11 +188,11 @@ Hoofdstuk 9:
 Hoofdstuk 10:
 
  1. Filosofische onderbouwing van Bitcoin: 
-?	Verken de basisfilosofie achter Bitcoin en begrijp hoe het is ontstaan als antwoord op economische uitdagingen, met de nadruk op de impact op financiële vrijheid en hoe het verschilt van traditionele valuta.
+?	Verken de basisfilosofie achter Bitcoin en begrijp hoe het is ontstaan als antwoord op economische uitdagingen, met de nadruk op de impact op financiÃ«le vrijheid en hoe het verschilt van traditionele valuta.
 
 2. De toekomst van Bitcoin: 
 
-?	Verdiep u in het potentiële traject en de toekomstige ontwikkelingen van Bitcoin als revolutionaire digitale valuta.
+?	Verdiep u in het potentiÃ«le traject en de toekomstige ontwikkelingen van Bitcoin als revolutionaire digitale valuta.
 
 3. Diploma Reflectie: 
 
