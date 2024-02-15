@@ -1,0 +1,464 @@
+Hoofdstuk 7: Hoe Bitcoin te gebruiken
+
+?	Hoofdstuk 7: Hoe Bitcoin te gebruiken
+?	7.0 Hoofdstuk intro over de praktische toepassing van bitcoin
+?	7.1 Bitcoin verwerven en ruilen
+¦	7.1.1 P2P: fysiek
+¦	7.1.2 P2P-uitwisselingen: online
+¦	7.1.3 Gecentraliseerde uitwisselingen
+?	7.2 Een inleiding tot bitcoin portemonnees
+¦	7.2.1 Self-custodial vs. custodial portemonnees
+¦	7.2.2 Verschillende soorten Bitcoin-wallets
+¦	7.3.3 Open bron vs. gesloten bron
+¦	Activiteit - Klassenevaluatie van bitcoin-wallets
+?	7.3 Een mobiele Bitcoin-portemonnee instellen
+¦	Activiteit - een Bitcoin-wallet instellen/herstellen
+?	7.4 Transacties ontvangen en verzenden
+¦	Activiteit - Bitcoin-transacties in actie
+?	7.5 Sparen in bitcoin
+?	7.6 DYOR - Niet vertrouwen, controleren
+
+7.0 Inleiding
+
+"Waarom zou iemand nerdgeld versus centrale-bankgeld vertrouwen? Nerds brachten jullie het internet.
+Banken brachten jullie de grote depressie."
+Andreas M. Antonopoulos 
+
+Nu we beter begrijpen wat Bitcoin is en waarvoor het dient, is het tijd om te leren hoe u het praktisch kunt gebruiken. In dit hoofdstuk begeleiden we u stap voor stap door het proces van het verkrijgen van Bitcoin, verkennen we de verschillende soorten portemonnees die beschikbaar zijn, helpen we u bij het opzetten van uw eigen Bitcoin-portemonnee en oefenen we zelfs met het verzenden en volgen van een Bitcoin-transactie op het netwerk. Het is tijd om uw kennis om te zetten in actie!
+7.1 Bitcoin verwerven en ruilen
+
+Er zijn veel manieren om bitcoin te verwerven. Je kunt bijvoorbeeld:
+
+1.	Krijg betaald in Bitcoin in ruil voor je werk en betaal voor producten en diensten van anderen met Bitcoin. (Meer hierover in hoofdstuk 8)
+2.	Bitcoin ontginnen (meer daarover in hoofdstuk 9)
+3.	Wissel uw fiatvaluta om voor Bitcoin of wissel uw Bitcoin persoonlijk om voor fiatvaluta.
+4.	Wissel je fiatvaluta in voor bitcoin of wissel je bitcoin online om voor fiatvaluta. 
+[Afbeelding uit hoofdstuk 7 Afbeeldingen map]
+ 
+
+
+Hieronder zullen we het omwisselen van fiatvaluta voor bitcoin en vice versa bespreken, zowel via persoonlijke transacties als online methoden, omdat dit de meest voorkomende opties zijn. 
+
+ 7.1.1 Persoonlijk contact met collega's
+
+Het aangaan van peer-to-peer (P2P) transacties voor het verwerven en verkopen van bitcoin houdt in dat je fiatvaluta (of een ander goed of dienst) rechtstreeks met een ander individu ruilt voor bitcoin, waardoor er geen bank of andere partij bij de transactie betrokken hoeft te zijn.
+
+Beide partijen bepalen samen het wisselbedrag en de koers. De koper levert het geld, de verkoper draagt de bitcoin over en de transactie is voltooid.
+
+Hoewel het gemakkelijker is om P2P uitwisselingen fysiek uit te voeren door de andere persoon direct in de echte wereld te ontmoeten, kun je dit dankzij het internet ook vrijwel overal doen. Bovendien volgt het omwisselen van bitcoin voor fiatvaluta een soortgelijk proces in omgekeerde richting.
+[Afbeelding uit hoofdstuk 7 Afbeeldingen map]
+ 
+
+
+7.1.2 Peer to peer online
+
+Maak kennis met P2P-platforms, waar kopers en verkopers van Bitcoin elkaar ontmoeten in cyberspace om transacties uit te voeren zonder tussenpersonen, rechtstreeks op het internet.
+
+Met zulke platforms hoef je niemand te vertrouwen met je informatie of je geld, je kunt andere peers ontmoeten en direct met hen handelen. 
+
+
+
+
+
+
+
+
+[Afbeelding uit hoofdstuk 7 Afbeeldingen map]
+ 
+
+Op de meeste P2P-platforms moeten peers een deel van het geld escrowen om er zeker van te zijn dat ze hun deel van de deal nakomen. Escrow betekent het geld op een veilige plaats zetten die het platform controleert totdat beide partijen doen wat ze beloofd hebben. Het is als een vertrouwde vriend die je spullen bewaart tot iedereen zich aan zijn woord houdt.
+
+
+7.1.3 Gecentraliseerde uitwisselingen
+
+Het gebruik van gecentraliseerde exchanges kan de makkelijkste manier zijn om bitcoin te kopen en verkopen, maar het brengt ook aanzienlijke nadelen met zich mee. Gecentraliseerde beurzen zijn bedrijven die klanten toestaan om bitcoin direct via hen te kopen en verkopen. Aan dit gemak hangt echter een prijskaartje.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Afbeelding uit hoofdstuk 7 Afbeeldingen map]
+ 
+
+
+
+Gecentraliseerde uitwisselingen en hun afwegingen 
+
+Het is belangrijk om te weten dat als u Bitcoin koopt via een centrale beurs, u vaak persoonlijke informatie moet verstrekken en uw identiteit moet verifiëren. Dit creëert een risico op identiteitsdiefstal en stelt uw persoonlijke informatie bloot aan potentiële bedreigingen. Bovendien houden centrale beurzen uw Bitcoin voor u vast, wat betekent dat u geen controle hebt over uw geld totdat u het bij hen opneemt.
+
+Om de zorgen nog groter te maken, kunnen gecentraliseerde exchanges het geld van gebruikers verduisteren of meer bitcoin uitlenen dan ze aan reserves hebben totdat ze instorten. Ja, net als banken! Maar in de Bitcoin-wereld is er geen centrale bank om frauduleuze banken te redden door meer geld bij te drukken, want je kunt niet meer bitcoin drukken!
+
+
+
+7.2 Een inleiding tot bitcoin portemonnees
+
+
+In tegenstelling tot fysiek geld bevinden bitcoins zich niet in een Bitcoin-portemonnee. Ze leven in het gedistribueerde grootboek dat het Bitcoin-netwerk voortdurend verifieert en beveiligt. Dus hoe kun je bitcoin bezitten?
+[Afbeelding uit hoofdstuk 7 Afbeeldingen map]
+ 
+
+Je bent pas eigenaar van je bitcoin als je de privésleutels bezit waarmee je transacties kunt ondertekenen en het eigendom van je bitcoin kunt overdragen van jou naar iemand anders. Dit is het versturen van bitcoin. 
+
+Laten we met dat in gedachten eens kijken naar 2 concepten die we beschrijven wanneer we de term "portemonnee" gebruiken:
+
+1) Een master private key (die lijkt op een wachtwoord) waarmee je publieke sleutels kunt genereren die je kunt delen met anderen om bitcoins te ontvangen en versturen.
+
+2) De mobiele of desktop-interface van waaruit u kunt communiceren met het Bitcoin-netwerk om uw Bitcoin-saldo op te vragen, transacties te verzenden en te ontvangen en ze naar het netwerk te zenden. Verschillende soorten portemonnees, samen met hun voordelen en nadelen, worden beschreven in de volgende sectie.
+
+
+7.2.1 Self-custodial vs. custodial portemonnees
+
+Voordat we ingaan op de details van de verschillende soorten Bitcoin-wallets en hun kenmerken, maken we een belangrijk onderscheid tussen self-custodial en custodial wallets.
+
+Deze tabel bevat de twee belangrijkste soorten bitcoin portemonnees, self-custodial en custodial. Je kunt
+Bekijk de voordelen en risico's van het gebruik van elk type portemonnee en wie in elk geval de bitcoin beheert. Self-custodial betekent dat de gebruiker de privésleutels bezit, wat betekent dat hij echt in het bezit is van zijn bitcoin, terwijl bij het tweede type een derde partij de bitcoin bezit.
+
+
+
+
+
+
+[Afbeelding van BD 2023 pagina 102]
+ 
+
+In een self-custodial portemonnee (ook wel non-custodial portemonnee genoemd) ben jij de enige met de sleutels tot
+de portemonnee en heb je volledige controle over wat erin en eruit gaat. Aan de andere kant, in een bewarende
+portemonnee, iemand anders heeft de sleutel en kan namens jou toegang krijgen tot de inhoud van de portemonnee en deze beheren.
+
+?	Self-custody is alsof je je eigen bank bent. Transacties zijn niet onderworpen aan controle of autoriteit door een overheid of bedrijf, maar het betekent ook dat je de volledige verantwoordelijkheid draagt voor het veilig houden van je bitcoin. 
+
+?	Zelfbewaarneming zorgt ervoor dat derden jouw bitcoin niet in beslag kunnen nemen zonder jouw toestemming. 
+
+?	Zelfbewaarneming geeft gemoedsrust in tijden van onzekerheid, omdat je weet dat je bitcoin veilig is.
+
+Het is belangrijk om het juiste type portemonnee te kiezen voor ieders behoeften. Soms vinden mensen het moeilijk om te onderscheiden of ze een self-custodial of een custodial portemonnee installeren. Deze tabel toont de verschillen in installatieproces.
+[Afbeelding van BD 2023 pagina 104]
+
+ 
+
+
+
+
+
+[Afbeelding van BD 2023 pagina 106]
+
+
+ "Niet je sleutels, niet je munten" is een populair gezegde onder bitcoinhouders. Het verwijst naar het idee dat als je geen directe controle hebt over de privésleutels die gekoppeld zijn aan je bitcoin portemonnee, je niet echt eigenaar bent van de munten.
+
+Wie toegang krijgt tot uw privésleutels, wordt eigenaar van uw Bitcoin. Daarom is het van het grootste belang om ze te beschermen door ze weg te houden van nieuwsgierige ogen! We zullen later in het boek een paar manieren zien waarop u dat kunt doen.
+
+In wat volgt zullen we het alleen hebben over self-custodial wallets, waarbij de gebruiker eigenaar is van zijn eigen sleutels en volledige controle heeft over zijn bitcoin.
+
+Maak u geen zorgen als het ingewikkeld wordt of als u niet alles begrijpt. Dit is een reis en u zult meer begrijpen naarmate u Bitcoin meer gaat gebruiken!
+
+
+7.2.2 Verschillende soorten Bitcoin-wallets
+
+Afhankelijk van waar uw privésleutel is gemaakt en opgeslagen, gebruiken we vaak verschillende namen om Bitcoin-portemonnees te beschrijven.
+
+Als de sleutels worden opgeslagen op je smartphone, noemen we het een "mobiele portemonnee". Als ze veilig worden opgeslagen op een speciaal apparaat, noemen we het een "hardware portemonnee". Als de sleutel alleen op papier wordt opgeslagen, dan noemen we het een "papieren portemonnee".
+
+Hier is een tabel met de verschillende namen die we aan Bitcoin-wallets geven, afhankelijk van de structuur die ze hebben:
+
+
+
+
+[Afbeelding van BD 2023 pagina 104]
+ 
+
+
+Omdat de sleutels van het ene apparaat naar het andere verplaatst kunnen worden, is de "status" van uw Bitcoin portemonnee niet definitief. Als ik bijvoorbeeld de sleutels van mijn Bitcoin-portemonnee genereer op een computer en ze later upload naar mijn telefoon, dan wordt de "desktop portemonnee" een "mobiele portemonnee".
+[Afbeelding van BD 2023 pagina 103]
+Als het aankomt op het opslaan van je bitcoin, gaat het er niet alleen om wie er controle over heeft - er zijn ook veel andere risico's waar je rekening mee moet houden. Daarom is het belangrijk om een opslagoplossing te vinden die zowel veilig als handig is. 
+
+Als je de afwegingen van de verschillende soorten portemonnees analyseert, zul je ontdekken dat er geen ideale portemonnee is die aan alle behoeften voldoet. 
+
+
+
+Bij het kiezen van een Bitcoin-portemonnee zijn er verschillende dingen waar u rekening mee moet houden: 
+
+?	Beveiliging: Zorg ervoor dat de portemonnee sterke beveiligingsmaatregelen heeft, zoals twee-factor authenticatie en een veilig wachtwoordbeleid. 
+?	Privacy: Ga na of de portemonnee je toestaat anoniem te blijven, of dat je persoonlijke informatie nodig hebt om een account aan te maken. 
+?	Gebruiksgemak: Kies een portemonnee die makkelijk te gebruiken en te navigeren is, vooral als je nieuw bent met Bitcoin. 
+?	Compatibiliteit: Controleer of de portemonnee compatibel is met je apparaat en besturingssysteem. 
+?	Vergoedingen: Vergelijk de kosten die verschillende portemonnees in rekening brengen om er zeker van te zijn dat je de beste deal krijgt. 
+?	Reputatie: Onderzoek de reputatie van de portemonnee en zijn team om er zeker van te zijn dat hij betrouwbaar is. 
+?	Controle: Sommige wallets geven je meer controle over je privésleutels, wat een veiligheidsvoordeel kan zijn. 
+
+Bedenk of je een portemonnee wilt die je volledige controle geeft, of een die gebruiksvriendelijker is maar minder controle biedt.
+
+
+7.2.3 Open bron vs. gesloten bron 
+
+Een andere belangrijke factor om in gedachten te houden bij het kiezen van een Bitcoin portemonnee is weten of de applicatie of software open-source is of niet. 
+
+Open-source code is erg belangrijk, omdat het de gemeenschap in staat stelt de code te beoordelen en de ontwikkeling van het project voort te zetten als het team ermee zou stoppen. 
+
+[Afbeelding uit hoofdstuk 7 Afbeeldingen map]
+
+ 
+
+Net zoals de code van Bitcoin volledig open is voor iedereen om te bekijken, te gebruiken en aan te passen, zou de code van de portemonnee die je gebruikt om je bitcoin in op te slaan dat ook moeten zijn.
+
+Activiteit - Klasdiscussie en evaluatie van Bitcoin-wallets op bitcoin.org
+
+Ga naar de volgende website: https://bitcoin.org/en/choose-your-wallet en gebruik je nieuwe kennis over Bitcoin-wallets om de beste te selecteren op basis van de criteria die we vandaag hebben besproken. 
+
+
+7.3 Een mobiele Bitcoin-portemonnee instellen
+
+Nu we Bitcoin-wallets en de verschillen ertussen beter begrijpen, gaan we kijken hoe we er in de praktijk een kunnen gebruiken. Voor dit voorbeeld maken we een mobiele portemonnee direct op onze smartphone. 
+
+Activiteit: Uw eerste Bitcoin-portemonnee maken
+
+Als leerlingen geen mobiele telefoon hebben, geeft de leerkracht er een te leen aan elke leerling. 
+
+ Er zijn twee opties voor deze activiteit:
+
+
+Klasoefening. Optie 1. Download een nieuwe portemonnee.
+[Afbeelding uit hoofdstuk 7 Afbeeldingen map]
+
+Hoe maak en gebruik ik een Bitcoin-portemonnee? 
+
+1. Zoek naar de app in de App Store (iOS) of Google Play Store (Android). 
+
+2. Open de app en typ je 12- of 24-woorden herstelzin in (ook wel startzin genoemd). Zorg ervoor dat je deze opschrijft en op een veilige plek bewaart! Met deze herstelzin kun je weer volledige toegang tot je geld krijgen als dat nodig is. 
+
+Onthoud dat als je deze reeks woorden verliest of vergeet, je geen toegang meer hebt tot je bitcoin als je de toegang tot je portemonnee verliest. 
+
+3. Vervolgens moet u bevestigen dat u uw herstel- of startzin daadwerkelijk hebt opgeslagen. Hiervoor moet u in dezelfde volgorde de woorden van uw startzin invoeren. 
+
+4. Als extra beveiligingsmaatregel kun je bij sommige portemonnees een veilig wachtwoord kiezen. Je privésleutel en eerste bitcoinadres worden automatisch voor je aangemaakt door je portemonnee. 
+
+
+"ORANJE IDEEËNBUS"
+Zie je openbare adres als je e-mailadres - dit wil je delen met anderen zodat ze je bitcoin kunnen sturen, of in het geval van een e-mailadres, een e-mail. 
+
+Zie je privéadres als het wachtwoord van je e-mail - dit wil je met niemand delen, omdat ze dan toegang tot je e-mail krijgen. 
+
+
+5. Gebruik je "ontvang"-adres om bitcoin te ontvangen. Maak bitcoin over naar je portemonnee. Met een self-custodial portemonnee kun je niet altijd direct bitcoin kopen met fiat, dus moet je het misschien eerst kopen en overboeken van een exchange.
+[Afbeelding van BD 2023 pagina 104]
+
+
+Klasoefening. Optie 2. Portemonnee herstellen (Beperkt in de tijd).
+
+Download een bitcoin portemonnee en voeg een aantal satoshis toe voor elke leerling. 
+
+Geef elke leerling een blad met een zaadzin om een portemonnee terug te vinden. 
+
+Leerlingen stap voor stap begeleiden: 
+[Afbeelding uit hoofdstuk 7 Afbeeldingen map]
+
+
+
+
+
+1. Wanneer je je portemonnee voor het eerst opstart, zie je drie methoden om een portemonnee aan te maken, tik op [Een bestaande portemonnee importeren] Je ziet een introductiescherm, tik op [Herstellen met herstelzin]. 
+
+2. Voer je 12/18/24-woord herstelzin één voor één in, in de juiste volgorde. 
+
+3. Raak [Restore/Restore] aan wanneer u klaar bent. 
+
+4. Je ziet een "Import Successful"-modus wanneer je portemonnee met succes is geïmporteerd.
+
+
+
+
+7.4 Transacties ontvangen en verzenden
+
+Een bitcoin transactie is een overdracht van eigendom van een bestaande bitcoin naar een nieuwe eigenaar. Maar in plaats van daadwerkelijke munten over te dragen, werken alle knooppunten in het netwerk hun lokale kopie van het openbare grootboek bij om de verandering in eigendom weer te geven.
+
+Bij het verzenden van een Bitcoin-transactie ondertekent de verzender een bericht dat alleen hij kan ondertekenen met zijn privésleutel, waarmee hij aan het netwerk doorgeeft dat het eigendom van de bitcoin verandert in het adres van de ontvanger.
+
+De bitcoin wordt nu gekoppeld aan een adres dat alleen de nieuwe eigenaar kan versturen, waardoor hij of zij eigenaar wordt van de bitcoin.
+--------------------------------- Alleen aantekeningen - Hieronder niet in werkboek 2024 ----------------------------
+Bron het eerste deel van sectie 7.4 van sectie 5.3 op pagina 91-92 tot aan het gedeelte "nu met een beetje detail".
+----------------------------- Alleen aantekeningen - Boven niet in werkboek 2024 ----------------------------------
+
+Nieuwe Bitcoin-transacties worden geïnitieerd vanuit portemonnees over de hele wereld, maar er is geen centrale betalingsverwerker. In plaats daarvan concurreren miners over de hele wereld om transacties vast te leggen in het grootboek.
+
+Laten we zeggen dat Jim Eliana 0,5 BTC schuldig is en bereid is haar terug te betalen. Beiden hebben digitale portemonnees.
+
+1. Eliana deelt haar adres met Jim.
+2. Jim gebruikt zijn portemonneesoftware om de transactie aan te maken, die Eliana's adres, het over te dragen bedrag (0,5 BTC) en een vergoeding voor de miner bevat.
+
+
+
+
+[Afbeelding van BD 2023 pagina 91]
+ 
+
+3. Na het ondertekenen van de transactie wordt deze uitgezonden naar het netwerk waar deze wordt geverifieerd door knooppunten. Knooppunten controleren de transactie op geldigheid en zorgen ervoor dat Jim genoeg geld heeft. Als dat niet het geval is, verwerpen ze de transactie onmiddellijk.
+4. Zodra de transactie is geverifieerd, wordt deze door miners toegevoegd aan de blockchain en wordt het geld overgemaakt naar Eliana's adres.
+5. Eliana kan dan haar privésleutel gebruiken om toegang te krijgen tot het overgemaakte geld in haar portemonnee.
+
+Het is belangrijk om te weten dat wanneer de transactie is voltooid, deze niet meer ongedaan kan worden gemaakt.
+
+--------------------------------- Alleen aantekeningen - Hieronder niet in werkboek 2024 ----------------------------
+Onderstaande afbeelding getiteld Hoe een Bitcoin-transactie werkt komt van pagina 95
+----------------------------- Alleen aantekeningen - Boven niet in werkboek 2024 ----------------------------------
+
+[Afbeelding van BD 2023 pagina 95]
+ 
+
+
+Bitcoin-transacties ontvangen:
+[Afbeelding uit hoofdstuk 7 Afbeeldingen map]
+
+
+ Om bitcoin te ontvangen, moet je de verzender je bitcoin portemonneeadres geven. Dit is een unieke reeks letters en cijfers die staat voor uw portemonnee en wordt gebruikt om deze te identificeren op het Bitcoin-netwerk. U kunt uw portemonneeadres vinden door in te loggen op uw Bitcoin portemonnee en te zoeken naar een optie om bitcoin te "Ontvangen" of "Storten".
+
+Je kunt dan op verschillende manieren je bitcoinadres delen met de afzender:
+
+1.	Kopieer en plak het adres: Je kunt het adres kopiëren door het te markeren en op "Kopiëren" op je toetsenbord te drukken. Plak het vervolgens in een e-mail of bericht aan de afzender. 
+
+2.	Deel een link naar uw Bitcoin-wallet: Met sommige Bitcoin-wallets kunt u een link naar uw portemonnee maken die u kunt delen met de verzender. Ze kunnen dan op de link klikken om toegang te krijgen tot uw portemonnee en de Bitcoin te versturen. 
+
+3.	Deel een QR-code: Als de afzender een smartphone heeft met een Bitcoin-portemonnee-app, kan hij de QR-code scannen om uw Bitcoin-adres te krijgen.
+
+Zodra de verzender je bitcoin-adres heeft, kan hij je de bitcoin sturen door je adres en het bedrag dat hij je wil sturen in te voeren en de transactie te starten. De bitcoin wordt dan naar je portemonnee gestuurd en is zichtbaar zodra de transactie is bevestigd op het Bitcoin-netwerk. Dit duurt meestal een paar minuten.
+
+Vervolgens gaan we kijken naar het verzenden van bitcoin-transacties.
+
+Bitcoin-transacties verzenden:
+[Afbeelding uit hoofdstuk 7 Afbeeldingen map]
+Om bitcoin te versturen heb je een paar dingen nodig: een Bitcoin portemonnee, het bitcoin adres van de ontvanger en de hoeveelheid bitcoin die je wilt versturen.
+
+1. Open uw Bitcoin-portemonnee. Er wordt een sms-code naar uw telefoonnummer gestuurd die u in het dialoogvenster moet invoeren. Als u Google 2FA hebt ingeschakeld, moet u de zescijferige code invoeren in de Google Authenticator-app.
+
+2. Navigeer naar de functie "Verzenden" of "Intrekken" en kopieer het adres van de ontvanger. 
+
+3. Voer het bitcoinadres van de ontvanger in door het in het veld "Aan" te plakken. 
+
+4. Voer het bedrag aan bitcoin in dat je wilt versturen in het veld "Bedrag". 
+
+5. Controleer het adres van de ontvanger en het te versturen bedrag. 
+
+6. Voordat je op Bevestigen en Verzenden klikt, raden we je aan om de transactiegegevens nog een keer te controleren om er zeker van te zijn dat je het juiste bedrag aan bitcoin naar het juiste portemonneeadres stuurt. 
+
+7. Bevestig de transactie en wacht tot het netwerk de transactie bevestigt. 
+
+Nu weet u hoe u een zelfbehoudende Bitcoin-portemonnee kunt evalueren, selecteren en instellen. Het versturen van bitcoin van de ene portemonnee naar de andere op het Bitcoin-netwerk wordt een "on-chain" transactie genoemd. Dit komt omdat de transactie plaatsvindt op de blockchain van het Bitcoin-netwerk. On-chain transacties zijn de veiligste manier om met bitcoin te handelen, maar de transacties zijn duurder en langzamer dan andere opties die we in hoofdstuk 8 zullen bespreken. 
+
+
+
+Activiteit - Bitcoin-transacties in actie
+
+--------------------------------- Alleen aantekeningen - Hieronder niet in werkboek 2024 ----------------------------
+Bron de activiteit en afbeeldingen uit Bitcoin-transacties in actie uit Paragraaf 5.3.1 op pagina 95)
+----------------------------- Alleen aantekeningen - Boven niet in werkboek 2024 ----------------------------------
+
+Doel: De onderliggende concepten en mechanismen van een peer-to-peer Bitcoin-transactie begrijpen.
+
+Voordat we beginnen, volgt hier een korte herinnering aan de belangrijkste spelers in een Bitcoin-transactie:
+
+1.	Afzenders en ontvangers zijn de partijen die met elkaar willen handelen. 
+2.	Knooppunten valideren transacties en slaan een volledige kopie van de blockchain op. *Light nodes laten mensen transacties valideren terwijl ze minder opslag en minder rekenkracht gebruiken. 
+3.	Miners zijn verantwoordelijk voor het toevoegen van nieuwe transacties aan de blockchain.
+
+Je rol begrijpen. Je hebt een van de volgende rollen toegewezen gekregen: verzender, ontvanger, knooppunt of mijnwerker.
+
+?	Afzenders zijn verantwoordelijk voor het maken en uitzenden van transacties.
+?	Ontvangers zijn verantwoordelijk voor het ontvangen en verifiëren van transacties.
+?	Knooppunten zijn verantwoordelijk voor het valideren van de transacties door te controleren of de transactie geldig is.
+?	Miners zijn verantwoordelijk voor het toevoegen van de transacties aan de blockchain.
+
+1. Als verzender: Maak een transactie aan. 
+
+?	Volg deze stappen om een transactie aan te maken: Neem een transactienota en schrijf het aantal munten op dat je wilt versturen en de naam of initialen van de ontvanger. Onderteken het biljet met je naam of initialen, waarmee je een privésleutel simuleert. Geef het transactiebriefje en het bijbehorende aantal munten door aan de ontvanger.
+
+Zowel nodes als ontvangers moeten transacties verifiëren:
+
+2. Als ontvanger: Jij bent verantwoordelijk voor het verifiëren van de transacties. 
+
+Volg deze stappen:
+?	Controleer het transactiebewijs om er zeker van te zijn dat het juiste aantal munten en de naam of initialen van de ontvanger zijn geschreven.
+?	Tel de ontvangen munten en vergelijk ze met het aantal munten op het briefje.
+?	Als de munten overeenkomen, vink je het goedkeuringsvakje aan. Als de munten niet overeenkomen of als je twijfels hebt, verwerp je de transactie.
+[Afbeelding van BD 2023 pagina 96-97]
+ 
+
+3. Als knooppunt: Verifieer en valideer transacties. Jij bent verantwoordelijk voor het controleren of de transactie geldig is. 
+?	Controleer of het adres van de afzender geldig is en of het adres van de ontvanger geldig is.
+?	Controleer of de verzender genoeg geld heeft om de transactie te voltooien en of de transactie geen munten dubbel uitgeeft.
+[Afbeelding van BD 2023 pagina 96-97]
+ 
+
+4. Als miner: transacties toevoegen aan de blockchain. U bent verantwoordelijk voor het toevoegen van transacties aan de blockchain. 
+Volg deze stappen: 
+?	Controleer de transacties die zijn goedgekeurd door de ontvangers en gevalideerd door de knooppunten. 
+?	Gooi de dobbelstenen en vergelijk de getallen met die van de andere miner. De miner met het kleinste getal voegt de transactie toe aan de blockchain. 
+?	Voor je tijd, energie en moeite verdien je een punt. Aan het einde van de activiteit wint de mijnwerker met de meeste punten. 
+
+**Eenmaal een transactie is toegevoegd aan de blockchain, kan deze niet meer veranderd of teruggedraaid worden.
+
+5. Houd je muntsaldo bij: Houd gedurende de activiteit je muntsaldo bij door de munten in je digitale portemonnee te tellen.
+[Afbeelding van BD 2023 pagina 96-97]
+ 
+
+6. Bespreek de geleerde concepten met je klas.
+7.5 Sparen in bitcoin
+
+Bitcoin is een manier om je geld te beschermen tegen inflatie en het te beschermen tegen controle door iemand anders, als je het goed doet. Het sparen in bitcoin is een middel om rijkdom op te slaan, te accumuleren en op te bouwen in de loop van de tijd. Zoals je inmiddels begrijpt, is het soort geld dat je kiest om te sparen een van de belangrijkste beslissingen die je kunt maken. Door verstandig te kiezen kun je een betere toekomst opbouwen voor jezelf en je gezin. 
+[Afbeelding uit hoofdstuk 7 Afbeeldingen map]
+ 
+
+
+Gemoedsrust: Als Bitcoin op de juiste manier wordt bewaard, is het de enige vorm van eigendom die niemand u kan afnemen.
+
+
+
+
+
+
+
+
+
+
+[Afbeelding uit hoofdstuk 7 Afbeeldingen map]
+ 
+
+
+7.6 Vertrouw niet, controleer
+
+Wat u ook doet in Bitcoin, onthoud dit: "Vertrouw niet, maar controleer". Er zijn geen leiders in Bitcoin. U moet nooit blindelings iemands beweringen volgen. In plaats daarvan moet u altijd vragen stellen bij wat u verteld wordt en het zelf verifiëren. Door deze mantra te volgen, beschermt u zichzelf tegen het verliezen van uw Bitcoin. Dit geldt zowel voor beweringen als "de volgende Bitcoin" als voor "investeringsmogelijkheden" of beloftes van "snelle en gemakkelijke winsten".
+
+Samengevat heeft hoofdstuk 7 u de belangrijke vaardigheden gegeven om Bitcoin in uw dagelijks leven te gebruiken. U hebt geleerd hoe u Bitcoin op verschillende manieren kunt verkrijgen en uitwisselen en hoe u Bitcoin veilig kunt bewaren met behulp van verschillende portemonnees. 
+
+Door uw mobiele Bitcoin-portemonnee in te stellen en transacties met anderen uit te voeren, hebt u nu praktische ervaring om bitcoin dagelijks vol vertrouwen te gebruiken. Door Bitcoin te begrijpen als een manier om geld te besparen en het idee van "DYOR - Don't Trust, Verify" te volgen, hebt u nu controle over uw geld.
+
+In het volgende hoofdstuk verkennen we het Lightning Network. We bekijken hoe deze innovatieve technologie de manier verandert waarop mensen wereldwijd toegang hebben tot geld en het gebruiken. Van alledaagse transacties tot meer geavanceerde toepassingen, je zult leren hoe het Lightning Network individuen, gemeenschappen en bedrijven in staat stelt om toegang te krijgen tot financiële diensten. 
+
+
+
+
+
+
+
+
+--------------------------------- Alleen aantekeningen - Hieronder niet in werkboek 2024 ----------------------------
+
+
+?	Opmerkingen voor de ontwerper:
+
+
+¦	Bronafbeeldingen getagd "[Afbeelding uit hoofdstuk 7 Afbeeldingen map]" van: https://drive.google.com/drive/folders/1P42n5nuRnyoRb-Gc-s__d5QE093LL72_?usp=sharing 
+
+----------------------------- Alleen aantekeningen - Boven niet in werkboek 2024 ----------------------------------
+

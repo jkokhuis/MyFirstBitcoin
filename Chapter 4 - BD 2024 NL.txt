@@ -1,0 +1,304 @@
+Hoofdstuk 4
+?	Hoofdstuk 4: Wat is Fiat-geld en wie controleert het? 
+?	4.0 Inleiding
+?	4.1 Korte geschiedenis van fiatgeld
+?	4.2 Het Fiat-systeem
+¦	4.2.1 Een monetair systeem per decreet
+¦	4.2.2 Fractional Reserve Banking: een systeem gevoed door schulden
+¦	Activiteit - Bankieren met fractionele reserve
+¦	4.2.3 Wie controleert het fiatsysteem en hoe profiteren zij?
+?	4.3 Digitale munteenheden van centrale banken: De toekomst van Fiat-geld
+
+
+ 
+
+Hoofdstuk 4: Wat is Fiat-geld en wie controleert het?
+
+"De geschiedenis van de mensheid is de geschiedenis van geld dat zijn waarde verliest."
+Milton Friedman
+4.0 Inleiding
+In het vorige hoofdstuk hebben we gezien hoe geld zich in de loop der tijd heeft ontwikkeld en hoe ons monetaire systeem overging van deugdelijk naar ondeugdelijk geld, waardoor de wereld waarin we nu leven is gevormd. Dit hoofdstuk gaat dieper in op hoe deze ontwikkelingen hebben geleid tot het fiatsysteem van vandaag, en hoe dat fiatsysteem werkt.
+
+Hoe ziet dit fiatsysteem eruit en hoe is het ontstaan? 
+
+Om deze vraag te beantwoorden moeten we beginnen met onze aandacht te richten op de Amerikaanse dollar, de huidige reservevaluta van de wereld, die een dominante rol speelt in de wereld van vandaag. Elk land voelt, direct of indirect, de invloed van de beslissingen die worden genomen over de Amerikaanse dollar. Om echt te begrijpen hoe het fiatsysteem in jouw land werkt, is het essentieel om de historische draden te ontwarren die het verbinden met de geboorteplaats van het fiatsysteem - de Verenigde Staten van Amerika.
+
+4.1 Korte geschiedenis van fiatgeld
+
+?--------------------------------------------- tijdlijn visueel --------------------------------------------?
+1815-1933	1913	1933	1934	1944	1971	1980
+De gouden standaard	Oprichting van de Centrale Bank genaamd "de Federal Reserve".	Uitvoeringsbevel 6102. Elke burger was verplicht om zijn goud in te leveren tegen een wisselkoers van $20,67 per ounce.	Gold Reserve Act. Rijkdom stelen van het volk door de dollar met 40% te devalueren tot $ 35 per ounce goud.	Overeenkomst van Bretton Woods: USD werd de dominante wereldreservemunt	Nixon Shock, die het fiat systeem in het leven riep door een einde te maken aan de inwisselbaarheid van Amerikaanse dollars voor goud. 	De waarde van goud steeg van $35 per ounce in 1970 naar $870 per ounce in 1980, waardoor het geld van de mensen in slechts 10 jaar 96% aan waarde verloor. 
+?--------------------------------------------- tijdlijn visueel --------------------------------------------?
+
+
+In de 19e eeuw floreerden beschavingen wereldwijd op een gezonde geldstandaard, waarbij edelmetalen als goud en zilver werden gebruikt vanwege hun schaarste, duurzaamheid en herkenbaarheid.
+[Afbeelding van BD 2023 pagina 40-57]
+
+ 
+
+
+Toen de wereldhandel groeide, werd het vervoeren van grote hoeveelheden metaal een uitdaging, wat leidde tot de opkomst van goud- en zilvermagazijnen. Deze pakhuizen sloegen de waardevolle metalen van mensen veilig op en verstrekten papieren certificaten die konden worden ingewisseld voor specifieke hoeveelheden goud of zilver. In ruil voor het storten van hun geld ontvingen mensen papieren certificaten die direct gekoppeld waren aan de exacte hoeveelheid goud of zilver die ze hadden opgeslagen. Deze directe link tussen papieren certificaten en tastbaar goederengeld markeerde de vroege stadia van wat we nu kennen als banken.
+
+[Afbeelding van BD 2023 pagina 40-57]
+
+  
+
+
+Aanvankelijk probeerden banken het geld van hun klanten veilig te stellen, maar later gingen ze riskante leenpraktijken toepassen door certificaten uit te geven voor goud dat ze niet hadden. Deze praktijk vormde een bedreiging voor bankruns als te veel klanten tegelijkertijd hun geld opeisten. 
+
+
+Om het risico aan te pakken, werkten banken samen met overheden om een systeem op te zetten dat het opnieuw uitlenen van leningen legaliseerde. In 1913 richtten ze de Federal Reserve op, een centrale bank die verantwoordelijk was voor het genereren van nieuwe papieren certificaten en het redden van banken in moeilijkheden.
+
+[Afbeelding van BD 2023 pagina 40-57]
+
+ 
+
+Wereldwijd erkenden regeringen de waarde van goud en zilver, wat leidde tot conflicten en oorlogen om de controle. In de jaren voorafgaand aan de Tweede Wereldoorlog namen leiders als Lenin, Stalin, Churchill, Roosevelt, Mussolini en Hitler goud in beslag voor strategische doeleinden.
+
+[Afbeelding van BD 2023 pagina 40-57]
+
+
+ 
+
+
+In het begin van de jaren 1930 vond er een belangrijke verandering plaats in de manier waarop geld in de Verenigde Staten werd gedekt door activa. In die tijd hadden mensen veel van hun vermogen in de vorm van goud. In 1933 vaardigde president Roosevelt echter Executive Order 6102 uit, die eiste dat elke burger zijn goud opgaf. Dit was geen vrijwillige ruil - mensen moesten hun goud inleveren en als ze weigerden, stonden hen zware straffen te wachten.
+
+De overheid stelde de wisselkoers vast op $20,67 per ounce goud. Dit betekende dat voor elke ounce goud die iemand had, hij papieren certificaten ontving die overeenkwamen met $20,67. De mensen moesten deze papieren dollars accepteren in de hoop dat ze ze op een dag weer zouden kunnen inwisselen voor goud. Mensen moesten deze papieren dollars accepteren, in de hoop dat ze ze op een dag weer zouden kunnen inwisselen voor goud.
+
+
+
+[Afbeelding van BD 2023 pagina 40-57]
+
+
+ 
+
+In 1934 stelde de Gold Reserve Act mensen in staat om hun papieren dollars weer in te wisselen voor goud. Er zat echter een addertje onder het gras. De regering devalueerde de papieren dollars opzettelijk door de wisselkoers te verhogen naar $35 per ounce goud. Deze devaluatie trof hardwerkende mensen in de lagere en middenklasse, omdat het betekende dat hun spaargeld, dat ooit meer waard was, nu minder waard was door de waardedaling van de papieren dollars.
+
+Na de Tweede Wereldoorlog werd de Amerikaanse dollar door de overeenkomst van Bretton Woods in 1944 de reservevaluta van de wereld en kon worden ingewisseld voor goud. Deze link tussen de Amerikaanse dollar en goud werd echter verbroken in 1971 toen president Nixon een einde maakte aan de inwisselbaarheid van de Amerikaanse dollar tegen goud.
+
+Dit betekende een belangrijke verschuiving, die leidde tot de invoering van een fiatgeldsysteem waarbij de waarde van de valuta niet wordt gedekt door een fysiek goed zoals goud, maar eerder door het vertrouwen van de mensen die het gebruiken. 
+
+Omdat regeringen en centrale banken het meeste goud van het volk vasthielden, steeg de waarde van goud tot $870 per ounce in 1980. 
+
+[Afbeelding van BD 2023 pagina 40-57]
+
+ 
+  
+
+
+Samenvattend is het verhaal van hoe de menselijke samenleving overging van een gezonde geldstandaard naar een ongezonde (fiat) standaard het verhaal van hoe overheden en banken edelmetalen van hun burgers afpakten. Terwijl het echte geld in de zakken van regeringen en banken belandde, bleven de mensen achter met stukjes papier waarvan de enige waarde afkomstig is van regeringen die het gebruik ervan opleggen.
+
+4.2 Het Fiat-systeem
+"Het kernprobleem van conventionele valuta is het vertrouwen dat nodig is om het te laten werken. Je moet de centrale bank kunnen vertrouwen dat ze de munt niet debiteert, maar de geschiedenis van fiatvaluta's staat bol van de schendingen van dat vertrouwen."
+Satoshi Nakamoto
+
+De mensheid is overgestapt van deugdelijk geld gecontroleerd door velen, naar ondeugdelijk geld gecontroleerd door weinigen. Maar hoe werkt dit systeem precies?
+
+4.2.1 Een monetair systeem per decreet
+
+Het Fiat-systeem wordt gekenmerkt door zijn verplichte aard, opgelegd aan mensen door middel van wetten op wettige betaalmiddelen. De term "Fiat", afkomstig uit het Latijn, betekent "per decreet" en staat voor een richtlijn van de overheid.
+
+In tegenstelling tot geld dat gedekt wordt door tastbare activa, zoals goud, heeft fiatgeld een dergelijke ondersteuning niet. In plaats daarvan wordt het gebruik ervan bij wet verplicht gesteld. Alledaagse valuta zoals dollars, euro's, ponden, yuans, peso's en andere vallen onder de categorie fiat geld.
+
+[ORANJE IDEA KADER - definitie van wettig betaalmiddel].
+Recht inzake wettige betaalmiddelen: Wettelijk betaalmiddel: Een wet die alle burgers verplicht om een bepaald soort valuta te accepteren.
+
+De waarde van fiatgeld is gebaseerd op het geloof dat het kan worden ingewisseld voor goederen en diensten en de illusie dat het zijn waarde zal behouden in de loop der tijd. Fiat-geld is vergelijkbaar met een concertkaartje; de waarde ervan ligt niet in het papieren kaartje zelf, maar in de zekerheid dat de band (de overheid en haar centrale bank) een geweldige show zal geven (economische stabiliteit zal bieden).
+
+Voordelen van Fiat-geld
+1. Gebruiksgemak: Fiat-geld is handig voor alledaagse transacties.
+2. Lagere kosten en risico's: Fiat-geld vereist geen zware beveiliging zoals goud, waardoor het goedkoper en veiliger is.
+
+Nadelen van Fiat-geld
+1. Inflatierisico's: Prijzen kunnen voortdurend stijgen, wat inflatie en historische gevallen van hyperinflatie veroorzaakt.
+2. Gecentraliseerde controle en manipulatie: Kleine groepen kunnen het systeem beïnvloeden en manipuleren, wat leidt tot censuur en inbeslagname.
+3. Tegenpartijrisico: Als de overheid voor uitdagingen komt te staan, kan de munt waarde verliezen.
+4. Potentieel voor misbruik: Het systeem kan worden misbruikt, wat leidt tot corruptie en verlies van vertrouwen.
+
+
+Grondstof vs. Fiat: Zie het verschil
+
+Onthoud: voordat fiatvaluta ontstond, sloegen regeringen munten uit een waardevol, schaars en moeilijk te verkrijgen fysiek goed, zoals goud of zilver, of drukten ze papiergeld dat kon worden ingewisseld voor een vaste hoeveelheid fysiek goed. Dit was het door grondstoffen gedekte systeem. 
+
+In het fiat systeem is het meer alsof je Monopoly geld hebt. Geld in het fiatsysteem bestaat uit stukjes papier die gedrukt worden door de centrale bank en het beleid van de overheid heeft een directe invloed op de waarde ervan. De overheid en de centrale banken zijn in feite "de bankiers van het monopolyspel" die bepalen hoe het spel werkt, wie wat krijgt en hoeveel het waard is. Met andere woorden, de overheid belooft het monetaire systeem goed te beheren.
+
+Tot slot hebben fiatvaluta's alleen waarde omdat de overheid het gebruik ervan verplicht stelt; fiatgeld heeft op zichzelf geen nut.
+
+
+Samengevat is het fiatsysteem een vertrouwensspel waarbij de waarde van ons geld afhangt van de beloften van de verantwoordelijken en mensen alleen maar kunnen hopen dat hun regering handelt in het belang van iedereen. Vervolgens zullen we zien hoe banken nieuw geld maken, wie erbij betrokken is en hoe dit de economie beïnvloedt.
+
+
+4.2.2 Fractional Reserve Banking: een systeem gevoed door schulden
+
+"Het is goed genoeg dat de mensen van de natie ons bank- en monetaire systeem niet begrijpen, want als ze dat wel deden,
+Ik denk dat er voor morgenochtend een revolutie zou zijn."
+Henry Ford
+
+Fractional Reserve Banking is een van de belangrijkste onderdelen van het fiatsysteem, waardoor banken een aanzienlijk deel van de deposito's van hun klanten kunnen uitlenen.
+
+Heb je je ooit afgevraagd waarom banken hun klanten zoveel diensten aanbieden? Hoewel het misschien lijkt alsof ze vrijgevig zijn, is het belangrijk om te onthouden dat banken bedrijven zijn en dat hun belangrijkste doel is om winst te maken. 
+
+ Maar hoe maken ze winst als ze geld weggeven door mensen geld te laten lenen?
+
+Naast het verdienen van rente op deposito's genereren banken inkomsten op andere manieren, waaronder:
+1. Rente in rekening brengen op leningen die ze verstrekken
+2. Kosten in rekening brengen voor diensten zoals het gebruik van geldautomaten en het bijhouden van een rekening
+3. Geld verdienen met beleggen, zoals het kopen en verkopen van effecten of beleggen in onroerend goed
+4. Een percentage van de leningen in reserve houden en de rest investeren of uitlenen
+5. Rente betalen op deposito's en kosten in rekening brengen op betaal- en spaarrekeningen
+
+[Afbeelding van BD 2023 pagina 40-57]
+
+
+ 
+
+Wanneer een bank een storting ontvangt, moet ze slechts een fractie houden (reserveverplichting) en kan ze het resterende deel uitlenen.
+
+Als je bijvoorbeeld $100 stort met een reserveverplichting van 10%, kan de bank $90 uitlenen en slechts $10 als reserve aanhouden. De lener stort $90 bij een andere bank, waardoor de cyclus doorgaat. Ondanks de eerste storting van $100 groeit het totale geld in de economie tot $271, schijnbaar uit het niets opdoemend - een fenomeen dat bekend staat als het multiplicatoreffect.
+
+Dit proces leidt tot een schuldgedreven monetair systeem omdat banken bij elke lening nieuw geld creëren, waardoor de totale geldhoeveelheid toeneemt. Als fractional reserve banking doorgaat, stijgt de totale schuld in de economie, wat bijdraagt aan inflatie.
+
+Het systeem is gebaseerd op een voortdurende cyclus van geldschepping door leningen, vergelijkbaar met een constante aanvoer van drugs voor een drugsverslaafde. Als banken echter meer geld uitlenen dan ze aan reserves hebben en depositohouders zich haasten om tegelijkertijd geld op te nemen, kunnen banken failliet gaan.
+
+Hier treedt de centrale bank op als geldschieter in laatste instantie, door nieuw geld te verschaffen om bankfaillissementen te voorkomen. De centrale bank doet dit door activa terug te kopen of direct geld te injecteren op de rekeningen van banken. In wezen worden banken gered van faillissementen door de constante injectie van nieuw geld door centrale banken. Dit door schulden gevoede systeem, dat systematisch gered wordt door de centrale bank, resulteert in hausses en baisses.
+
+
+Stel je voor dat je een vriend hebt die toevallig ook bankier is, laten we hem Dax noemen.
+
+Dax is gek op fietsen en hij wil jouw fiets lenen omdat hij naar veel plaatsen moet. Je geeft hem jouw fiets, en in een kronkel begint Dax dezelfde fiets aan een heleboel andere vrienden tegelijk te beloven. Met jouw ene echte fiets die je hem uitleent, slaagt Dax erin om meer denkbeeldige fietsen te maken en begint hij ze uit te lenen aan vrienden. Al zijn vrienden denken dat ze een leuk ritje kunnen maken wanneer ze maar willen. Maar hier komt de twist - er is maar één echte fiets! Alle andere zijn denkbeeldig en alleen maar beloftes.
+
+Dus wat gebeurt er... Naarmate er meer denkbeeldige fietsen in omloop zijn, is iedereen erg blij, althans in het begin. Want in het begin gebruikt niemand de fiets op hetzelfde moment. Het lijkt alsof er geen probleem is. Het voelt alsof er een overvloed aan fietsen is voor iedereen. Dus beginnen alle vrienden meer plannen te maken, na te denken over alle plaatsen waar ze met hun fietsen naartoe zullen gaan. 
+
+Hier begint de magie echter zijn charme te verliezen. Op een zonnige dag besluit iedereen dat het een perfecte dag is voor een fietstocht. Ze staan allemaal bij Dax op de stoep, opgewonden om een ritje te maken op hun denkbeeldige fietsen. Maar dan slaat de realiteit toe: er is maar één echte fiets. Teleurstelling is het gevolg en plotseling neemt de waarde van de beloofde ritjes af.
+
+In de wereld van fractional reserve lending is het een vergelijkbaar verhaal. Banken lenen meer geld uit dan ze eigenlijk hebben en daar profiteert iedereen een tijdje van. Er circuleert meer geld en het lijkt alsof er genoeg is om rond te gaan. Maar als teveel mensen tegelijkertijd hun geld proberen op te nemen, wordt de echte waarde duidelijk: er is niet genoeg om alle beloftes na te komen.
+
+Dit scenario tast het algemeen welzijn en de waarde van alle betrokkenen aan. De belofte van overvloed verandert in oplichterij. Net zoals de denkbeeldige fietsen hun gepercipieerde waarde verliezen wanneer iedereen een echt ritje wil maken, kan de waarde van geld in de economie afnemen wanneer iedereen zich haast om zijn echte deel op te eisen. Als dat gebeurt, komen mensen erachter dat het geld dat ze bij een bank hebben niet echt daar is, wat leidt tot paniek, bankruns en zelfs de ineenstorting van hele economieën. Degenen die voor deze ineenstortingen betalen zijn tot nu toe altijd dezelfde groep geweest: de lagere en middenklasse van de wereld.
+
+
+
+Kredietexpansie via fractioneel reservebankieren (commerciële banken creëren fiatvaluta en lenen dit uit aan klanten)
+?
+[Boom] 
+?
+Uitbreiding van de geldhoeveelheid (de nieuw gecreëerde valuta komt het systeem binnen en blaast de geldhoeveelheid op)
+?
+Overinvestering (klanten gebruiken de leningen om te investeren in markten, waardoor een stijging van de vraag ontstaat)
+?
+Prijsinflatie (prijzen stijgen als gevolg van nieuwe vraag)
+?
+Gebrek aan nieuwe vraag
+?
+[Buste]
+?
+Prijzen dalen (beleggers raken in paniek en beginnen hun beleggingen tegen lagere prijzen te verkopen omdat er geen echte vraag naar is)
+?
+Particulieren en bedrijven komen hun leningen niet na (omdat de waarde van hun onderpand daalt)
+?
+Banken gaan failliet (omdat ze nu activa bezitten die minder waard zijn dan de waarde van de leningen die ze hebben verstrekt)
+?
+Interventie door de centrale bank, banken redden
+?
+Banken gered met nieuwe valuta (de centrale bank koopt de activa die de banken aanhouden terug tegen een hogere prijs dan de huidige marktwaardering om ze te redden, of creëert direct nieuwe valuta en geeft die aan ze)
+?
+Herhaal (meer kredietexpansie, voorbereiding op de volgende boomfase)
+
+
+Activiteit - Bankieren met fractionele reserve
+In de volgende oefening onderzoeken we hoe fractioneel reservebankieren kan leiden tot geldontwaarding, inflatie en een daling van de koopkracht. We gebruiken een vereenvoudigd voorbeeld met zes deelnemers, waarvan er één optreedt als bank, en een reserveratio die vandaag de dag nog steeds veel gebruikt wordt: 10%.
+
+[Afbeelding van BD 2023 pagina 40-57]
+
+
+  
+1.	A heeft net $100.000 gewonnen in de loterij en stort dit op de bank (B). Met een reserveratio van 10% moet B $10.000 in de kluis houden en kan het de resterende $90.000 uitlenen.
+2.	C leent het maximale bedrag ($90.000) van B en gebruikt het om een huis van D te kopen.
+3.	D stort de $90.000 die hij van C heeft ontvangen op de bank (B). De totale deposito's op de bank zijn nu $190.000.
+4.	E vraagt een lening aan bij B, en de bank leent 90% van het nieuwe deposito uit, wat $ 81.000 is.
+5.	E gebruikt de lening van $ 81.000 om een kunstwerk te kopen van F, die het geld vervolgens op de bank (B) stort. Het totaal aan geregistreerde deposito's is nu $ 271.000.
+
+In dit scenario heeft de eerste storting van $100.000 geleid tot een totaal van $271.000 aan deposito's na circulatie door de economie.
+
+Als de reserveratio zou worden verlaagd naar 1%, zou de hoeveelheid geld die wordt gecreëerd aanzienlijk hoger zijn ($100.000 / 0,01 = $10.000.000). Hoeveel geld zou er in dit geval daadwerkelijk worden gecreëerd met die $100.000 als het geld door de economie blijft circuleren?
+
+Het is belangrijk om te weten dat de Federal Reserve (de centrale bank van de VS) vanaf 2020 de reserveverplichtingen heeft verlaagd naar nul procent om de economie te stimuleren.
+
+[Afbeelding van BD 2023 pagina 40-57]
+
+
+
+
+4.2.3 Wie controleert het fiatsysteem en hoe profiteren zij?
+Er zijn vier belangrijke spelers: de overheid, rijke particulieren, de financiële sector en de centrale bank. 
+
+Samen controleren ze het fiatsysteem.
+
+De regering:
+De overheid is als de regisseur van de fiatshow. Samen met het innen van belastingen wordt ze gefinancierd door nieuwe schuld (obligaties) uit te geven door de schatkist. Wanneer er onvoldoende vraag is naar deze obligaties, wordt de resterende schuld opgekocht door de centrale bank. Dit betekent dat ze hun activiteiten kunnen blijven uitvoeren en hun belangen kunnen blijven nastreven zonder goedkeuring van het volk. Het is alsof je een creditcard krijgt zonder dat je je zorgen hoeft te maken dat je hem meteen terugbetaalt. Dit lijkt misschien goed voor de overheid, maar het gaat ten koste van alle anderen.
+
+Vermogende individuen:
+Rijke individuen hebben veel baat bij het fiatsysteem. Met de mogelijkheid om meer schulden op te bouwen, kunnen ze investeren in activa zoals grondstoffen, onroerend goed en aandelen, waardoor ze bijna moeiteloos nieuwe rijkdom creëren.
+
+Financiële sector (banken):
+Banken en andere financiële instellingen hebben geen directe controle over het fiatsysteem, maar profiteren er wel enorm van. Vrij van verantwoordingsplicht kunnen ze de creatie van nieuwe valuta nastreven en versnellen via fractionele reserveleningen, waarbij ze profiteren van hogere inkomsten. Banken zijn vrijwel vrij van consequenties omdat ze gered worden met nieuwe fiatvaluta om te voorkomen dat het hele systeem instort.
+
+De Centrale Bank:
+De centrale bank is degene die aan de touwtjes trekt en zogenaamd de groei van de geldhoeveelheid controleert. Maar dit is de truc: de centrale bank is ook onderworpen aan de wetten van de regering en dient de belangen van de regering. Het is als een poppenspeler die gecontroleerd wordt door een andere poppenspeler. De centrale bank lijkt misschien degene die de leiding heeft, maar dient indirect de wensen van de overheid om geld uit het niets te drukken als ze het nodig hebben.
+
+Hoe ze profiteren:
+Deze groepen profiteren op verschillende manieren en creëren zo een complex web van controle. De overheid krijgt fondsen zonder onmiddellijke gevolgen, rijke individuen en banken verdienen moeiteloos geld en de centrale bank houdt de show draaiende. Ondertussen kan de rest van de bevolking de gevolgen voelen en voor uitdagingen komen te staan terwijl het systeem zich ontvouwt.
+
+Uiteindelijk creëren de poppenspelers van het fiatsysteem een show waarin enkelen veel voordeel hebben, maar velen zich afvragen of het financiële toneel waarop ze zich bevinden wel eerlijk is.
+[Afbeelding van BD 2023 pagina 40-57]
+
+
+De rol van centrale banken
+
+Centrale banken geven in stilte vorm aan hoe een economie werkt. Hun officiële taak is het waarborgen van stabiliteit, integriteit en "de boel stabiel houden", maar hun methodes onthullen een mysterieuzere kant.
+
+Centrale banken werken nauw samen met regeringen en trekken aan de touwtjes van het monetaire beleid, waarbij ze de geldhoeveelheid controleren met instrumenten als rentetarieven. In tijden van crisis drukken ze geld uit het niets en injecteren het in de economie via commerciële banken, waardoor het lijkt alsof alles in orde is.
+
+Ze houden niet alleen toezicht; centrale banken reguleren commerciële banken, bepalen de spelregels en springen bij als banken in de problemen komen (optredend als kredietverstrekkers in laatste instantie). Dit web van controle lijkt beschermend, maar maakt de economie en de banken nog afhankelijker.
+
+Begrijpen waar triljoenen dollars aan stimuleringsgeld vandaan komen en wie over de toewijzing ervan mag beslissen, is cruciaal om het bredere financiële systeem te begrijpen. Overheden gebruiken verschillende instrumenten om de geldhoeveelheid op specifieke momenten te beheren.
+
+ Centrale banken en overheden kunnen monetaire en fiscale beleidsinstrumenten gebruiken om het geld te 
+beïnvloeden.
+aanbod en de economie. De Federal Reserve van de Verenigde Staten (The Fed) gebruikt monetair beleid bijvoorbeeld om de rentetarieven aan te passen, waardoor de hoeveelheid geld in omloop wordt beïnvloed. Fiscaal beleid daarentegen gebruikt het uitgaven- en belastingbeleid om de economische activiteit te beïnvloeden.
+
+[Afbeelding van BD 2023 pagina 40-57]
+
+
+ 
+
+Wisselkoersbeleid, aanbodschokken en prijscontroles dienen als extra instrumenten om de geldhoeveelheid te reguleren en de handel en de economie te beïnvloeden. Hoewel dit beleid gericht is op het stabiliseren van prijzen en het beheersen van inflatie, leidt de interventie vaak tot boom- en bustcycli, wat uitdagingen creëert voor iedereen die de gecontroleerde valuta gebruikt.
+
+Voorbeeld: "Te groot om failliet te gaan" verwijst naar financiële instellingen die zo groot en onderling verbonden zijn dat hun faillissement catastrofale gevolgen zou hebben voor het hele financiële systeem. Tijdens de financiële crisis van 2008 werden verschillende grote banken geacht "te groot te zijn om failliet te gaan", waardoor de Amerikaanse overheid tussenbeide kwam en reddingsoperaties uitvoerde om hun ondergang te voorkomen. 
+
+Een van de meest prominente voorbeelden van een "te groot om failliet te gaan" instelling tijdens de financiële crisis was investeringsbank Lehman Brothers. Toen Lehman Brothers in september 2008 het faillissement aanvroeg, veroorzaakte dat een domino-effect van gebeurtenissen, waaronder de bijna-ondergang van verzekeringsgigant AIG en een enorme daling van de aandelenmarkt. De Amerikaanse overheid moest ingrijpen en reddingsoperaties uitvoeren voor andere grote financiële instellingen om verdere chaos te voorkomen en de economie te beschermen. 
+
+Begrijpen hoe dit beleid werkt is essentieel om de beperkingen van gecentraliseerde fiat geldsystemen te begrijpen. Totdat je het probleem begrijpt, zul je de oplossing niet herkennen. Nu we hebben besproken hoe het fiatsysteem in het verleden en het heden heeft gewerkt, zullen we bespreken hoe de toekomst van fiat er op dit moment uitziet: CBDC's (Central Bank Digital Currencies). 
+
+4.3 Digitale munteenheden van centrale banken: De toekomst van Fiat-geld
+
+Central Bank Digital Currencies (CBDC's) zijn de volgende stap in de ontwikkeling van fiatvaluta. In tegenstelling tot de combinatie van fysieke biljetten, munten en digitale betalingen, zijn CBDC's volledig digitale vormen van fiatvaluta's uitgegeven door overheden en gecontroleerd door centrale banken. 
+
+Stel je de valuta voor die je elke dag gebruikt, maar dan zonder fysieke aanwezigheid - geen munten die rinkelen in je zak of biljetten die je moet vouwen en ontvouwen. CBDC's onderscheiden zich door het hogere niveau van controle en toezicht dat ze overheden en centrale banken bieden. Met CBDC's krijgen autoriteiten een ongekend zicht op financiële transacties, waardoor het makkelijker wordt om de geldstroom te volgen en te reguleren. 
+
+Overheden en centrale banken kunnen de vorm en het aanbod van CBDC's gemakkelijk aanpassen, rentetarieven manipuleren en monetaire en fiscale beleidsinstrumenten met grotere precisie inzetten. In wezen bieden CBDC's een efficiëntere manier voor overheden om hun fiatvaluta te beïnvloeden en te beheren.
+
+Terwijl CBDC's de toekomst van fiat geld lijken, werkt het huidige monetaire systeem van de wereld al op een pure fiat standaard. Fiatvaluta's zijn niet langer gebonden aan goud, wat resulteert in een aanzienlijke uitbreiding van de geldhoeveelheid zonder enige echte beperking.
+
+Nu je een duidelijker begrip hebt van hoe het fiat systeem werkt, is het tijd om de gevolgen ervan te onderzoeken in Hoofdstuk 5.
+
+
+
+--------------------------------- Alleen aantekeningen - Hieronder niet in werkboek 2024 ----------------------------
+
+
+?	Opmerkingen voor de ontwerper:
+
+¦	Alle afbeeldingen uit hoofdstuk 3 van het oude diploma vanaf pagina 40
+
+----------------------------- Alleen aantekeningen - Boven niet in werkboek 2024 ----------------------------------
+

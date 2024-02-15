@@ -1,0 +1,215 @@
+Hoofdstuk Sleutelbegrippen:
+
+Hoofdstuk 1:
+
+Sleutelbegrippen: 
+
+1.	Cursus Introductie:
+
+?	Ontdek de cursusdoelen en verwachtingen voor het Bitcoin-diploma.
+
+2.	Reflectieve activiteit - Geld definiëren:
+
+?	Doe een reflectieoefening door vijf antwoorden te geven op belangrijke vragen over geld.
+
+3.	Discussie in de klas - Waarom we geld nodig hebben:
+
+?	Deelnemen aan een klassikale discussie over de fundamentele noodzaak van geld.
+?	Individuele perspectieven op het belang van geld delen en vergelijken.
+?	De basis leggen voor het begrijpen van de rol van geld in economische systemen.
+
+Hoofdstuk 2:
+
+Sleutelbegrippen: 
+
+ 1. Geld begrijpen:
+
+?	Ontdek de fundamentele definitie en het concept van geld.
+?	Bespreek de verschillende perspectieven binnen de klas om de veelzijdige aard van geld te begrijpen.
+
+2. Functies, eigenschappen en typen:
+
+?	Verdiep je in de functies, eigenschappen en soorten geld.
+?	Herken het belang van deze aspecten bij het definiëren en gebruiken van geld.
+
+3. Psychologie van geld:
+
+?	De psychologische aspecten van geld begrijpen, waaronder schaarste, tijdsvoorkeur en afwegingen.
+?	Doe mee aan de activiteit "Tijdsvoorkeur" om psychologische elementen te koppelen aan levensechte scenario's.
+
+Hoofdstuk 3:
+
+
+1.	Inleiding tot de geschiedenis en evolutie van geld: 
+
+?	Verken de geschiedenis en evolutie van geld. Begrijp hoe oude handelsvormen hebben geleid tot de ontwikkeling van de valuta die we vandaag de dag gebruiken.
+
+2.	Activiteit ruilhandel: 
+
+?	Doe mee aan een praktische ruilhandelervaring om de uitdagingen van directe ruil te begrijpen en de behoefte aan een efficiënter systeem in te zien.
+
+3.	Evolutie van valuta: 
+
+?	Verken de overgang van oude vormen zoals schelpen en kralen naar het ontstaan van munten en papiergeld. Volg de reis van papier naar plastic en ontrafel de evolutie van valuta door de geschiedenis heen.
+
+4.	Revolutie van digitale valuta: 
+
+?	Ontdek het huidige hoogtepunt in de evolutie van geld - digitale valuta. 
+?	Begrijp hoe het alleen in elektronische vorm bestaat, waardoor onmiddellijke, goedkope transacties wereldwijd mogelijk zijn. 
+?	Lees meer over de belangrijke rol die Bitcoin speelde bij het oplossen van de eerste uitdagingen van digitale valuta, waardoor ze klaar waren voor wereldwijd gebruik.
+
+Hoofdstuk 4: 
+
+1.	De oorsprong van Fiat Money: 
+
+?	Verken de oorsprong van fiatgeld aan de hand van een kort historisch overzicht en begrijp hoe het een dominante vorm van valuta werd.
+
+2.	Het Fiat-systeem: 
+
+?	De fundamentele aspecten van het fiatsysteem begrijpen, waaronder de aard van het systeem als een per decreet vastgesteld monetair systeem, de rol van fractioneel reservebankieren en de belangrijkste spelers die dit systeem controleren.
+
+3.	Fractionele reserve bankactiviteit: 
+
+?	Doe mee aan de Fractional Reserve Banking-activiteit om inzicht te krijgen in de werking van dit systeem, waarbij de nadruk ligt op de afhankelijkheid van schulden en de gevolgen voor de bredere economie.
+
+4.	Beheerders en begunstigden:
+
+?	Identificeer de entiteiten die het fiatsysteem controleren en onderzoek wie er profiteert van de werking ervan, waardoor een dieper inzicht ontstaat in de dynamiek die hier speelt.
+
+5.	CBDC's en de toekomst: 
+
+?	Verken het concept van CBDC's (Central Bank Digital Currencies) als een blik op de mogelijke toekomstige ontwikkelingen van fiatgeld, waarbij de voortdurende evolutie van monetaire systemen wordt erkend.
+
+
+Hoofdstuk 5: 
+
+
+
+1.	Afnemende koopkracht: 
+
+?	Het concept van monetaire inflatie en de invloed ervan op de koopkracht begrijpen. De effecten van inflatie: Een veiling om de effecten uit eerste hand te ervaren.
+
+2.	Wereldwijde schuldenlast en sociale ongelijkheid:
+
+?	De dubbele impact van de wereldwijde schuldenlast en sociale ongelijkheid verkennen. De individuele en maatschappelijke gevolgen herkennen, met de nadruk op het verlies aan koopkracht en de groeiende welvaartskloof.
+
+3.	De gevolgen van het Fiat-systeem Activiteit:
+
+?	Deelnemen aan de activiteit Gevolgen van het Fiat-systeem, om licht te werpen op de bredere gevolgen van het huidige monetaire kader.
+
+4.	De Cypherpunks en Decentralisatie: 
+
+?	Leer het verhaal van de Cypherpunks en hun motivatie om op zoek te gaan naar een gedecentraliseerde valuta. Maak onderscheid tussen gecentraliseerde en gedecentraliseerde systemen en leer meer over de geschiedenis van digitale valuta.
+
+5.	CBDC's (Central Bank Digital Currencies):
+
+?	Verken het evoluerende landschap van CBDC's (Central Bank Digital Currencies) en hun potentiële impact op de toekomst van geld.
+
+Hoofdstuk 6: 
+
+1.	Satoshi Nakamoto en de creatie van Bitcoin: 
+
+?	Verken de mysterieuze figuur Satoshi Nakamoto en het ontstaansverhaal van Bitcoin, en begrijp de oorspronkelijke beweegredenen achter de ontwikkeling ervan.
+
+2.	Hoe Bitcoin werkt:
+
+?	Een blik op de mechanismen van Bitcoin, waaronder het Consensusmechanisme van Nakamoto. De belangrijkste spelers in het Bitcoin-netwerk identificeren, zoals miners, nodes, gebruikers, ontwikkelaars en projecten, en de onderlinge samenwerkingsdynamiek begrijpen.
+
+3.	Klasactiviteit - Consensusvorming: 
+
+?	Doe mee aan de activiteit Consensus bouwen in een peer-to-peer netwerk om praktische inzichten te krijgen in hoe consensus tot stand komt binnen het Bitcoin-netwerk.
+
+4.	Bitcoin als deugdelijk digitaal geld: 
+
+?	Bestudeer de rol van Bitcoin als deugdelijk digitaal geld, bespreek de evolutie, functies en eigenschappen ervan en neem deel aan een klassikale discussie over de vraag of Bitcoin in aanmerking komt als deugdelijk geld.
+
+5.	Persoonlijke verantwoordelijkheid omarmen: 
+
+?	Het concept van persoonlijke verantwoordelijkheid benadrukken in de context van Bitcoin, door begrip te stimuleren van individuele rollen en verantwoordelijkheid binnen het gedecentraliseerde ecosysteem.
+
+Hoofdstuk 7. 
+
+1.	Peer-to-Peer-transacties: 
+
+?	Doe mee aan gedecentraliseerde transacties om de basisprincipes van Bitcoin-uitwisselingen te ervaren.
+
+2.	Bitcoin portemonnee soorten:
+
+?	Onderscheid maken tussen open source, closed source, custodial en noncustodial wallets en de rol van sleutels in beveiliging begrijpen.
+
+3.	Een Bitcoin-wallet opzetten:
+
+?	Leer de essentiële stappen om een Bitcoin-portemonnee te downloaden, sleutels aan te maken en back-ups te maken voor veilige transacties.
+
+4.	Bitcoin verwerven: 
+
+?	Verken methoden zoals peer-to-peer transacties en uitwisselingen en bespreek privacykwesties met betrekking tot KYC-processen.
+
+5.	Opslaan en DYOR:
+
+?	Begrijp sparen in Bitcoin als waardeopslag en het belang van onafhankelijk onderzoek voor weloverwogen besluitvorming.
+
+
+Hoofdstuk 8:
+
+ 1. Inleiding tot Lightning Network:
+
+?	Erken de evolutie van Bitcoin door middel van technologieën zoals het Lightning Network, waardoor de mogelijkheden worden vergroot.
+
+2. Lightning Portemonnee Soorten: 
+
+?	Onderscheid maken tussen open source, closed source, custodial en noncustodial Lightning wallets voor verschillende gebruikersvoorkeuren.
+
+3. Een Lightning-wallet instellen: 
+
+?	Leer de essentiële stappen om een Bitcoin Lightning Wallet op te zetten, waarmee snellere en schaalbaardere transacties mogelijk worden.
+
+4. Bliksemtransacties: 
+
+?	Verken het proces van het verzenden en ontvangen van Lightning-transacties, met de nadruk op de snelheid en efficiëntie van het Lightning Network.
+
+5. Hands-on activiteit: 
+
+?	Doe mee aan een praktische Lightning wallet estafette, die een dynamisch begrip van Lightning Network-transacties bevordert.
+
+
+Hoofdstuk 9:
+
+ 1. Het Bitcoin Grootboek: 
+
+?	Begrijp het concept van een gedecentraliseerd grootboek dat wordt gefaciliteerd door knooppunten en miners en dat transparantie en veiligheid garandeert.
+
+2. Publieke en private sleutels: 
+
+?	Ontdek het belang van cryptografische beveiliging in Bitcoin-transacties door middel van openbare en privésleutels, samen met een activiteit waarbij SHA 256 hashing wordt gedemonstreerd.
+
+3. Het UTXO-model: 
+
+?	Begrijp het Unspent Transaction Output-model als een fundamenteel aspect van het Bitcoin-transactieproces.
+
+4. Bitcoin Nodes en Miners: 
+
+?	Kijk naar de rol van nodes en miners in het onderhouden van het Bitcoin-netwerk, waarbij aspecten als uitgifte, schaarste, halvering en moeilijkheid aan bod komen.
+
+5. Hoe Bitcoin-transacties werken: 
+
+?	Krijg inzicht in de hele levenscyclus van een Bitcoin-transactie, waarbij de verzender, ontvanger, nodes, miners en de mempool betrokken zijn, met een speciale activiteit gericht op de mempool.
+
+Hoofdstuk 10:
+
+ 1. Filosofische onderbouwing van Bitcoin: 
+?	Verken de basisfilosofie achter Bitcoin en begrijp hoe het is ontstaan als antwoord op economische uitdagingen, met de nadruk op de impact op financiële vrijheid en hoe het verschilt van traditionele valuta.
+
+2. De toekomst van Bitcoin: 
+
+?	Verdiep u in het potentiële traject en de toekomstige ontwikkelingen van Bitcoin als revolutionaire digitale valuta.
+
+3. Diploma Reflectie: 
+
+?	Vat de belangrijkste punten van het Bitcoin-diploma samen en stimuleer studenten om na te denken over hun reis en de verworven inzichten. 
+
+?	De activiteiten omvatten het bekijken van een video over "waarom bitcoin?" en het opnieuw bekijken van de vragen van hoofdstuk 1 om de persoonlijke groei in begrip te beoordelen.
+
+
+
+

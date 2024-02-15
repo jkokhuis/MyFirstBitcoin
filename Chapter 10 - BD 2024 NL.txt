@@ -1,0 +1,144 @@
+
+Hoofdstuk 10: Waarom Bitcoin?
+
+"Bitcoin is meer dan een valuta; het is een revolutie die de macht teruggeeft aan de mensen,
+een voorproefje van vrede en vrijheid in een wereld die hongerig is naar empowerment."
+Mijn eerste Bitcoin
+
+
+In dit afsluitende hoofdstuk vatten we de lessen samen die we hebben geleerd tijdens onze reis, stellen en bespreken we een paar belangrijke vragen en verkennen we de toekomst van Bitcoin.
+
+Bitcoin is niet zomaar een technologie, het is een soort netwerk dat een nieuwe vorm van geld aandrijft waarvan de voorraad door geen enkele partij kan worden veranderd. De mensheid heeft nog nooit een vorm van geld gehad met een vaste voorraad en zonder gecentraliseerde controle. Als Bitcoin op grote schaal wordt gebruikt, is het een instrument dat een beweging voor positieve verandering ontketent die het leven van mensen over de hele wereld kan veranderen. Het vertegenwoordigt een vreedzame revolutie naar collectieve vrijheid en gelijkheid, en opent nieuwe mogelijkheden voor de mensheid door het creëren van een gedeeld wereldwijd monetair systeem.
+
+ Als gedecentraliseerd wereldwijd systeem maakt Bitcoin grotere financiële vrijheid mogelijk en verschuift de macht van enkelen naar velen. Het biedt een veilig, censuurbestendig platform voor het opslaan en overdragen van waarde, waardoor individuen controle kunnen nemen over hun vermogen en hun koopkracht kunnen beschermen. Dit is vooral belangrijk in het huidige onzekere economische klimaat, waarin het traditionele financiële systeem voor ongekende uitdagingen staat.
+
+Activiteit - Bekijk de video [QR code]
+
+Vervolgens kijken we naar een andere vorm van digitale valuta, de Central Bank Digital Currency (CBDC), en evalueren we hoe deze vergelijkbaar en verschillend zijn van Bitcoin. 
+
+10.1 Wat zijn CBDC's (Central Bank Digital Currencies) en wie controleert ze? 
+Central Bank Digital Currencies, of CBDC's, zijn digitale versies van gewoon fiatgeld. CBDC's volgen dezelfde regels als gewoon fiatgeld, waarbij een centrale autoriteit, zoals de overheid, meer aanbod kan creëren en daardoor in staat is om de koopkracht van mensen te verminderen. CBDC's geven overheden echter ook nieuwe en krachtige middelen om te controleren hoe dat geld wordt gebruikt door mensen over de hele wereld. 
+
+Volgens onderzoek van de Human Rights Foundation (HRF) zijn 119 van de 193 regeringen wereldwijd CBDC's aan het onderzoeken, testen of gebruiken.
+
+
+[RESOURCE BOX].
+Je kunt controleren of jouw land CBDC's uitprobeert op de CBDC tracker van de Human Rights Foundation op https://cbdctracker.hrf.org/home of https://cbdctracker.org/.
+
+[VOEG HIER OOK EEN AFBEELDING IN VAN "DE CBDC TRACKER WERELDKAART"].
+
+
+Wat maakt CBDC's anders dan gewoon fiatgeld, behalve dat ze digitaal zijn?
+Het is cruciaal om te begrijpen dat in tegenstelling tot gewoon fiatgeld in de vorm van papier of munten, CBDC's de overheid in staat stellen om elke transactie wereldwijd digitaal te bekijken en te controleren. Dit betekent dat de overheid bepaalde transacties kan stoppen of zelfs je hele rekening kan bevriezen als het ze niet bevalt hoe jij je geld gebruikt.
+
+Stel je bijvoorbeeld voor dat je geld wilt sturen naar een familielid in een land dat hulp nodig heeft, maar je lokale overheid weigert je transactie omdat ze het niet eens zijn met de leiders van dat land. Of stel je voor dat je naar de winkel gaat om iets te kopen wat je leuk vindt, maar dat je dat niet kunt omdat je je mening hebt gegeven op sociale media.
+
+CBDC's geven regeringen onbeperkte macht om te bepalen hoe geld over de hele wereld wordt gebruikt en beperken de mogelijkheden van individuen om geld uit te geven op basis van hun eigen keuzes. Sommigen beweren zelfs dat CBDC's machtige regeringen in staat zouden stellen om wereldwijd tiranniek beleid centraal af te dwingen - met één druk op de knop - zonder dat er menselijke handhavers aan te pas hoeven te komen. 
+
+ 
+
+Zowel CBDC's als Bitcoin zijn digitaal, maar afgezien van deze overeenkomst vertegenwoordigen ze zeer verschillende vormen van geld met verschillende filosofieën, wat leidt tot verschillende resultaten voor de mensheid.
+
+10.2 De filosofie van Bitcoin
+In hoofdstuk 6 en 9 ontdekten we dat mensen die een Node runnen helpen om de regels van Bitcoin veilig te houden. Dit is belangrijk, want voor het eerst kunnen mensen zoals wij deel uitmaken van een team dat ervoor zorgt dat de regels van ons monetaire systeem beschermd zijn. Deze regels omvatten het feit dat er slechts een beperkte hoeveelheid geld is en dat geen enkele partij deze regels kan veranderen. Het is een speciale kans voor gewone mensen om te helpen ons geld veilig en betrouwbaar te houden.
+
+De filosofie van Bitcoin gaat over empowerment, vrijheid, financiële onafhankelijkheid, kritisch denken en het concept dat we allemaal inspraak moeten hebben in de regels van het systeem dat we voor onszelf kiezen. In tegenstelling tot het fiatsysteem dat gecontroleerd wordt door machtige centrale partijen, werkt Bitcoin op een netwerk waar geen enkele partij alle controle heeft. Dit betekent dat, in tegenstelling tot andere soorten geld, zoals CBDC's, niemand u uw eigendom kan afnemen of u ervan kan weerhouden uw geld uit te geven zoals u dat wilt.
+
+In de fiatwereld betekent meer rijkdom direct meer invloed en controle. Bitcoin werkt daarentegen op een manier waarbij de macht bij de mensen ligt. Het is als een teamprestatie waarbij iedereen, hoeveel geld ze ook hebben, een cruciale rol speelt in het systeem. Stel je het voor als een collectieve kracht, waarbij je financiële omvang niet automatisch betekent dat je alles controleert. Bitcoin is gebouwd op onveranderlijke regels en in deze harmonie is het alsof de mensheid zelf de controle heeft over het systeem. Het zijn niet een paar hoge piefen die de lakens uitdelen; we werken allemaal samen, net als een veerkrachtige gemeenschap, die de koers van Bitcoin bepaalt zonder dat een enkele autoriteit zegt wat het moet doen.
+
+Terwijl in het fiatsysteem de machtigen de regels dicteren, is het in het Bitcoin-ecosysteem de collectieve kracht van individuen die het netwerk in stand houdt. Geen enkele entiteit, ongeacht haar rijkdom, kan het pad van het Bitcoin-ecosysteem dicteren. Het is een omkering van de traditionele machtsdynamiek, waarbij de veerkracht van het systeem niet ligt in de handen van enkelen, maar in de collectieve kracht van elke deelnemer.
+
+Het belangrijkste idee is om een veilig, duidelijk en eerlijk systeem te creëren waarbij iedereen in gelijke mate toegang heeft tot wereldwijd geld. 
+
+Activiteit - Discussie in de klas: Heb je het recht om over je eigen geld te beschikken?
+
+1.	Is geld een menselijke noodzaak en een mensenrecht? En waarom?
+2.	Als je je geld niet kunt uitgeven hoe je wilt, het niet kunt sturen naar wie je wilt of het niet mee kunt nemen naar een nieuw land, is het dan echt van jou? En waarom niet?
+3.	Waarom werd ruilhandel niet meer gebruikt? Wat is het probleem met het dubbele samenvallen van behoeften?
+4.	Welke historische gebeurtenis had voor jou de meeste impact? Waarom is het belangrijk om de schok van Nixon en de relevantie ervan voor iedereen vandaag te begrijpen?
+5.	Hoe verschilt geld met een vaste voorraad van traditionele fiatvaluta's?
+6.	Wanneer is Bitcoin ontstaan, door wie, met welk doel en hoe definieert dit doel het concept van een gedecentraliseerd systeem?
+7.	Wat is het verschil tussen een bewaarportemonnee en een niet-bewaarportemonnee? Wat was jouw favoriete portemonnee?
+8.	Wat begrijp je van het Lightning Network? Voor wat voor soort transacties zou je het gebruiken?
+9.	Waarom ondersteunt het runnen van je eigen Node het netwerk?
+10.	Hoe kan controle over je eigen geld je helpen in je dagelijks leven en bij het plannen van de toekomst?
+11.	Op welke manieren kan financiële vrijheid je vermogen om een positieve bijdrage te leveren aan je gemeenschap of samenleving vergroten?
+
+
+
+
+
+10.3 De voordelen van Bitcoin
+"Hyperbitcoinisatie" is een theoretische toekomst waarin Bitcoin het dominante wereldwijde monetaire systeem wordt. Dit zou betekenen dat bitcoin door iedereen, overal en voor alles wordt gebruikt - van het kopen van koffie tot het betalen van rekeningen en zelfs het kopen van een huis.
+
+De groeiende interesse in Bitcoin van individuen, bedrijven, landen en overheden benadrukt de potentiële impact van een wijdverspreide toepassing op de economie en maatschappij. Hier zijn enkele voordelen van een hyper-bitcoin wereld: 
+
+1.	Een zelfbeschikkende toekomst: Een self-sovereign toekomst is een toekomst waarin individuen wereldwijd volledige controle hebben over hun eigen digitale identiteit en bezittingen. Dit zou kunnen leiden tot meer financiële inclusie, vrijheid, privacy, veiligheid en daarmee tot meer menselijk welzijn, overvloed en algeheel geluk.
+
+2.	Een betrouwbare waardeopslag: De digitale schaarste van Bitcoin maakt het een betrouwbare opslagplaats van waarde, wat meer mensen zou kunnen aanmoedigen om het te gebruiken als een middel om te sparen voor de toekomst. 
+
+3.	Veranderingen in monetair beleid: Als Bitcoin op grote schaal gebruikt zou worden, zou dit het vermogen van overheden om de geldhoeveelheid te controleren met traditionele monetaire beleidsinstrumenten teniet kunnen doen. Een massale adoptie van Bitcoin zou de koopkracht van mensen kunnen vergroten en de maatschappij kunnen stimuleren om over te stappen op activiteiten met een lage tijdspreferentie. 
+
+4.	Verbeterde transparantie en traceerbaarheid: De fraudebestendige en onveranderlijke registratie van alle transacties op de blockchain zou de transparantie en controleerbaarheid in verschillende industrieën en sectoren kunnen vergroten. Op dit moment hebben machtige entiteiten de mogelijkheid om triljoenen dollars over de hele wereld te verplaatsen zonder duidelijk inzicht in waar deze fondsen naartoe gaan of hoe ze worden gebruikt. Door een open en controleerbare registratie van financiële transacties te bieden, zou Bitcoin ervoor kunnen zorgen dat het kapitaalverkeer beter controleerbaar en toegankelijker wordt voor het publiek.
+
+5.	Een revolutie in de markt voor geldtransfers: De markt voor geldovermakingen omvat de overdracht van geld van de ene partij naar de andere, vaak over internationale grenzen heen. Ondanks de dalende kosten blijven geldtransfers relatief duur in vergelijking met binnenlandse bankoverschrijvingen, vooral voor kleinere bedragen. Het Lightning Network biedt snelle en goedkope transacties, waardoor het zeer geschikt is voor de markt van geldtransfers en een oplossing biedt voor de hoge kosten en andere uitdagingen die gepaard gaan met geldtransfers, zoals trage vereffeningstijden en beperkingen op de kantooruren. 
+
+6.	Overvloedige energie: Als er veel betaalbare energie is, doen samenlevingen het goed en kunnen veel industrieën en gemeenschappen voldoen aan de toenemende behoefte aan stroom in huizen, bedrijven en nieuwe technologieën. Bitcoin mining stimuleert miners om overtollige energie te gebruiken die normaal gesproken verloren zou gaan uit duurzame energiebronnen zoals zonne-, wind- en waterkracht. Bitcoin-miners gebruiken deze overtollige energie om nieuwe bitcoin te creëren door middel van mijnbouwactiviteiten, het netwerk te beveiligen en overtollige energie die ze creëren terug te geven aan het energienetwerk dat de maatschappij gebruikt wanneer het nodig is. 
+
+10.4 Een krachtige toekomst
+Bitcoin is geld. 
+
+Geld helpt mensen te communiceren welke activiteiten, goederen en diensten het belangrijkst zijn in de samenleving. Zoals we in deze cursus hebben gezien, wordt geld gemanipuleerd als het wordt gecontroleerd door gecentraliseerde autoriteiten. 
+
+Een van de fouten die de mensheid door de geschiedenis heen blijft herhalen is het manipuleren van geld, wat vervolgens een negatief effect heeft op individuen, gezinnen, bedrijven, regeringen en uiteindelijk op de wereldwijde menselijke welvaart.
+
+Door de controle over geld uit handen te nemen van gecentraliseerde partijen en in plaats daarvan geld te gebruiken met een vaste voorraad die geen enkele partij kan veranderen, creëren we een andere wereld. Een wereld waarin we er niet op hoeven te vertrouwen dat de mens het juiste zal doen, maar waarin de mens niet in staat is het verkeerde te doen. 
+
+Dit is een fundamenteel andere wereld. 
+
+En jij, beste student, kunt een deel zijn van het creëren van deze wereld. Door Bitcoin te gebruiken, je eigen node te runnen en je medemens te helpen meer te leren over de toekomst van geld, stem je voor een andere wereld.
+
+
+
+
+Activiteit - Laatste klassikale discussie: Hoe is je perspectief veranderd? 
+
+ Beantwoord de 5 vragen hieronder:
+
+
+Waarom hebben we geld nodig?
+_______________________________________________________________________
+_______________________________________________________________________
+
+Wat is geld?
+_______________________________________________________________________
+_______________________________________________________________________
+
+Wie controleert het geld?
+_______________________________________________________________________
+_______________________________________________________________________
+
+Wat geeft geld zijn "waarde"?
+_______________________________________________________________________
+_______________________________________________________________________
+
+Welke vraag heb je over geld? Schrijf je vraag hier op om met de klas te delen. 
+_______________________________________________________________________
+_______________________________________________________________________
+
+
+1.	Ga terug naar de eerste activiteit in hoofdstuk 1 en vergelijk je nieuwe antwoorden met je oude antwoorden. 
+2.	Vergelijk en bespreek de oorspronkelijke antwoorden en vragen. Is er iets veranderd?
+3.	Stel jezelf deze laatste vraag: Wat is mijn volgende stap? En hoe kan ik deze nieuwe kennis gebruiken om mezelf te versterken? 
+
+
+
+"Als je klaar bent om de volgende stap te zetten, bekijk dan de volgende sectie met aanvullende bronnen, waar we de beste bronnen hebben geselecteerd voor verder leren en succes."
+
+
+
+
+
+
+
+

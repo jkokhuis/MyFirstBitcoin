@@ -1,0 +1,322 @@
+Hoofdstuk 5
+?	Hoofdstuk 5: Hoe problemen tot oplossingen leiden 
+?	5.0 Inleiding tot het probleem
+?	5.1 Afnemende koopkracht 
+¦	5.1.1 Monetaire inflatie en het effect ervan op de koopkracht
+¦	Activiteit - De effecten van inflatie: Een veilingactiviteit
+?	5.2 De wereldwijde schuldenlast en sociale ongelijkheid
+¦	5.2.1 Impact op het individu - Verlies van koopkracht
+¦	5.2.2 Impact op de samenleving - Toenemende vermogensongelijkheid
+¦	Activiteit - Gevolgen van het Fiat-systeem
+¦	5.2.3 De wereldwijde schuldenlast
+?	5.3 De Cypherpunks en de zoektocht naar een gedecentraliseerde munt
+¦	5.3.1 De Cypherpunks
+¦	5.3.2 Gecentraliseerde vs. gedecentraliseerde systemen
+¦	5.3.3 Korte geschiedenis van digitale munteenheden
+
+
+
+
+ 
+Hoofdstuk 5: Hoe problemen tot oplossingen leiden
+
+"Wie de geldhoeveelheid in ons land controleert, is de absolute baas over alle industrie en handel... als je beseft dat het hele systeem heel gemakkelijk op de een of andere manier gecontroleerd wordt door een paar machtige mannen aan de top,
+hoef je niet te horen hoe periodes van inflatie en depressie ontstaan."
+James A. Garfield, Amerikaans president
+
+5.0 Inleiding tot het probleem
+In hoofdstuk 4 heb je geleerd dat de financiële wereld steunt op een systeem dat misschien niet zo sterk is als het lijkt. Het fiat systeem, overeind gehouden door constante toevoegingen van papiergeld, lijkt meer voordeel op te leveren voor enkelen dan voor velen.
+
+Dit hoofdstuk onthult wat het fiatsysteem betekent voor gewone mensen en de samenleving. Tot slot verkennen we het verhaal van een groep individuen die de problemen opmerkten en in stilte werkten aan een oplossing die de toekomst van de menselijke samenleving zou kunnen veranderen.
+
+5.1 Afnemende koopkracht
+5.1.1 Monetaire inflatie en het effect ervan op de koopkracht
+
+Monetaire inflatie is de toename van de geldvoorraad in een economie, wat een directe invloed heeft op de gemiddelde persoon door het verminderen van hun koopkracht.
+
+De cyclus van prijsinflatie begint wanneer er meer geld in omloop is. Dit stimuleert op zijn beurt de vraag naar goederen en diensten, waardoor de prijzen uiteindelijk stijgen.
+
+Laten we ons een kleine groep vrienden voorstellen - Alex, Bob en Charlie - elk met een dollar in de hand, en er is één fles water te koop. De uitgangssituatie is eenvoudig: drie mensen met in totaal drie dollar en één fles water.
+
+Stel nu dat iemand, laten we zeggen de lokale overheid, besluit om elke vriend een extra dollar te geven. Nu hebben ze samen zes dollar. Met dit nieuwe geld hebben ze allemaal zin om dat ene flesje water te kopen.
+
+Omdat alle drie de vrienden dezelfde fles willen, beginnen ze tegen elkaar op te bieden. De toegenomen vraag, aangewakkerd door het extra geld, zorgt ervoor dat ze meer bieden dan de oorspronkelijke prijs voor de waterfles. 
+
+Uiteindelijk zorgt de biedingsstrijd ervoor dat de prijs van de waterfles stijgt. Deze situatie weerspiegelt een daling van hun koopkracht. Hoewel ze meer geld hebben, kunnen ze niet zoveel flesjes water kopen als voorheen, wat de invloed van inflatie op de waarde van hun geld laat zien.
+
+In dit voorbeeld ervoeren de vrienden een daling in hun koopkracht omdat ze een vorm van geld gebruikten die werd beïnvloed door externe factoren, zoals de extra dollars die door de overheid werden geïntroduceerd.
+
+Het gebrek aan controle over de geldvoorraad, in combinatie met de toegenomen vraag, leidde tot een stijging van de prijzen, waardoor het voor de vrienden een grotere uitdaging werd om dezelfde hoeveelheid goederen te kopen met hun extra dollars.
+
+Dit illustreert hoe de koopkracht van de vrienden werd beïnvloed door factoren waar ze geen invloed op hadden en benadrukt het belang van het begrijpen en in vraag stellen van de systemen die de waarde van ons geld beïnvloeden.
+
+Laten we nu eens kijken hoe dit in het echte leven werkt.
+
+
+Activiteit - De effecten van inflatie: Een veilingactiviteit
+
+Doel: Begrijpen wat inflatie is en hoe het de prijzen van goederen en diensten in een economie beïnvloedt.
+
+Definities:
+?	De Geldhoeveelheid: de totale hoeveelheid geld die op een bepaald moment in omloop is in een economie. Dit omvat:
+?	Fysiek geld, zoals munten en biljetten
+?	Rekeningen
+?	Spaarrekeningen
+?	Geldmarktrekeningen
+?	Kleine termijndeposito's (zoals CD's) onder $100.000,00
+?	Veiling: Een openbare verkoop waarbij goederen of eigendommen worden verkocht aan de hoogste bieder.
+
+Klasoefening. Volg de onderstaande instructies:
+1.	Je krijgt een willekeurig bedrag aan monopolygeld van de docent. Dit vertegenwoordigt de geldhoeveelheid in een samenleving.
+2.	Schrijf de totale geldhoeveelheid op in de bijgeleverde grafiek.
+3.	De leerkracht veilt een reep snoep onder de leerlingen. Om de reep te winnen, moet je het hoogste bod uitbrengen met je monopolygeld. Noteer het winnende bod naast de geldvoorraad.
+4.	De docent voegt dan een aanzienlijke hoeveelheid monopolygeld toe aan de totale geldhoeveelheid. Dit is een toename van de geldhoeveelheid in een economie. Later zul je leren hoe de geldhoeveelheid in een economie toeneemt of afneemt.
+
+
+
+
+[Afbeelding van BD 2023 pagina 40]
+ 
+5.	De leerkracht veilt een tweede reep aan de leerlingen op dezelfde manier als voorheen. Noteer het winnende bod naast de geldvoorraad op de kaart.
+6.	De leerkracht herhaalt de veiling een derde keer.
+[Afbeelding van BD 2023 pagina 43]
+ 
+Conclusie:
+1.	Hoe beïnvloedde de toename in de geldhoeveelheid de winnende biedingen op de snoeprepen?
+2.	Wat is de relatie tussen het verhogen van de geldhoeveelheid en inflatie?
+3.	Hoe is de geldhoeveelheid relevant in de echte wereld?
+4.	Wanneer nieuw geld in de economie wordt geïnjecteerd, wat denk je dat er dan gebeurt met de prijzen van goederen en diensten? Denk je dat de prijsveranderingen tijdelijk of permanent zijn, en waarom? Hoe denk je dat de prijsveranderingen de burgers in een samenleving op lange termijn beïnvloeden?
+
+5.2 De wereldwijde schuldenlast en sociale ongelijkheid
+5.2.1 Impact - individu - verlies van koopkracht
+Jaime is een student die in een klein appartement woont. Hij werkt parttime in een coffeeshop om zijn levensonderhoud en collegegeld te betalen. Zodra hij zelfstandig begon te wonen, werd Jaime goed in het beheren van zijn eigen grootboek.
+[Tekstvak]
+ 
+Een grootboek is een gedetailleerde registratie van al je monetaire transacties. Of je nu geld verdient of uitgeeft, een grootboek helpt je om alles bij te houden. 
+[Einde tekstvak].
+
+Aan het begin van 2023 begrootte hij $10.000 voor zijn levensonderhoud voor het hele jaar, inclusief huur, eten en andere benodigdheden. Dit waren zijn transacties voor januari 2023:
+
+
+
+
+
+
+
+Datum	Beschrijving	Bedrag	Type	Saldo
+01/01/2023	Beginbalans			$1,600.00
+01/01/2023	Huur voor januari	$800.00	Debet	$800.00
+01/05/2023	Boodschappen	$100.00	Debet	$700.00
+01/15/2023	Parttime salaris	$500.00	Krediet	$1,200.00
+01/20/2023	Gas voor auto	$350.00	Debet	$850.00
+01/30/2023	Studieboeken	$150.00	Debet	$700.00
+
+Dit grootboek laat zien dat Jaime's beginsaldo $1.600,00 was, waarvan hij $800,00 uitgaf (een debet) om de huur voor de maand te betalen. Vervolgens gaf hij $100,00 uit aan boodschappen en ontving hij $500,00 (een credit) als salaris voor zijn parttime baan, wat zijn saldo op $1200,00 bracht. Daarna gaf hij geld uit aan benzine en studieboeken, waardoor zijn saldo aan het einde van de maand $700,00 bedroeg.
+
+Twaalf maanden later luncht Jaime met zijn grootvader met wie hij de details van zijn budget voor 2024 deelt. Jaime merkt dat zijn budget niet meer zo ver reikt als vroeger en dat zijn kosten van levensonderhoud het afgelopen jaar aanzienlijk zijn gestegen. Terwijl Jaime zich afvraagt hoe dit kan, laat zijn grootvader hem de volgende afbeelding zien. 
+[Afbeelding van BD 2023 pagina 41]
+ 
+
+Jaime kan zijn ogen niet geloven. Dit is het moment waarop hij ontdekt dat de kosten van goederen en diensten in de loop der tijd drastisch stijgen, waardoor zijn koopkracht daalt. 
+[Afbeelding van BD 2023 pagina 44]
+Zijn grootvader vertelt: "In 1956 was ik nog maar een jonge man die begon in de wereld. Ik herinner me dat ik $380,00 per maand verdiende als fabrieksarbeider. Het lijkt misschien niet veel, maar het was een behoorlijk loon in die tijd. Ik kon zelfs genoeg geld sparen om mijn eigen huis in de buitenwijken te kopen."
+
+De grootvader vervolgt: "De kosten van dingen waren in de vorige eeuw heel anders. In 2020 kost de aankoop van 30 chocoladerepen Hershey's je bijvoorbeeld 26,14 dollar. Als we echter teruggaan in de tijd naar 1913, zouden de kosten voor dezelfde hoeveelheid Hershey's chocoladerepen slechts $1,00 zijn."
+
+Dit significante prijsverschil benadrukt de verandering in koopkracht in de loop der tijd en laat zien hoe de verandering in koopkracht door de jaren heen is verschoven als gevolg van inflatie.
+
+[Afbeelding van BD 2023 pagina 45]
+ 
+Jaime: "Wat? Dat is gek. Ik kan me niet voorstellen hoe laag mijn huur toen zou zijn geweest vergeleken met nu."
+
+Grootvader: "Nou, ja, je huur zou toen veel goedkoper zijn geweest. Ik heb nog een voorbeeld om dit te illustreren: toen kon je voor $1,00 ongeveer 10 zakken pretzels kopen. In 2020 betaalde ik $9,69 voor dezelfde hoeveelheid. Stel je eens voor hoeveel 10 zakken pretzels vandaag zouden kosten."
+
+Jaime: "Wow, dat is echt interessant, opa. Hoe heb je dit zelf ervaren toen je jonger was?"
+
+Grootvader: "Oh Jaime, alle dingen waren gewoon veel goedkoper toen ik jong was. Een brood kostte maar 0,18 dollar en een liter benzine kostte maar 0,29 dollar. Het is ongelooflijk hoeveel de kosten van levensonderhoud zijn gestegen."
+
+Na het gesprek met zijn grootvader ging Jaime naar huis om nog eens naar zijn grootboek te kijken. Hij ontdekte al snel dat hij voor 2024 $1.000,00 extra moet begroten om hetzelfde mandje goederen en diensten te kunnen kopen als in het voorgaande jaar. Dit betekent dat zijn koopkracht met $1.000,00 is afgenomen, omdat hij nu meer geld moet uitgeven om dezelfde goederen en diensten te kopen. Terwijl Jaime's salaris slechts licht stijgt, rijzen zijn kosten voor levensonderhoud elk jaar de pan uit.
+
+De volgende tabel toont de kosten van Jaime in het eerste jaar en het tweede jaar, evenals de procentuele prijsstijging:[Afbeelding van BD 2023 pagina 46]
+ 
+Om Jaime te laten overleven, zal hij meer uren per week moeten werken om $1.000,00 extra te krijgen om met dezelfde levensstandaard te kunnen leven. 
+
+Op basis van informatie van het Amerikaanse Bureau of Labor Statistics zijn de prijzen vandaag de dag ongeveer 30 keer hoger dan in 1913. Dit betekent dat een dollar vandaag slechts ongeveer 3% kan kopen van wat hij toen kon kopen. Ter illustratie: als iemand Jaime de keuze zou geven om in de tijd te reizen - neem $100,00 in 1913 of wacht tot 2023 en ontvang slechts $3,00 - dan zou dat hetzelfde zijn als kiezen tussen winkelen in het verleden of slechts een paar kleine traktaties vandaag. Het significante verschil in waarde laat zien hoeveel de koopkracht van geld in de loop der jaren is afgenomen.
+[Afbeelding uit de map met afbeeldingen van hoofdstuk 5]
+ 
+
+Als we in getallen denken, verdient Jaime veel meer dollars per jaar dan zijn grootvader ooit deed, maar de dollars die Jaime's grootvader bezat waren veel waardevoller en er kon toen veel meer mee gekocht worden.
+
+
+
+
+
+
+[Afbeelding van BD 2023 pagina 40]
+ 
+*Let op de datum: het scharniermoment vond een jaar na de geboorte van het Fiat-systeem plaats.
+
+In de wereld van vandaag ontmoedigt de aanzienlijke impact van inflatie mensen om geld te sparen. In plaats daarvan kiezen de meesten ervoor om hun geld onmiddellijk uit te geven omdat de waarde ervan snel daalt. Deze pessimistische kijk belemmert hun vermogen om plannen te maken voor de toekomst. Zoals te zien is in de grafiek hierboven, blijft de salarisgroei van de gemiddelde persoon stagneren wanneer deze wordt gecorrigeerd voor inflatie, wat betekent dat ze geen loonsverhoging krijgen in hetzelfde tempo als de dalende waarde van hun geld, ondanks het feit dat ze harder werken.
+
+Jaime's voorbeeld is er slechts één van vele. In de fiatwereld is het heel gewoon dat regeringen geld uit het niets creëren om hun eigen agenda te bevorderen, en de mensen wereldwijd voor de gevolgen laten opdraaien. De prijzen van alledaagse dingen, van brood tot huizen, van boodschappen tot vakanties, stijgen elk jaar. Terwijl de rijken profiteren van de inflatie omdat ze bezittingen hebben, zien gewone mensen hun zuurverdiende geld in waarde dalen. Het resultaat? Mensen en gezinnen over de hele wereld hebben het moeilijk door de daling van hun koopkracht.
+[Afbeelding uit de map met afbeeldingen van hoofdstuk 5]
+ 
+
+Mensen over de hele wereld hebben meer banen en maken meer uren, alleen maar om dezelfde levensstandaard te behouden. Het is alsof je in een tredmolen zit, steeds sneller gaat maar nooit echt vooruit komt. Het fiatsysteem geeft mensen het gevoel dat ze in een eeuwigdurende race tegen stijgende prijzen zitten.
+
+Velen wenden zich in hun strijd om gelijke tred te houden met de stijgende kosten tot schulden, wat is als een kleine pleister gebruiken op een zeer diepe wond. Mensen gaan leningen aan of nemen impulsieve beslissingen om maar rond te kunnen komen. Snel geld wordt een noodzaak en mensen komen terecht in een cyclus waarin overleven vandaag voorrang krijgt op plannen voor morgen.
+
+Het fiat systeem, met het constant drukken van geld, beïnvloedt de psychologie van de mensheid. Het brengt een hoge tijdsrefferentie met zich mee - een focus op kortetermijnwinsten boven langetermijnplanning. Net als een snelle oplossing voor onmiddellijke verlichting, hebben individuen in de fiatwereld de neiging om voorrang te geven aan kortetermijnvoordelen. Het is een overlevingsinstinct dat een cyclus van afhankelijkheid creëert waarin individuen elk middel zoeken om snel geld te verkrijgen, zelfs als dat op de lange termijn niet duurzaam of werkbaar is.
+
+In wezen schetst de impact van het fiatsysteem een uitdagend beeld voor individuen wereldwijd. In het fiatsysteem stijgen de prijzen, stagneren de inkomens en wordt de strijd om te overleven een dagelijkse strijd. Terwijl bepaalde groepen rijker worden, blijven de meeste individuen wereldwijd afhankelijk van een systeem dat hen steeds armer maakt.
+
+
+5.2.2 Impact - Maatschappelijk - toenemende ongelijkheid in rijkdom
+
+In een samenleving die gebaseerd is op gezond geld, is de financiële besluitvorming van een regering gebonden aan de goedkeuring van het volk. In het fiatsysteem kunnen overheden zich echter ongelimiteerd in de schulden steken, over de ruggen van hun burgers.
+
+De macht om naar believen geld bij te drukken leidt vaak tot politieke centralisatie. Het fiatsysteem stelt regeringen in staat om enorme schulden op te bouwen en beslissingen te nemen die henzelf ten goede komen in plaats van de meerderheid. Grootmachten, zoals de Verenigde Staten, krijgen door dit fenomeen een concurrentievoordeel. Ze kunnen eindeloos geld drukken om hun plannen te financieren, waaronder oorlogen. Dit vermogen stelt deze dominante naties in staat om controle uit te oefenen, invloed uit te oefenen en geopolitieke conflicten aan te gaan, waardoor een wereldwijde machtsongelijkheid ontstaat. Oorlogen en grote acties om anderen te controleren worden financieel haalbaar voor supermachten, terwijl anderen zonder dezelfde financiële flexibiliteit te maken krijgen met beperkingen.
+
+Onder het fiatsysteem verdeelt rijkdom zich niet gelijkmatig. In plaats daarvan concentreert het zich in de handen van een selecte groep. Dit fenomeen lijkt op het spelen van een spelletje Monopoly waarbij een handjevol spelers bijna alle hotels en eigendommen bezit terwijl de meerderheid worstelt om het hoofd boven water te houden. Het fiatsysteem is voor bepaalde groepen een middel geworden om rijkdom te concentreren. Door het drukken van geld kunnen regeringen en hun nauwe samenwerking met centrale banken meer geld in de economie injecteren en de ontvangers van dit nieuw gecreëerde geld zijn degenen met bestaande rijkdom en status - machtige entiteiten en individuen. Deze groepen profiteren van het vers gedrukte geld voordat de negatieve effecten, zoals een daling van de koopkracht, zich beginnen te manifesteren in de economie.
+
+Ongelijkheid in rijkdom gaat niet alleen over de haves en have-nots; het gaat over het onderdrukken van economische mobiliteit. Degenen met een minder bevoorrechte achtergrond vinden het steeds moeilijker om de economische ladder te beklimmen, vergelijkbaar met het starten van een race met een zware rugzak. De groeiende kloof tussen arm en rijk veroorzaakt problemen voor iedereen, waarbij de rijken het beleid in hun voordeel bepalen. Dit maakt het moeilijker voor gewone mensen, wat leidt tot sociale onrust, een gebrek aan vertrouwen in instellingen en gemeenschappen die uit elkaar vallen, vergelijkbaar met een kaartenhuis. De instabiliteit van het fiatsysteem uit zich in economische onzekerheid, politieke onrust en wereldwijde gevolgen wanneer de westerse wereld te maken krijgt met een economische neergang.
+[Afbeelding uit de map met afbeeldingen van hoofdstuk 5]
+ 
+
+Dit is een wereldwijd fenomeen dat zowel samenlevingen in ontwikkelde landen als in ontwikkelingslanden treft. De rijken, die vaak op transnationale schaal opereren, gebruiken het mondiale financiële systeem in hun voordeel, waardoor de kloof tussen de hogere en lagere klassen nog groter wordt.
+
+Onder het fiatsysteem is schulden maken de norm geworden voor de mensheid. Overheden, instellingen, bedrijven en individuen over de hele wereld worden ondergedompeld in een zee van schulden. De psychologische verschuiving naar het beschouwen van schulden als acceptabel heeft zijn wortels in het ontwerp van het fiatsysteem. De afgelopen decennia werd het voor entiteiten steeds makkelijker om grote schulden aan te gaan en voor gewone mensen wordt het vaak een noodzaak vanwege de stijgende prijzen en kosten van levensonderhoud.
+
+Consumentisme, een constante drang om te kopen en te consumeren, leidt ertoe dat mensen meer kopen dan ze nodig hebben, wat resulteert in overconsumptie en verspilling. Hoewel het misschien lijkt alsof je eindeloos aan het winkelen bent, gaan de echte kosten verder dan het prijskaartje en hebben ze invloed op de psychologie en het welzijn van mensen.
+
+Het wordt duidelijk dat het fiatsysteem niet slechts een economisch mechanisme is. Het is eerder een systeem dat de menselijke samenleving als geheel vormgeeft. Van de concentratie van macht tot mondiale dynamiek, verschillen in rijkdom en maatschappelijke normen, het fiat systeem beïnvloedt direct hoe naties functioneren en hoe gewone burgers hun leven leiden.
+
+Activiteit: Socratische groepsdiscussie
+1.	Zijn er nog andere gevolgen die individuen en een samenleving als geheel ervaren als gevolg van het fiatsysteem? 
+2.	Wat zijn de gevolgen van het fiatsysteem in jouw land? Wat is er in de loop van de geschiedenis gebeurd en hoe heeft dat de mensen in jouw land beïnvloed?
+a.	Persoonlijke voorbeelden-interactieve sessie
+
+
+5.2.4 De wereldwijde schuldenlast
+Als gevolg van het fiatsysteem zitten overheden over de hele wereld vast in een enorm web van schulden, gevangen in wat "de wereldwijde schuldenspiraal" wordt genoemd. Stel je een scenario voor waarbij je meer geld leent dan je ooit hoopt terug te betalen. Dit gebeurt wereldwijd op grote schaal. Regeringen, die verdrinken in schulden, zijn verstrikt geraakt in een gevaarlijk spel van meer schulden opbouwen dan ze ooit kunnen terugbetalen. Het is een verhaal van roekeloos uitgeven, lenen en een gebrek aan vooruitziendheid dat landen over de hele wereld naar de rand van de financiële afgrond duwt.
+[Afbeelding uit de map met afbeeldingen van hoofdstuk 5]
+ 
+
+Vanaf vandaag heeft de Amerikaanse federale overheid maar liefst tien biljoen dollar aan nieuwe schulden toegevoegd sinds 2019. De totale schuld is omhooggeschoten van ongeveer 23 biljoen dollar in het vierde kwartaal van 2019 naar een astronomische 34 biljoen dollar nu. Het tempo waarin regeringen wereldwijd nieuwe schulden maken, neemt niet af; sterker nog, het versnelt. Het jaar 2023 wordt naar verwachting het jaar met de meeste schulden sinds de turbulente tijden van 2021, gekenmerkt door "de Covid Pandemie".
+
+
+
+[Afbeelding van BD 2023 pagina 54]
+  
+
+Dus wat betekent dit voor de individuen en samenlevingen die al te maken hebben met de gevolgen van het fiat systeem? De schuldenspiraal waarin ze verzeild zijn geraakt is als een sneeuwbal die van een heuvel naar beneden rolt - hij blijft maar groter worden en we weten niet zeker hoe we hem kunnen stoppen. De eerder genoemde gevolgen, van ongelijkheid in rijkdom tot maatschappelijke onrust, zullen niet verdwijnen. In plaats daarvan heeft de wereldwijde schuldenlast een 'point of no return' bereikt, wat ervoor zorgt dat het alleen maar erger wordt.
+[Afbeelding van BD 2023 pagina 32]
+ 
+¦	[Afbeelding uit de map met afbeeldingen van hoofdstuk 5]
+ 
+
+5.3 De Cypherpunks en de zoektocht naar een gedecentraliseerde munt 
+
+Door de geschiedenis heen zagen we een geleidelijke inname van geld door banken en overheden, wat leidde tot het fiatsysteem dat we nu kennen en de desastreuze gevolgen daarvan voor de samenleving. Maar door de opkomst van nieuwe technologieën zoals encryptie en het internet konden nieuwe ideeën ontstaan, zoals onafhankelijk digitaal geld, vrij van overheidsinterventie, open en toegankelijk voor iedereen. Laten we eens duiken in de reis van degenen die deze revolutionaire beweging leiden: de cypherpunks.
+
+5.3.1 De Cypherpunks
+
+"De computer kan worden gebruikt als hulpmiddel om mensen te bevrijden en te beschermen, in plaats van ze te controleren."
+Hal Finney
+
+De tweede helft van de 20e eeuw zag de opkomst van verschillende technologische doorbraken zoals de computer en het internet, die de weg vrijmaakten voor een nieuw digitaal tijdperk.
+
+Een groep mensen ontdekte dat deze enorme innovaties de manier waarop de maatschappij functioneert snel zouden veranderen. Ze voorzagen zowel het potentieel als het gevaar van de personal computer, ofwel als een instrument dat vrijheid mogelijk maakt en het individu sterker maakt, ofwel als een instrument voor volledige controle en bewaking.
+
+Deze mensen werden de Cypherpunks genoemd. Ze ontstonden als een losjes verbonden groep activisten, cryptografen, programmeurs en privacy-activisten die een gemeenschappelijke visie deelden: het streven naar privacy, veiligheid en een gedecentraliseerde digitale toekomst. De term "Cypherpunk" is een samenvoeging van "cypher", dat verwijst naar cryptografische code, en "punk", dat staat voor het tegenculturele ethos van rebellie.
+
+De Cypherpunks geloofden in de kracht van cryptografie om individuele vrijheden te beschermen. Hun doelen waren onder andere het ontwikkelen van gereedschappen om online communicatie te beveiligen, internetactiviteiten te anonimiseren en digitale munteenheden in te stellen die buiten de controle van gecentraliseerde autoriteiten konden opereren.
+
+De Cypherpunks begrepen de gevolgen van het fiat systeem en zagen de dreiging van een "Orwelliaanse toekomst". Ze geloofden dat ze ervoor moesten zorgen dat de personal computer en het internet een goede zaak voor de mensheid zouden worden, in plaats van hulpmiddelen die de controle van de staat over de mensen konden verergeren.
+
+ORANJE IDEEËNBUS - DE DEFINITIE VAN EEN ORWELLIAANSE TOEKOMST:
+
+Een Orwelliaanse toekomst verwijst naar een dystopische visie geïnspireerd door de werken van George Orwell. De term wordt geassocieerd met een nachtmerrieachtige en totalitaire samenleving die wordt gekenmerkt door onderdrukkende overheidscontrole, uitgebreide bewaking, propaganda en de manipulatie van informatie. De term "Orwelliaans" beschrijft vaak een scenario waarin de vrijheden en individuele autonomie van burgers ernstig worden beperkt, afwijkende meningen worden onderdrukt en de werkelijkheid wordt vervormd om de belangen van een machtig en autoritair regime te dienen. Het concept is vernoemd naar George Orwell, die in zijn geschriften waarschuwde voor de potentiële gevaren van ongecontroleerde overheidsmacht en de uitholling van fundamentele mensenrechten.
+
+Sleutelfiguren binnen de Cypherpunk-beweging waren grootheden als Eric Hughes, Timothy C. May en John Gilmore. In 1992 schreef Eric Hughes "A Cypherpunk Manifesto", waarin hij de principes van de groep uiteenzette. Het manifest benadrukte het belang van privacy, encryptie en de noodzaak voor individuen om controle te krijgen over hun digitale identiteiten.
+
+[QR CODE - Video "Cypherpunks schrijven code] 
+
+Een van de meest opmerkelijke uitvindingen van de Cypherpunks was het maken van cryptografische gereedschappen en protocollen. In 1991 introduceerde Phil Zimmermann PGP (Pretty Good Privacy), een e-mailversleutelingssoftware die een vlaggenschipproject werd. PGP stelde gebruikers in staat om versleutelde berichten over het internet te versturen zonder dat iemand anders dan de beoogde ontvanger ze kon ontsleutelen. Daarvoor kon elk bericht dat over het internet verstuurd werd onderschept en gelezen worden door anderen, zoals overheden.
+
+De Cypherpunks dachten dat de doorbraak van encryptie, samen met het internet en de computer, een solide basis vormde voor het creëren van gedecentraliseerde netwerken in de digitale ruimte, waardoor individuen privé en zonder tussenkomst van een centrale autoriteit op het internet konden communiceren en transacties konden uitvoeren.
+
+De Cypherpunks waren op de goede weg naar een betere toekomst voor de mensheid, waar technologie een hulpmiddel zou zijn om vrijheid te maximaliseren in plaats van controle. Het enige wat nog ontbrak was een gedecentraliseerd netwerk en een gedecentraliseerde digitale valuta.
+
+5.3.2 Gecentraliseerde vs. gedecentraliseerde systemen
+Gecentraliseerde systemen: Eén heerser, veel problemen
+In een gecentraliseerd systeem draait alles om één hoofdautoriteit, zoals een hoog gebouw in een stad. Deze autoriteit bepaalt hoe het hele systeem werkt. Denk als voorbeeld aan traditionele banken, waar een kleine groep alle beslissingen neemt.
+?	Voorbeeld uit de echte wereld: In 2022, tijdens vreedzame protesten in Canada, bevroren banken de rekeningen van demonstranten, wat liet zien hoe de centrale autoriteit kon ingrijpen en de financiële toegang kon controleren.
+[Afbeelding van BD 2023 pagina 64]
+
+  
+
+
+Problemen met gecentraliseerde systemen:
+?	Centraal punt van mislukking: Als er iets misgaat met de centrale autoriteit, kan het hele systeem instorten.
+?	Controle: Een kleine groep aan de top heeft veel controle en macht en neemt vaak beslissingen waar zij meer baat bij hebben dan alle anderen.
+?	Inefficiëntie en tussenpersonen: Net als verkeersopstoppingen in een stad kunnen gecentraliseerde systemen traag en duur worden door onnodige tussenpersonen.
+?	Gebrek aan autonomie: Mensen kunnen misschien niet hun eigen financiële keuzes maken; alles wordt bepaald door de hoogste autoriteit.
+?	Censuur en beperking: Net zoals sommige delen van een stad kunnen worden afgesloten, kunnen gecentraliseerde systemen de toegang tot bepaalde financiële bronnen blokkeren of beperken.
+?	Uitdagingen bij schaalvergroting: Wanneer meer mensen financiële diensten nodig hebben, kunnen gecentraliseerde systemen moeite hebben om bij te blijven.
+?	Veiligheidsrisico's: Problemen met de centrale autoriteit kunnen het hele systeem in gevaar brengen voor cyberaanvallen.
+?	Gebrek aan transparantie en vertrouwen: De innerlijke werking van gecentraliseerde systemen kan moeilijk te begrijpen zijn, waardoor het moeilijk is voor mensen om ze te vertrouwen.
+
+Decentrale systemen: Macht aan de mensen
+Zie een gedecentraliseerd systeem als een groot bos. Elke boom vertegenwoordigt een apart deel en het hele bos vertegenwoordigt het hele systeem. In tegenstelling tot een stad met één centraal punt, is een gedecentraliseerd systeem meer als een veerkrachtig bos dat door kan gaan, zelfs als één deel problemen ondervindt.
+?	Voorbeeld uit de echte wereld: Het Tor Netwerk en de Tor Browser creëren een gedecentraliseerd systeem waarbij mensen anoniem op het internet kunnen blijven en het netwerk moeilijk te stoppen of te censureren is.
+[Afbeelding van BD 2023 pagina 67]
+
+ 
+Voordelen van decentrale systemen:
+?	Verbeterde veerkracht en betrouwbaarheid: Geen enkel punt van falen maakt het systeem sterk, zelfs als er enkele problemen zijn.
+?	Verhoogde veiligheid: Met de juiste encryptie/bescherming is een gedecentraliseerd systeem beter bestand tegen controle door een enkele autoriteit.
+?	Grotere soevereiniteit: Mensen krijgen meer controle over hun geld, gegevens en beslissingen.
+?	Verbeterde transparantie: Iedereen ziet dezelfde informatie, waardoor het systeem betrouwbaarder wordt.
+?	Toestemmingsvrij en grenzeloos karakter: Iedereen kan meedoen, waardoor het een inclusief financieel systeem is.
+?	Gelijke kansen: Iedereen heeft een eerlijke kans om bij te dragen en inspraak te hebben.
+?	Verbeterde privacy: gegevens worden verdeeld over meerdere deelnemers en zijn meestal pseudoniem, waardoor gedecentraliseerde systemen meer privé zijn.
+
+Hoewel decentrale systemen veel voordelen hebben, kan het samen nemen van beslissingen een beetje lastig zijn. Het vereist dat iedereen samenwerkt.
+
+De manier waarop macht wordt uitgeoefend veranderen
+In de wereld van gecentraliseerde en gedecentraliseerde systemen gaat het erom wie de macht heeft. Gecentraliseerde systemen geven macht aan een kleine groep, terwijl gedecentraliseerde systemen de macht verspreiden en iedereen inspraak geven. Deze verschuiving in macht betekent een eerlijkere en meer democratische financiële toekomst, waarin veel mensen invloed hebben op het systeem dat hun leven vormgeeft.
+
+5.3.3 Korte geschiedenis van digitale munteenheden
+Een van de belangrijkste concepten die de Cypherpunks bespraken was digitaal geld. De Cypherpunks realiseerden zich dat staat en geld gescheiden moesten worden om er zeker van te zijn dat de toekomst het algemeen belang ten goede zou komen. Het baanbrekende werk van David Chaum aan cryptografische protocollen voor veilige en private transacties legde de basis. Het nadeel was dat dit protocol een centrale autoriteit nodig had om efficiënt te kunnen functioneren, wat zorgen opriep over een single point of failure en mogelijke censuur.
+
+In de jaren die volgden, probeerden meerdere Cypherpunks elkaars ideeën te herhalen om een werkbare oplossing te creëren voor een digitale munteenheid die vrij was van overheidscontrole. De tabel hieronder beschrijft een aantal belangrijke innovaties die de Cypherpunks ontwikkelden in hun zoektocht naar digitaal geld:
+
+Naam en Datum 	Beschrijving	Beperkingen
+E-Cash (1982)	E-Cash van David Chaum was een vroeg concept van elektronisch geld, gericht op privacy door middel van cryptografische technieken.	Vereiste een centrale autoriteit, wat zorgen oproept over een single point of failure en mogelijke censuur.
+DigiCash (1990)	DigiCash, opgericht door David Chaum, wilde een digitale vorm van valuta creëren met de nadruk op privacy.	Het gecentraliseerde model droeg bij aan het uiteindelijke faillissement in 1998.
+B-Geld (1996)	B-Money, voorgesteld door Wei Dai, was een theoretisch voorstel voor een anoniem, gedistribueerd elektronisch geldsysteem.	Nooit geïmplementeerd, bleef een conceptueel idee. Ontbrak een praktische uitvoering.
+HashCash (1998)	HashCash, ontwikkeld door Adam Back, was een proof-of-work systeem ontworpen om e-mailspam en denial-of-service aanvallen te beperken.	Ging niet direct in op het probleem van dubbele uitgaven in verband met digitale valuta.
+Bit Goud (1998)	Bit Gold, voorgesteld door Nick Szabo, beschreef een gedecentraliseerd digitaal valutasysteem met elementen van proof-of-work.	Nooit geïmplementeerd, bleef een theoretisch concept.
+e- Gold (2004)	e-Gold was een gecentraliseerde digitale valuta ondersteund door fysiek goud, waarmee gebruikers e-Gold eenheden konden kopen en overdragen.	Juridische problemen leidden tot de sluiting in 2009 en benadrukten de uitdagingen die geassocieerd worden met gecentraliseerde digitale valuta.
+
+Ondanks de vele pogingen die de Cypherpunks gedurende tientallen jaren hebben ondernomen om een digitale valuta te creëren die vrij is van de controle van een groep of overheid, stuitten hun inspanningen op praktische uitdagingen en konden ze niet volledig worden verwezenlijkt in de echte wereld. De Cypherpunks kwamen tot de conclusie dat het niet zo eenvoudig was om een digitale vorm van contant geld te maken die veilig en schaalbaar was en de potentie had om op grote schaal gebruikt te worden.
+
+Het verhaal neemt echter een wending wanneer een individu, lerend van de lessen van de Cypherpunks, het concept van een gedecentraliseerde digitale valuta naar nieuwe hoogten tilt. In de volgende hoofdstukken zullen we onderzoeken hoe de bijdrage van deze persoon, voortbouwend op 40 jaar eerder werk, uiteindelijk leidde tot de creatie van een functioneel systeem.
+
+
+
+"Het kernprobleem van conventionele valuta is het vertrouwen dat nodig is om het te laten werken. De centrale bank moet worden vertrouwd om de munt niet te devalueren, maar de geschiedenis van fiatvaluta's staat bol van de schendingen van dat vertrouwen." - Satoshi Nakamoto
+
+
+
+--------------------------------- Alleen aantekeningen - Hieronder niet in werkboek 2024 ----------------------------
+
+
+?	Opmerkingen voor de ontwerper:
+
+¦	Bronafbeeldingen getagd "[Afbeelding uit hoofdstuk 5 Afbeeldingen map]" van: https://drive.google.com/drive/folders/17pchLC2QFJ_h34tQU_Fd87mt1_ICEMWi?usp=sharing
+
+----------------------------- Alleen aantekeningen - Boven niet in werkboek 2024 ----------------------------------
+
+

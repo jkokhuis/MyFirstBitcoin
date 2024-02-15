@@ -1,0 +1,249 @@
+Hoofdstuk 6
+1.	Hoofdstuk 6: Een inleiding tot Bitcoin 
+1.	6.0 Satoshi Nakamoto en de creatie van Bitcoin
+2.	6.1 Hoe werkt Bitcoin?
+1.	6.1.1 Het Consensusmechanisme van Nakamoto
+2.	6.1.2 De spelers van het spel
+3.	Activiteit - Consensusvorming in een peer-to-peer netwerk
+3.	6.2 Bitcoin als deugdelijk digitaal geld
+1.	6.2.1 Inleiding
+2.	6.2.2 Kenmerken van Bitcoin
+3.	Activiteit: Klasdiscussie - Is Bitcoin deugdelijk geld? 
+4.	6.2.3 Persoonlijke verantwoordelijkheid omarmen 
+
+
+
+--------------------------------- Alleen aantekeningen - Hieronder niet in werkboek 2024 ----------------------------
+
+
+1.	Opmerkingen voor de ontwerper:
+1.	Afbeelding van geldvergelijkingstabel in Activiteit: Klasdiscussie - Is Bitcoin Gezond Geld? uit Hoofdstuk 2, op pagina 21
+2.	Als het niet van hoofdstuk 2 is, vind je de afbeeldingen in hoofdstuk 6 hier: https://drive.google.com/drive/folders/1PxG4biMVIdpKIJZDaEc8jpOkq-ULgeaB?usp=drive_link 
+
+
+----------------------------- Alleen aantekeningen - Boven niet in werkboek 2024 ---------------------------------- 
+Hoofdstuk 6: Een inleiding tot Bitcoin
+
+"Veel mensen doen e-currency automatisch af als een verloren zaak vanwege alle bedrijven die sinds de jaren negentig failliet zijn gegaan. Ik hoop dat het duidelijk is dat het alleen de centraal gecontroleerde aard was...
+van die systemen die hen verdoemd hebben. Ik denk dat dit de eerste keer is dat we proberen
+een gedecentraliseerd, niet op vertrouwen gebaseerd systeem."
+Satoshi Nakamoto
+
+ 
+
+6.0 Satoshi Nakamoto en de creatie van Bitcoin 
+
+Zoals je in het vorige hoofdstuk hebt kunnen lezen, probeerden meerdere cypherpunks een alternatief geldsysteem te creëren. Dit hoofdstuk gaat verder met het verhaal van één van hen: een visionaire geest met de naam "Satoshi Nakamoto". Deze anonieme persoon (man, vrouw of groep) maakte al lang voor Bitcoin deel uit van liefhebbers van cryptografie, zoals computerwetenschappers en hackers, en voerde discussies om praktische oplossingen te vinden om het fiatsysteem te vervangen.
+
+ 
+
+In oktober 2008 onthulde Nakamoto een baanbrekende whitepaper met de titel 'Bitcoin: A Peer-to-Peer Electronic Cash System' op een mailinglijst voor cryptografie. Dit document legde de basis voor een gedecentraliseerd peer-to-peer protocol, ontworpen om veilige online transacties mogelijk te maken zonder tussenpersonen. Nakamoto's visie was duidelijk: het creëren van een puur peer-to-peer versie van elektronisch geld, vrij van de controle van machtige overheden en financiële instellingen.
+[QR CODE NAAR WHITEPAPER]
+ 
+
+Snel vooruit naar 3 januari 2009, toen Nakamoto het eerste Bitcoin-blok minde, ook wel bekend als het "genesisblok". Dit markeerde de officiële lancering van het Bitcoin-netwerk, een nieuw geldsysteem gebouwd op vertrouwen en veiligheid door middel van een gedecentraliseerd grootboek. In de maanden en jaren die volgden, begonnen steeds meer enthousiastelingen mee te doen en bij te dragen aan het idee.
+
+ 
+
+In 2011, nadat het Bitcoin-netwerk had bewezen dat het succesvol kon werken zonder de invloedrijke maker, stuurde Nakamoto een e-mail naar een collega Bitcoin-ontwikkelaar, waarin hij aankondigde zichzelf uit de Bitcoin-scene te verwijderen en de toekomst weg te geven aan andere "goede handen" die zijn visie deelden. 
+
+Hoewel de identiteit van Nakamoto tot op de dag van vandaag een mysterie blijft, was zijn doel om Bitcoin te creëren nooit een mysterie. In essentie creëerde Nakamoto de Bitcoin om de macht weg te nemen van de weinigen en terug te geven aan de velen door een alternatief te creëren in de vorm van een gedecentraliseerd, open source en transparant geldsysteem, dat geld scheidt van de staat. Het creëren van Bitcoin was Nakamoto's antwoord op de financiële crisis van 2008 die gewone mensen wereldwijd pijn deed en de eliteklasse opnieuw verrijkte. Bitcoin was Nakamoto's antwoord op de corruptie en kwetsbaarheid van het fiatsysteem. Nakamoto legde de basis voor een nieuwe revolutie en liep ervan weg in plaats van de eer op te eisen.
+
+In de jaren daarna begon Bitcoin snel te groeien en werd het een symbool van hoop, macht en veerkracht. Het daagde het fiatsysteem uit en bood een veilige, censuurbestendige manier van financiële transacties. Bitcoin is een open-source protocol, wat betekent dat niemand de macht heeft om het te bezitten of te controleren. Het ontwerp is openbaar en iedereen kan eraan deelnemen. 
+
+Vandaag de dag leeft Nakamoto's droom van een grenzeloos, transparant en veilig financieel systeem voort en geeft het de wereldwijde vrijheidsrevolutie waar we vandaag de dag getuige van zijn. Elke dag kiezen gewone mensen ervoor om uit het fiatsysteem te stappen en in te stappen in de wereld van Bitcoin. Bitcoin-hubs - de zogenaamde circulaire Bitcoin-economieën - zijn gestart door vrijheidsenthousiastelingen in regio's over de hele wereld. Zelfs hele landen die op zoek zijn naar een alternatieve weg, zoals El Salvador, beginnen op hun eigen manier Bitcoin te adopteren.
+
+6.1 Hoe werkt Bitcoin?
+
+6.1.1 Het Consensusmechanisme van Nakamoto
+
+Hoe werkt Bitcoin? Bitcoin heeft veel mogelijkheden en het konijnenhol gaat diep, heel diep. Gelukkig hoeft u, als u zich voor het eerst in de Bitcoin-wereld begeeft, niet perfect te begrijpen hoe het werkt om het te gaan gebruiken. Hetzelfde geldt voor het gebruik van internet. De meeste mensen weten niet hoe het TCP/IP-protocol werkt, maar toch versturen ze elke dag e-mails, berichten en posten ze inhoud op hun sociale media-account. Hetzelfde geldt voor autorijden. De meeste mensen weten niet precies hoe een auto werkt, maar ze weten wel hoe ze moeten rijden.
+ 
+Bitcoin is echter nog niet wijdverbreid. Het is nog steeds een vrij nieuwe technologie, zoals het internet dat was in de jaren 90. Daarom kan het handig zijn om de basisbeginselen van Bitcoin op een eenvoudige, minder technische manier te begrijpen. Daarom kan het nuttig zijn om de basis van Bitcoin op een eenvoudige, minder technische manier te begrijpen.
+
+Het belangrijkste idee achter de werking van Bitcoin kan in één zin worden samengevat: Bitcoin is een overeenkomst tussen mensen online. U kunt het vergelijken met het spelen van een bordspel met vrienden. Als u een bordspel zoals Monopoly speelt, hebt u een overeenkomst met de andere spelers over bepaalde regels. Een van de regels van Monopoly is dat alleen speciale "Monopoly biljetten" worden geaccepteerd. Als James (één van de spelers) tegen de regels ingaat door toiletpapier te gebruiken om een huis te kopen in plaats van Monopolybiljetten, dan zouden de andere spelers James vertellen dat hij een valsspeler is en gewoon stoppen met spelen. Kortom, om het spel te spelen moet je het met elkaar eens zijn over een aantal regels, en je wijkt niet af van die regels, anders word je afgewezen.
+
+Zo kun je Bitcoin ook zien werken. Bitcoin is een netwerk van mensen die het eens zijn over dezelfde set regels. Deze regels zijn wiskundig gebonden, geschreven in computercode en direct geaccepteerd door alle mensen die de Bitcoin-software draaien. De regels van Bitcoin gelden in gelijke mate voor alle deelnemers, wat betekent dat iedereen ofwel de regels van het spel volgt, ofwel niet kan meespelen omdat ze dan door het netwerk worden afgewezen. 
+
+Een van de regels is bijvoorbeeld "Er zullen nooit meer dan 21 miljoen bitcoins zijn". Als sommige mensen 1 miljoen extra bitcoins voor zichzelf willen maken, hebben ze daar niets aan, omdat ze automatisch door alle anderen geïdentificeerd en geweigerd zouden worden. Dit is wat Bitcoin zo robuust maakt. Het maakt niet uit wie u bent of waar u vandaan komt, als u de Bitcoin-wereld betreedt, moet u met dezelfde regels spelen als ieder ander. Dit geldt ook voor alle mensen en entiteiten die enorm veel controle en invloed hadden in de fiatwereld. In de Bitcoin-wereld is er geen ruimte voor bedrog of sabotage. Iedereen wordt gelijk behandeld en niemand kan daar iets aan doen.
+
+VISUELE SATOSHI FIGUUR TOEVOEGEN MET EEN CITAAT DAT ONGEVEER ZO IS:
+
+"Wist u dat Bitcoin sinds 2009 meer dan tienduizenden pogingen heeft weerstaan om het te hacken, te manipuleren of te veranderen? Bitcoin heeft bewezen dat niemand het kan stoppen, controleren of manipuleren."
+
+
+6.1.2 De spelers van het spel
+
+Om de decentralisatie van Bitcoin beter te begrijpen, moeten we dieper ingaan op de verschillende rollen binnen het netwerk. In de Bitcoin-wereld spelen verschillende deelnemers verschillende, maar harmonieuze rollen die bijdragen aan het naadloos functioneren van het netwerk.
+
+ 
+
+1. Mijnwerkers: De architecten van de veiligheid
+Miners vormen de ruggengraat van Bitcoin. Dit zijn mensen of groepen mensen die achter de schermen werken om het netwerk te onderhouden en te beveiligen via een mechanisme dat Proof-of-Work (PoW) heet. Deze spelers zijn gewapend met speciale computers die zware rekenkracht bevatten. Ze stellen hun hardware beschikbaar aan het Bitcoin-netwerk om met elkaar te concurreren bij het vinden van complexe cryptografische getallen, het verifiëren van transacties en het toevoegen van nieuwe blokken met informatie over transacties aan het gedecentraliseerde grootboek van Bitcoin (de zogenaamde blockchain). Hun inzet zorgt voor de onveranderlijkheid van het grootboek en beschermt tegen kwaadaardige aanvallen.
+
+Door de gedecentraliseerde aard van mining kan iedereen met voldoende rekenkracht meedoen. Door hun harde werk worden de miners die de puzzel het snelst oplossen beloond in de vorm van bitcoin.
+
+Bitcoin-mijnwerkers zijn verspreid over de hele wereld en beschermen het netwerk tegen centralisatie en zorgen ervoor dat de veiligheid van Bitcoin robuust en gedistribueerd blijft.
+
+ 
+
+
+2. Knooppunten: Poortwachters van Validatie
+Bitcoin Nodes zijn gewone mensen die over de hele wereld wonen. Deze deelnemers vormen de poortwachters van het Bitcoin-netwerk door de Bitcoin-software op hun kleine computers te draaien waarop ze een kopie van het hele grootboek bijhouden. Nodes valideren transacties en zorgen ervoor dat alle deelnemers zich aan de consensusregels houden.
+
+Door de verantwoordelijkheid voor de validatie te verdelen over een netwerk van nodes, blijft Bitcoin bestand tegen aanvallen en behoudt het zijn vertrouwensloze aard. Nodes spelen een cruciale rol in het handhaven van de integriteit van het grootboek en dragen zo bij aan het decentralisatie-ethos van Bitcoin.
+ 
+
+3. Gebruikers: Gemachtigde deelnemers
+Gebruikers, de levensader van het Bitcoin-netwerk, zijn individuen die transacties uitvoeren. U kunt gebruikers beschouwen als gewone mensen die gewoon hun leven leiden, maar die zichzelf ook op een bepaalde manier sterker hebben gemaakt door Bitcoin te integreren. Sommige gebruikers sparen bijvoorbeeld hun geld in bitcoin. Anderen, zoals inwoners van El Salvador, gebruiken bitcoin als geld om boodschappen te doen en ontvangen bitcoin in de vorm van een salaris.
+
+Bitcoin geeft gebruikers meer macht doordat er geen tussenpersonen zoals banken en overheden meer nodig zijn, waardoor directe peer-to-peer transacties mogelijk zijn. Dit betekent ook dat gebruikers volledige controle hebben over hun geld, waardoor ze hun fondsen en transacties kunnen beheren.
+
+4. Ontwikkelaars en projecten: Architecten van innovatie
+Het monetaire systeem van de toekomst bouwt zichzelf niet op en wordt ook niet zonder inspanning wereldwijd geaccepteerd op een ethisch correcte manier. Dat is waar Bitcoin-ontwikkelaars en Bitcoin-projecten om de hoek komen kijken. 
+
+Ontwikkelaars gebruiken hun technische expertise om het Bitcoin-protocol te verbeteren en te innoveren. Deze mensen dragen code bij, stellen verbeteringen voor en pakken kwetsbaarheden aan, zodat het netwerk zich ontwikkelt in reactie op allerlei uitdagingen. Het open-source karakter van Bitcoin nodigt uit tot samenwerking, waardoor ontwikkelaars wereldwijd kunnen bijdragen aan de groei van het netwerk.
+
+De schoonheid van deze gedecentraliseerde ontwikkeling voorkomt dat een enkele entiteit de controle over het protocol monopoliseert. Dit gebeurt door middel van een consensusgestuurd proces. Ontwikkelaars stellen ideeën en veranderingen voor en alleen degenen met de beste ideeën die aansluiten bij de bredere visie voor een betere wereld krijgen steun van de gemeenschap. Dit zorgt voor een transparante en democratische evolutie van Bitcoin totdat het klaar is voor 8 miljard mensen.
+
+Bij Bitcoin-projecten zijn verschillende groepen betrokken, van missiegedreven non-profits tot bedrijven en van groepen en individuen die waardevolle inhoud creëren tot anderen. Dit zijn mensen die samenwerken aan een specifiek doel of focus binnen de grotere Bitcoin-missie naar collectieve vrijheid.
+
+Bitcoin-projecten spelen een cruciale rol in het vormgeven en promoten van de adoptie van Bitcoin en werken aan een toekomst die prioriteit geeft aan de empowerment en vrijheid van het menselijk ras.
+
+De Symfonie
+De decentralisatie van Bitcoin kan worden gezien als een synergetisch muziekorkest, een evenwichtsoefening waarbij alle verschillende instrumentspelers samen de mooiste muziek maken. Er is geen baas in het Bitcoin-netwerk, in plaats daarvan vervullen zowel miners, nodes, gebruikers, ontwikkelaars en projecten hun rol met autonomie en samenwerking.
+
+Het gedecentraliseerde grootboek, onderhouden door nodes, garandeert transparantie, terwijl het proof-of-work mechanisme veiligheid biedt en centralisatie in mining tegengaat. Gebruikers ervaren financiële soevereiniteit en zeggenschap, vrij van de controle van het fiat systeem. Ontwikkelaars, geleid door consensus, zorgen ervoor dat het protocol zich aanpast aan de veranderende behoeften van de mensheid. Bitcoin-projecten dragen op hun eigen unieke manier bij aan de bredere missie van collectieve vrijheid.
+
+Zoals u kunt zien, speelt elke deelnemer een essentiële rol in het vormgeven van de adoptie van Bitcoin en het versterken van de mensheid. Elke deelnemer aan dit gedecentraliseerde orkest draagt bij aan de veerkracht en levensduur van Bitcoin en creëert een vertrouwensvrij, grenzeloos en mondig ecosysteem.
+ 
+
+Samengevat resoneert de symfonie van decentralisatie in Bitcoin als een bewijs van Satoshi Nakamoto's visie en de immense passie van een wereldwijde gemeenschap op zoek naar vrijheid en empowerment.
+
+Klasactiviteit - Consensusvorming in een peer-to-peer netwerk
+
+Doel: Begrijpen hoe consensus wordt bereikt in een groep, leren over cryptografie en de consensuslaag van Bitcoin.
+
+Materiaal: Bericht met gecodeerde en ongecodeerde instructies voor acties ("aanvallen" of "niet aanvallen").
+
+Voorbereiding van de activiteit: De leerkracht selecteert voor de les een groep van 3 of 4 leerlingen als kwaadwillende knooppunten in de volgende activiteit. De leerkracht geeft deze kwaadwillende knooppunten een cryptografische puzzel als huiswerk in de vorige les.
+
+Oefenstappen:
+
+Stap 1: De leerkracht selecteert een "initiator" die een bericht ontvangt op een stuk papier waarop staat "ATTACK" en een reeks getallen die zegt "4-16-14-21-1-21-1-3-11-" aan één leerling in de groep.
+
+Stap 2: De leerlingen vormen een cirkel in de aangewezen ruimte en zorgen ervoor dat de geselecteerde leerlingen die kwaadaardige knooppunten zullen zijn van elkaar gescheiden zijn om de effectiviteit van de les te verbeteren.
+
+
+ 
+
+Stap 3: Zodra de groep een cirkel heeft gevormd, geeft de initiator het briefje door aan de persoon aan de rechterkant van de cirkel. 
+
+Stap 4: Nadat iedereen het bericht heeft gelezen, geeft de initiator het signaal aan de groep door "Nu" te zeggen en de groep reageert tegelijkertijd op het bericht. Als het bericht "ATTACK" luidt, zetten alle deelnemers een stap naar voren. 
+
+Stap 5: Na de eerste reactie zullen sommige leerlingen (zij die het versleutelde bericht ontvingen en het correct interpreteerden) stil blijven staan, terwijl de rest de oorspronkelijke instructie zal volgen, wat een gebrek aan consensus blootlegt.
+
+Conclusie:
+Bespreek waarom er geen consensus is bereikt, introduceer het concept van het Byzantijnse Generaalsprobleem, hoe dit verband houdt met de behoefte aan een gemeenschappelijk doel en bespreek later hoe Bitcoin een oplossing biedt voor dit probleem.
+
+
+6.2 Bitcoin als deugdelijk digitaal geld
+
+6.2.1 Inleiding
+
+Activiteit - Bekijk de 1,5 min. durende video "Wat is Bitcoin" [QR-CODE NAAR VIDEO].
+
+Eenvoudig gezegd is Bitcoin geld. Bitcoin is geen investering, maar eerder een veilige en krachtige manier om uw zuurverdiende geld te sparen. Bitcoin hebben betekent niet dat je er rijk van wordt, want je krijgt er niet meer bitcoins voor terug. De waarde ervan ten opzichte van een fiatvaluta stijgt wel, maar dat komt alleen door de groeiende adoptie ervan en de devaluatie van fiatvaluta.
+
+ 
+
+Bitcoin is een nieuwe vorm van geld, het is "het internet van geld", wat betekent dat iedereen zich kan aansluiten bij Bitcoin en kan beginnen met het uitwisselen van waarde met andere Bitcoin-gebruikers. Zelfs de meest geïsoleerde en arme gemeenschappen ter wereld hebben eindelijk toegang tot een monetair systeem. Net zoals iedereen met een telefoon en internetverbinding een zoekmachine kan gebruiken, maakt Bitcoin het mogelijk voor iedereen met een telefoon en internetverbinding om toegang te krijgen tot een nieuw wereldwijd monetair systeem.
+ 
+Bitcoin is volledig digitaal en grenzeloos. Het maakt niet uit waar je je bevindt, want het leeft op computers en smartphones van mensen die over de hele wereld verspreid zijn. Veel gebruikers over de hele wereld gebruiken de Bitcoin-software en een kopie van het grootboek. De kans dat deze software en het register van alle transacties verdwijnt, is heel klein omdat er talloze kopieën van bestaan. Om het uit te schakelen, zou je het hele internet voor altijd moeten afsluiten, wat hoogst onwaarschijnlijk is.
+
+En ten slotte is Bitcoin schaars, wat betekent dat de hoeveelheid Bitcoin-tokens die kan bestaan absoluut beperkt is. Niemand kan Bitcoin namaken. Zelfs de machtigste regeringen en financiële instellingen niet.
+
+ 
+
+6.2.2 Kenmerken van Bitcoin
+
+De evolutie van gezond geld
+Zoals je in hoofdstuk 2 hebt geleerd, doorloopt de levenscyclus van deugdelijk geld drie stadia om algemeen geaccepteerd te worden door de menselijke samenleving: Van waardeopslag tot ruilmiddel en uiteindelijk rekeneenheid.
+
+De eerste fase van geld, een waardeopslag, is wanneer een valuta vertrouwen begint te krijgen als een stabiel (of stijgend) actief in de loop der tijd. Mensen die dit vroeg herkennen, proberen hun rijkdom te beschermen door het op te slaan in deze vorm van geld, vooral in een tijd van geopolitieke en macro-economische onzekerheden.
+
+Sommige groepen, zoals media, noemen Bitcoin een vorm van "digitaal goud". Dit komt omdat Bitcoin zich de afgelopen tien jaar stevig heeft gevestigd als waardeopslag. Elke dag beginnen meer en meer mensen Bitcoin te zien als een hedge tegen inflatie, zoals goud dat deed in de geschiedenis van de mensheid.
+
+De volgende fase is wanneer het vertrouwen in de stabiliteit van een valuta groeit. Dit is het moment waarop de munt verandert in een ruilmiddel dat transacties in het dagelijks leven van mensen vergemakkelijkt. In deze fase wordt de munt algemeen geaccepteerd voor de uitwisseling van goederen en diensten. 
+
+Bitcoin ontwikkelt zich steeds meer tot een ruilmiddel. Met de groeiende acceptatie door handelaren en de ontwikkeling van het protocol worden Bitcoin-transacties steeds efficiënter en gebruikelijker in de dagelijkse handel. Een voorbeeld hiervan is El Salvador, waar Bitcoin officieel erkend is als wettig betaalmiddel. Elke dag beginnen meer gewone burgers en bedrijven Bitcoin te gebruiken als ruilmiddel. 
+
+ 
+
+In het laatste stadium bereikt een valuta de status van rekeneenheid, die dient als gemeenschappelijke maatstaf voor het prijzen van goederen en diensten. Dit is het stadium waarin het de standaardmaatstaf wordt waartegen alle andere waarden worden afgezet.
+
+De reis om een rekeneenheid te worden is een langer (lange termijn) proces. Op dit moment meet de wereld goederen en diensten alleen in fiatvaluta's, en daarom moet Bitcoin breder geaccepteerd en geïntegreerd worden in verschillende financiële systemen. De basis is echter al gelegd nu bedrijven en particulieren waarden in Bitcoin beginnen te overwegen en aan te duiden.
+
+ 
+
+Zoals je kunt zien, is Bitcoin goed op weg in deze evolutionaire cyclus van gezond geld. Als Bitcoin volledig geïntegreerd wordt in het wereldwijde financiële systeem, zou het een standaard rekeneenheid kunnen worden, waardoor het hele wereldwijde monetaire systeem een nieuwe vorm krijgt.
+
+Eigenschappen van geld
+Zoals je in hoofdstuk 2 hebt geleerd, is de mensheid er in de loop der tijd achter gekomen dat echt deugdelijk geld bepaalde eigenschappen moet bezitten om effectief te zijn. Deze eigenschappen zijn duurzaamheid, deelbaarheid, draagbaarheid, aanvaardbaarheid, schaarste en vervangbaarheid.
+
+Laten we eens kijken of Bitcoin de test doorstaat.
+
+Duurzaamheid: Bitcoin is puur digitaal en dus volledig duurzaam.
+
+Deelbaarheid: Ter vergelijking: de fiatvaluta USD kan worden onderverdeeld tot op de cent (.01). Bitcoin kan onderverdeeld worden in een zogenaamde satoshi of sat (.00000001). En door het digitale karakter van Bitcoin kan het in de toekomst nog meer verdeeld worden als de mensheid dat nodig heeft.  Bitcoin is op dit moment het meest verdeelbare monetaire activum ter wereld.
+
+Overdraagbaarheid: In april 2020 werd 1,1 miljard dollar overgemaakt in slechts een paar minuten, en het kostte slechts 68 cent. Geen enkele andere manier van betalen kan zoveel geld verplaatsen, tegen zulke lage kosten, zo snel en helemaal alleen. Dit maakt Bitcoin tot de gemakkelijkst verplaatsbare vorm van geld ter wereld.
+Aanvaardbaarheid: Bitcoin staat nog in de kinderschoenen en vergeleken met fiatvaluta's is de acceptatie van Bitcoin op dit moment laag. 
+
+ 
+
+Schaarste: Er zullen ooit maar 21 miljoen Bitcoins bestaan. Het is per code onmogelijk dat dit aantal ooit toeneemt, wat betekent dat Bitcoin niet alleen schaars is, maar ook het schaarsste monetaire activum ter wereld. 
+Fungibiliteit: Elke eenheid van bitcoin is hetzelfde als elke andere eenheid van bitcoin en kan worden uitgewisseld en verhandeld via het Bitcoin-protocol op basis van gelijkenis, waardoor het een fungibele valuta is.
+
+ 
+"Bitcoin vs Goud vs US Dollar" Bitcoin Magazine, https://bitcoinmagazine.com
+
+Bitcoin is een soort smart money dat programmeerbaar is, niet afgepakt kan worden en alle eigenschappen heeft die het geweldig maken om te sparen en makkelijk voor handelaren die snelle transacties willen.
+
+Omdat het een transparant digitaal grootboek is, kan Bitcoin super efficiënt zijn in het opsporen van fraude en het ontdekken van risico's in zijn diensten. Het heeft de goede kanten van goud, zoals dat er maar een beperkte hoeveelheid van is, maar het heeft ook de voordelen van fiatvaluta's, omdat je het kunt verdelen en makkelijk kunt meenemen. Bovendien biedt het nieuwe functies die goed werken in onze digitale wereld.
+
+Wat vind jij? Bitcoin is nog niet algemeen erkend en geaccepteerd, maar is Bitcoin wel goed geld?
+
+
+
+
+Activiteit: Klasdiscussie - Is Bitcoin deugdelijk geld? 
+
+Nu we bitcoin in meer detail hebben besproken, laten we nog eens kijken naar onze geldvergelijkingstabel uit hoofdstuk 2 en zien hoe bitcoin zich verhoudt tot andere vormen van geld:
+
+ 
+--------------------------------- Alleen aantekeningen - Hieronder niet in werkboek 2024 ---------------------------- 
+(bovenstaande tabel uit 1.3.3 op pagina 21 van 2023 BD)
+----------------------------- Alleen aantekeningen - Boven niet in werkboek 2024 ----------------------------------
+
+6.2.3 Persoonlijke verantwoordelijkheid omarmen 
+
+"Het resultaat is een gedistribueerd systeem zonder single point of failure. Gebruikers hebben de cryptosleutels van hun eigen geld en handelen direct met elkaar, met behulp van het P2P-netwerk om te controleren op dubbele uitgaven."
+Satoshi Nakamoto
+
+In de fiatwereld vertrouwen mensen op overheden, banken en gevestigde betalingsproviders. De hoofden van deze (financiële) instellingen bepalen de regels van het netwerk en de deelnemers, meestal gewone burgers, moeten zich aan deze regels houden. Het maakt niet uit waar je woont, er zijn altijd een aantal standaardprocedures die je instrueren wat je moet doen en hoe je het moet doen. Na verloop van tijd leidde dit tot een cyclus van ontberingen, vooral voor gezinnen die worstelen met de toenemende uitdagingen van het dagelijks leven.
+
+Door dit systeem zijn mensen gewend om de verantwoordelijkheid voor hun financiën in de handen van anderen te leggen. De meeste mensen vertrouwen bijvoorbeeld op iemand anders om hen te helpen, vooral als er iets mis gaat (zoals het verlies van toegang tot je bankrekening).
+
+ 
+
+Het monetaire systeem van Bitcoin is, zoals je weet, heel anders. Bitcoin werkt op een specifieke manier en heersers zijn vervangen door een autonoom systeem van regels. Er is geen dictator of leider, wat ook betekent dat er niemand is die u gaat voorschrijven wat u moet doen. Als u de nieuwe vrijheid en macht van Bitcoin wilt, moet u leren hoe het werkt en de technologie integreren op een manier die voor u persoonlijk werkt.
+
+ 
+
+Met Bitcoin hebt u volledige controle over uw geld, maar met deze extra controle komt ook een grotere verantwoordelijkheid. Als u bijvoorbeeld de toegang tot uw Bitcoin verliest door uw sleutels van uw digitale portemonnee te verliezen, bent u uw spaargeld voorgoed kwijt. Er is geen klantenservice die u kunt bellen of iemand waar u terecht kunt als er een probleem is. U moet er zelf voor zorgen.
+
+Gelukkig zal dit niet gebeuren met de mensen die besluiten de volledige verantwoordelijkheid te nemen over hun eigen leven. Het gebruik van Bitcoin is niet per definitie ingewikkeld; het is gewoon een nieuw concept. Als u echter bereid bent om te leren hoe u Bitcoin moet gebruiken en om de verantwoordelijkheid voor het beschermen van uw vermogen volledig op u te nemen, dan wordt Bitcoin een machtig instrument, omdat u de controle hebt en niemand uw vermogen in beslag kan nemen.
+
+Samengevat ligt de sleutel in actie en in het begrijpen van de werking van Bitcoin en het implementeren ervan op basis van uw unieke behoeften en levensfilosofie. Vervolgens beginnen we met het gebruik van Bitcoin door een Bitcoin-portemonnee in te stellen, onze eerste transacties te verzenden en te ontvangen, en de best practices op het gebied van beveiliging door te nemen. 
+

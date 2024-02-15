@@ -1,0 +1,523 @@
+
+
+?	Hoofdstuk 9: Een inleiding tot de technische kant van Bitcoin 
+?	9.0 Inleiding
+¦	Activiteit - bekijk "Hoe Bitcoin werkt onder de motorkap".
+?	9.1 Publieke en private sleutels: Beveiliging door cryptografie
+¦	Activiteit - SHA 256-hash genereren 
+?	9.2 Het UTXO-model 
+?	9.3 Bitcoin-knooppunten en miners
+¦	9.3.1 Wat is een Bitcoin-knooppunt en hoe zet ik er een op? 
+¦	Activiteit - Video bekijken over Bitcoin-knooppunten
+¦	9.3.2 Wat is een Bitcoin Miner en hoe werkt mijnbouw?  
+?	9.4 Wat is de Mempool
+¦	Activiteit - Mempool 
+?	9.5 Hoe bitcoin-transacties van begin tot eind werken - verzender, ontvanger, knooppunt, mijnwerker, mempool
+¦	Activiteit - Bitcoin-transacties in actie 
+
+
+ 
+Hoofdstuk 9: Een inleiding tot de technische kant van Bitcoin
+"Bitcoin is niet "ongereguleerd". Het wordt gereguleerd door een algoritme in plaats van door regelgeving.
+door overheidsbureaucratieën. Niet gecorrumpeerd."
+Andreas M. Antonopoulos
+9.0 Inleiding
+In dit hoofdstuk gaan we dieper in op de technologie die ervoor zorgt dat het Bitcoin-netwerk volledig gedecentraliseerd werkt. We leggen in eenvoudige bewoordingen uit wat er gebeurt als u een bitcoin-transactie verstuurt, hoe die transacties worden verwerkt en wat miners en nodes doen in het Bitcoin-netwerk. 
+¦	[Afbeelding uit de map met afbeeldingen van hoofdstuk 9]
+ 
+
+We gaan in dit hoofdstuk een aantal uitdagende en technische concepten behandelen. Het is belangrijk om te onthouden dat veel mensen niet begrijpen hoe het internet werkt, maar dat ze het wel elke dag gebruiken om e-mails te versturen, contact te leggen met vrienden op sociale media en zelfs om hun rekeningen te betalen. Het leren van de technische kant van hoe Bitcoin werkt is een lange reis die misschien niet iedereen wil maken, zelfs als ze besluiten het als geld te gebruiken. Hoewel we u aanmoedigen om te blijven leren over de technische aspecten van Bitcoin, houden we dit hoofdstuk gericht op de belangrijkste basisbegrippen.
+
+[ORANJE NOTITIEBOX].
+Als u meer technisch inzicht wilt in hoe Bitcoin werkt, hebben we achterin dit werkboek bronnen opgenomen. U kunt zich op onze website ook inschrijven voor het Bitcoin Diploma - Technische Editie om bericht te krijgen wanneer die meer technische cursus klaar is. 
+
+ Laten we beginnen met het bekijken van een video die laat zien hoe het Bitcoin-netwerk werkt.
+
+Activiteit - Bekijk "Hoe Bitcoin werkt onder de motorkap" [QR-CODE].
+
+Zoals u in de video hebt gezien, is het Bitcoin-netwerk simpelweg een grootboek of registratie van transacties die is opgeslagen op meerdere computers, nodes genaamd. Het Bitcoin-grootboek is pseudoniem, wat betekent dat het geen persoonlijke gegevens bevat, alleen transactie- en adresinformatie. Het grootboek toont elke bitcoin en zijn bewegingen sinds de start van het netwerk op 3 januari 2009.
+
+Vervolgens gaan we dieper in op de technologie die dit systeem mogelijk maakt... 
+
+9.1 Publieke en private sleutels: Beveiliging door cryptografie
+"Wat Bitcoin ons geeft is een harde belofte: het programma zal precies zo worden uitgevoerd als gespecificeerd."
+Andreas Antonopoulos
+
+9.1.1 Cryptografie Openbare/particuliere sleutels
+Cryptografie is een manier om informatie geheim te houden door deze te verhullen in code.
+[Afbeeldingen van BD 2023 pagina 86-88]
+Encryptie is het proces waarbij informatie wordt omgezet in een speciale code, waardoor het onleesbaar wordt voor iedereen die niet over de juiste decryptiemethode beschikt. Dit is vergelijkbaar met het vergrendelen van een kluis, waarbij alleen de persoon met de juiste sleutel of combinatie deze kan openen.
+
+Ontcijfering daarentegen is het proces waarbij de versleutelde informatie weer leesbaar wordt gemaakt, alsof je de kluis ontgrendelt en de informatie in de kluis kunt lezen.
+
+Laten we bijvoorbeeld zeggen dat John Arel een geheim bericht wil sturen dat niet bedoeld is voor anderen om te lezen. Ze spreken af de Pigpen Cipher encryptiemethode te gebruiken om het bericht te versleutelen voordat het wordt verstuurd. Alleen degenen met de code kunnen het bericht ontcijferen, waardoor het onleesbaar wordt voor anderen. Hoewel deze methode vandaag de dag niet als veilig wordt beschouwd, illustreert het wel het principe van private-key cryptografie om berichten te versturen.
+
+Dus, hoe werkt cryptografie bij bitcoin-transacties?
+In traditionele privésleutelcryptografie zouden John en Arel eerst een geheime sleutel moeten delen, zoals een wachtwoord of het Pigpen-cijfer. John zou dan deze sleutel gebruiken om zijn bericht te versleutelen voordat hij het naar Arel stuurt. Arel, die ook de geheime sleutel kent, zou dan dezelfde sleutel gebruiken om het bericht te ontsleutelen en te lezen.
+
+Als iemand anders echter in het bezit is van de sleutel en het bericht onderschept, kan hij het versleutelen en het bericht lezen.
+[Afbeelding van BD 2023 pagina 26-37]
+Public key cryptografie, het type dat wordt gebruikt in bitcoin-transacties, heeft dit probleem opgelost. Met public key cryptografie hoeven John en Arel het wachtwoord of de encryptiemethode niet met elkaar te delen. In plaats daarvan hebben ze elk twee verschillende sleutels: een publieke sleutel (die veilig met iedereen gedeeld kan worden) en een privésleutel (die privé gehouden moet worden).
+
+In dit geval, wanneer John een bericht naar Arel wil sturen, kan hij de publieke sleutel van Arel gebruiken om zijn eigen bericht te versleutelen voordat hij het naar Arel stuurt. Wanneer Arel het bericht ontvangt, kan alleen hij het decoderen met zijn privésleutel. Iemand anders kan het bericht niet lezen, zelfs niet als hij het onderschept. De kans is ook veel kleiner om de sleutel te stelen, omdat zelfs John en Arel de sleutel niet met elkaar hoeven te delen.
+
+Het belangrijkste voordeel van public key cryptografie ten opzichte van private key cryptografie is dat het veilige communicatie mogelijk maakt zonder dat verzender en ontvanger eerst een geheime sleutel hoeven te delen (of een andere versleutelingsmethode zoals Pigpen Cipher), die door een derde partij onderschept kan worden.
+
+In Bitcoin wordt publieke cryptografie niet gebruikt om versleutelde berichten te versturen. In plaats daarvan wordt het gebruikt om unieke digitale handtekeningen te maken die Bitcoin-transacties onveranderbaar maken. Een digitale handtekening is een manier om de authenticiteit van een bitcoin-transactie aan te tonen, vergelijkbaar met het zetten van een handtekening op een fysiek document.
+
+
+
+
+
+
+
+
+
+
+[Afbeelding van BD 2023 pagina 26-37]
+[TEKSTVAK]. 
+
+Public Key Cryptografie (voor transacties tussen twee gebruikers):
+
+ Elke gebruiker heeft twee sleutels, een privésleutel die geheim wordt gehouden en een openbare sleutel die met anderen kan worden gedeeld. 
+
+De privésleutel dient als een vorm van identificatie en bewijs van eigendom en bevestigt "dit adres is van mij en ik heb er controle over". 
+
+Digitale handtekeningen worden aangemaakt om unieke transacties te identificeren. 
+
+[EINDE TEKST KADER].
+ 
+[Afbeelding van BD 2023 pagina 26-37]
+?	Bitcoin-transacties houden in dat een bepaald bedrag aan bitcoin rechtstreeks wordt overgemaakt naar de rekening van een andere persoon.
+
+?	Encryptie wordt gebruikt om ervoor te zorgen dat alleen de echte houder van de bitcoin de controle heeft om zijn geld naar iemand anders te sturen. Het zorgt ervoor dat het eigendom wordt beschermd tegen kwaadwillende actoren.
+
+?	Als extra beschermingsmaatregel krijgt elke transactie die je in bitcoin verstuurt automatisch een UNIEKE handtekening. Deze unieke handtekening wordt ondersteund door tamper proof technologie die het netwerk helpt te verifiëren dat de echte eigenaar van de bitcoin de bitcoin heeft verzonden, en niet iemand anders.
+[Afbeelding van BD 2023 pagina 26-37]
+In eenvoudige bewoordingen hoe dit werkt in een echte bitcoin-transactie:
+1.	De transactie creëren: Een gebruiker initieert een bitcoin transactie door details op te geven zoals het adres van de ontvanger en de hoeveelheid bitcoin die verstuurd moet worden.
+2.	Digitale handtekening genereren: De verzender genereert een unieke digitale handtekening met behulp van zijn privésleutel. Deze handtekening is een unieke cryptografische code die de authenticiteit van de transactie verifieert.
+3.	Uitzenden van de transactie: De ondertekende transactie wordt uitgezonden naar het Bitcoin-netwerk om aan te geven dat het de bedoeling is om het eigendom van de bitcoin over te dragen van de verzender naar de ontvanger.
+4.	Verificatie op het netwerk: Knooppunten in het Bitcoin-netwerk ontvangen de transactie en gebruiken de openbare sleutel van de ontvanger om de integriteit van de transactie te ontsleutelen en te verifiëren. Tegelijkertijd gebruiken ze de openbare sleutel van de verzender om de digitale handtekening te verifiëren.
+5.	Bevestiging op het Bitcoin-netwerk: Als de verificatie succesvol is, wordt de transactie toegevoegd aan het grootboek, dat dient als een veilige, transparante registratie van alle transacties. Na bevestiging wordt het eigendom van de bitcoin officieel overgedragen van de verzender naar de ontvanger.
+
+Samengevat dient de digitale handtekening, gemaakt met de privésleutel van de verzender, als cryptografisch bewijs van authenticiteit en eigendom, waardoor het gedecentraliseerde netwerk van Bitcoin de transactie kan valideren en vastleggen in het grootboek.
+
+
+9.1.2 Hashing Uitleg
+Laat je alsjeblieft niet intimideren door de technische termen en wiskundige concepten die voor je liggen. We begrijpen dat niet iedereen gek is op wiskunde, maar je zou jezelf kunnen verrassen en zien dat zelfs de meest complexe ideeën met een beetje moeite te begrijpen zijn.
+
+Wat is een functie?
+[Afbeelding uit BD 2023 pagina 124-128]
+
+
+
+
+
+
+[TEKSTVAK].
+Een functie is als een machine die bepaalde informatie neemt en er iets nieuws van maakt. De informatie die je aan de functie geeft, wordt de invoer genoemd. De nieuwe informatie die de functie maakt, wordt uitvoer genoemd. Functies helpen computers om taken uit te voeren en problemen op te lossen. 
+
+[EINDE TEKST KADER].
+  
+[Afbeelding uit BD 2023 pagina 124-128]
+Zie het als een recept om een salade te maken. Het recept (of de functie) vertelt je welke ingrediënten je moet gebruiken en hoe je ze moet mengen om de salade te maken. Je kunt er verschillende ingrediënten in doen, maar het recept geeft je altijd de salade als resultaat. Functies kunnen worden gebruikt om dingen gemakkelijker en efficiënter te maken.
+
+Dit recept is dus een functie die de ingrediënten als invoer neemt en de gemengde salade als uitvoer genereert.
+
+In Bitcoin worden functies gebruikt om transacties uit te voeren. We weten al dat transacties in Bitcoin in wezen overdrachten van waarde (geld) zijn van het ene adres naar het andere. Om een transactie uit te voeren, wordt een aantal cryptografische functies gebruikt om de transactie te valideren en de status van het Bitcoin-grootboek bij te werken.
+
+De functies die worden gebruikt bij een Bitcoin-transactie zijn onder andere het verifiëren van de authenticiteit van de transactie-invoer, controleren of de verzender voldoende geld heeft en het bijwerken van de saldi van de relevante adressen. Zodra een transactie is geverifieerd en toegevoegd aan een blok in het grootboek, wordt deze onderdeel van de permanente registratie van alle transacties op het netwerk.
+[Afbeelding uit BD 2023 pagina 124-128]
+Wat is een eenrichtingsfunctie?
+Een eenrichtingsfunctie gebruikt een reeks instructies om de informatie te verwerken en verandert het in iets nieuws, zoals een smoothierecept ingrediënten verandert in een nieuw drankje. Maar net zoals je een smoothie niet kunt un-blenden om de oorspronkelijke ingrediënten terug te krijgen, kun je de eenrichtingsfunctie niet omkeren om de oorspronkelijke informatie terug te krijgen.
+[Afbeelding uit BD 2023 pagina 124-128]
+Publiekesleutelcryptografie, waar de publieke sleutel een onderdeel van is, is gebaseerd op het gebruik van eenrichtingsfuncties, die het moeilijk maken om de privésleutel uit de publieke sleutel te bepalen. In theorie is het niet helemaal "onmogelijk" om de private sleutel uit de publieke sleutel te achterhalen, maar het is wel extreem moeilijk om dit te doen en het zou een buitensporige hoeveelheid tijd en rekenkracht kosten om deze taak te volbrengen.
+
+Het vinden van een privésleutel uit een publieke sleutel in Bitcoin is als het proberen te vinden van een naald in een hooiberg zo groot als een voetbalveld. De naald staat voor de privésleutel en de hooiberg voor alle mogelijke privésleutels.
+
+Op dezelfde manier zijn eenrichtingsfuncties ontworpen om onomkeerbaar te zijn en kunnen ze niet ontcijferd worden.
+[Afbeelding uit BD 2023 pagina 124-128]
+Wat is een hashfunctie?
+
+[TEKSTVAK].
+ 
+Hashing is als een vingerafdruk voor digitale gegevens. Het is een proces waarbij een digitaal bericht omgezet wordt in een code met een vaste lengte, die dient als een unieke identificatie. 
+
+[EINDE TEKST KADER].
+
+Net zoals een vingerafdruk een persoon kan identificeren, kan een hash een digitaal bericht identificeren. Hashes worden in veel toepassingen gebruikt, waaronder Bitcoin-transacties.
+
+Hoe hashing wordt gebruikt in bitcoin-transacties
+In Bitcoin wordt elke transactie gehasht voordat deze wordt toegevoegd aan een blok in het grootboek. De hash fungeert als handtekening voor de transactie en verifieert dat de transactie geldig is en dat er niet mee geknoeid is. Als iemand ook maar één letter in de transactie probeert te veranderen, zal de hash compleet anders zijn, waardoor anderen gewaarschuwd worden voor de verandering.
+
+De rol van hashing in beveiliging
+Hashing is essentieel voor de veiligheid van het Bitcoin-netwerk. Door hashes te gebruiken om transacties te identificeren, kan het netwerk elke poging tot verandering of manipulatie van een transactie detecteren. Dit helpt fraude te voorkomen en zorgt ervoor dat alle transacties nauwkeurig worden geregistreerd in het grootboek.
+
+Een hashfunctie is een soort eenrichtingsfunctie die een invoer (de "boodschap" of "gegevens") neemt en deze omzet in een numerieke weergave die een "hash" wordt genoemd. De output hash is uniek voor de input data, dus zelfs een kleine verandering in de input data resulteert in een compleet andere hash.
+
+
+[TEKSTVAK].
+ 
+Een hashfunctie is als een geheime code machine. Het neemt een bericht op en verandert het in een code. 
+
+[EINDE TEKST KADER].
+
+[Afbeelding uit BD 2023 pagina 124-128]
+De code ziet er altijd hetzelfde uit voor hetzelfde bericht. Als je het bericht ook maar een beetje verandert, ziet de code er compleet anders uit. Dit helpt computers dingen te onthouden en te controleren of er iets is veranderd.
+
+Activiteit - SHA 256-hash genereren ?
+
+ 
+
+De uitvoer, of hash, is altijd even lang, ongeacht hoe lang de oorspronkelijke informatie was.
+
+Bitcoin gebruikt een paar specifieke hashfuncties, SHA-256 en RIPEMD160 genaamd.
+Hieronder een paar voorbeelden:
+?	Merk op dat een kleine verandering in de tweede input de output volledig verandert in vergelijking met de eerste.
+?	De derde invoer is een enorm bestand, maar de uitvoer heeft nog steeds dezelfde vaste lengte als de andere twee.
+
+ 
+[Afbeelding uit BD 2023 pagina 124-128]
+Hashing kan ook gezien worden als een muziekpartituur die de essentie van een muziekstuk weergeeft. Net zoals een muziekpartituur een unieke weergave van een melodie is, is een hashwaarde een unieke weergave van een stuk data. Door de partituur van een muziekstuk te vergelijken met de daadwerkelijke uitvoering, kan een muzikant bepalen of de uitvoering accuraat is. Op dezelfde manier kan men door de hashwaarde van ontvangen gegevens te vergelijken met de originele hashwaarde bepalen of de gegevens tijdens het verzenden zijn gewijzigd.
+
+Net zoals een kleine afwijking in een muziekuitvoering ervoor kan zorgen dat deze anders klinkt, zal zelfs de kleinste verandering in de originele gegevens resulteren in een andere hashwaarde. Dit maakt hashing een krachtig hulpmiddel om de integriteit en authenticiteit van een bitcoin-transactie te garanderen.
+[Afbeelding uit BD 2023 pagina 124-128]
+Het proces van het coderen van de openbare sleutel door middel van hashing wordt gebruikt om de veiligheid van informatie te verbeteren door het om te zetten in een onleesbaar formaat met een vaste lengte. Bitcoin gebruikt de algoritmen SHA-256 en Ripemd-160 om openbare adressen te produceren. De resulterende output dient als een unieke identificatie voor de publieke sleutel en helpt de integriteit en veiligheid van transacties in het grootboek te garanderen. Door de informatie op deze manier te versleutelen, wordt het moeilijker voor onbevoegden om toegang te krijgen tot de gegevens en ze te manipuleren.
+[Afbeelding uit BD 2023 pagina 124-128]
+ 
+
+9.2 Het UTXO-model
+ORANJE IDEEËNBUS
+UTXO betekent Ongebruikte Transactie Uitgang
+
+Wat zijn UTXO's?
+In Bitcoin werken transacties als het breken van een groter stuk goud in kleinere stukjes en het versturen van deze kleinere stukjes naar zowel anderen als jezelf.
+
+Je kunt UTXO's zien als verschillende maten en stukjes bitcoin, of biljetten met verschillende waarden in je portemonnee. Als je een UTXO uitgeeft, wordt het omgezet in een nieuwe UTXO voor de ontvanger, en wat er over is wordt naar je teruggestuurd in een andere nieuwe UTXO die bekend staat als "de wissel UTXO". Dit is net zoiets als wanneer je een biljet van $10 gebruikt om twee kopjes koffie te kopen voor $6. De koffieshop houdt de $6 en geeft je $4 terug als wisselgeld.
+[Afbeelding uit de map met afbeeldingen van hoofdstuk 9]
+ 
+
+
+Als je bitcoin verstuurt, verstuur je altijd het volledige bedrag van een (of meer) van je UTXO's in je Bitcoin-portemonnee. Wat gebeurt er dan? U stuurt een deel naar de ontvanger en u ontvangt het resterende bedrag terug als wisselgeld op een van uw nieuwe Bitcoin-adressen. Het wisselgeld dat u terugkrijgt heet een ongebruikte transactie-uitgang, of UTXO, en kan worden gebruikt als invoer voor een nieuwe toekomstige transactie.
+
+Het saldo van je Bitcoin portemonnee is de som van al je verschillende UTXO's. De som van je UTXO's is dus de som van de hoeveelheid bitcoin die je bezit. Dus de som van je UTXO's is de som van de hoeveelheid bitcoin die je bezit.
+
+ORANJE IDEEËNBUS
+Het is belangrijk om op te merken dat je anderen niet bewust moet maken van je UTXO's, want als iemand je UTXO's kent, kunnen ze je bitcoin-transacties in het netwerk volgen en uiteindelijk weten hoeveel geld je bezit. 
+
+Kortom, elke keer dat je een transactie doet, gebruik je een of meer van je bestaande UTXO's om bitcoin uit te geven en worden er nieuwe UTXO's aangemaakt (voor zowel jou als de ontvanger).
+
+[Afbeelding van BD 2023 pagina 122]
+ 
+
+Wanneer een transactie wordt gedaan, wordt de hoeveelheid bitcoin die wordt verzonden verdeeld in meerdere uitgangen, die elk worden gekoppeld aan een nieuw Bitcoin-adres (een nieuwe UTXO).
+
+Als je bitcoin naar iemand verstuurt, gebruik je een of meer UTXO's als bron van het geld (input). Deze UTXO's worden gecombineerd, indien nodig, om nieuwe outputs te creëren die zowel aan de ontvanger van de transactie als aan jezelf toebehoren. Deze nieuwe outputs, of UTXO's, worden dan eigendom van de ontvanger en jouw eigendom. Deze UTXO's kunnen vervolgens worden gebruikt als bron van fondsen in andere toekomstige transacties. Deze keten van UTXO's creëert een transparante en traceerbare geschiedenis van alle bitcoin-transacties in het grootboek van Bitcoin, vanaf het allereerste blok (3 januari 2009).
+
+Een voorbeeld om te illustreren hoe dit werkt: als je 2 bitcoin wilt versturen maar je hebt alleen een UTXO die 5 bitcoin waard is, wordt het verschil van 3 bitcoin naar je teruggestuurd als "wisselgeld". Dit wisselgeld is een nieuwe UTXO voor jou, en je kunt die nieuwe UTXO in een toekomstige transactie uitgeven.
+
+
+[Afbeelding van BD 2023 pagina 122]
+
+Een ander voorbeeld:
+1.	Alice wil Bob 5 bitcoin sturen.
+2.	Ze combineert 6 bitcoin van twee van haar UTXO's.
+3.	Van deze UTXO's stuurt ze 5 bitcoin naar Bob, krijgt 0,99 bitcoin als wisselgeld terug en moet 0,01 transactiekosten betalen.
+4.	Na bevestiging wordt de transactie toegevoegd aan het grootboek van Bitcoin, waardoor alle nodes die een kopie van het grootboek hebben, worden bijgewerkt.
+
+Stel dat Alice probeert om een van haar al uitgegeven uitgangen te gebruiken om een andere transactie te doen, dan wordt dit automatisch geweigerd door de nodes. Dit komt omdat de nodes een kopie bewaren van het grootboek van Bitcoin (en alle transacties), dus ze kunnen gemakkelijk het saldo van de UTXO's van Alice controleren en verifiëren dat de transactie niet geldig is.
+
+Hieronder zie je een screenshot van een echte transactie waarbij er slechts één invoer is. In een ander geval kan het startsaldo echter de som zijn van meerdere UTXO's (meerdere ingangen). Welke opmerkingen kun je maken als je naar de twee transacties hieronder kijkt? Komen de inputs overeen met de outputs? Kun je de details van de transactie beschrijven? Is er een verband tussen de twee screenshots? En welke transactie vond als eerste plaats?
+[Afbeelding van BD 2023 pagina 123]
+  
+
+9.3 Bitcoin-knooppunten en miners nader bekeken
+In dit gedeelte gaan we dieper in op twee zeer belangrijke onderdelen (en deelnemers) van het Bitcoin-netwerk die voor het eerst werden geïntroduceerd in hoofdstuk 6. We zullen kijken naar:
+
+1.	Bitcoin-knooppunten: Poortwachters van validatie wiens belangrijkste taak het is om een kopie van het grootboek van Bitcoin bij te houden, te zorgen dat alle transacties geldig zijn en dat iedereen dezelfde regels volgt.
+
+Door deze taak te verspreiden over veel mensen wereldwijd, blijft Bitcoin sterk tegen potentiële problemen. Deze Nodes helpen het systeem betrouwbaar te houden en trouw te blijven aan het gedecentraliseerde idee, waarbij geen enkele persoon of groep te veel macht heeft.
+
+2.	Bitcoin Miners: Architecten van de Veiligheid die krachtige computers en elektriciteit gebruiken om transacties te controleren en te bevestigen, zodat alles veilig is. Dit werk helpt om het grootboek, of de blockchain, bestand te maken tegen slechte actoren die de boel proberen te verknoeien.
+
+Samen werken Bitcoin Nodes en Miners als een team om een gedecentraliseerd, veilig en sterk systeem in stand te houden - een nieuwe manier om met geld om te gaan waar mensen over de hele wereld op kunnen vertrouwen. Laten we deze rollen in meer detail bekijken om te begrijpen hoe ze bijdragen aan het innovatieve Bitcoin-systeem.
+
+9.2.1 Wat is een Bitcoin-knooppunt en hoe zet ik er een op?[Afbeelding van BD 2023 pagina 93]
+Een Bitcoin Node klinkt misschien technisch, maar het is gewoon een stukje software waarop een kopie van het Bitcoin-grootboek draait. Als u uw eigen Bitcoin Node draait, heeft u een stem in het bepalen van de regels van het Bitcoin-netwerk. 
+
+Stelt u zich dit eens voor: als een groep mensen probeert te veranderen hoe Bitcoin functioneert, bijvoorbeeld door het totale aanbod van Bitcoin te veranderen, dan heeft u inspraak. U kunt ervoor kiezen om uw node niet aan te passen aan het nieuwe systeem, wat hetzelfde is als stemmen om de regels van het netwerk die u ondersteunt af te dwingen. 
+
+Laten we ons een Bitcoin Node voorstellen als een digitale verkeersagent met een aantal essentiële taken:
+
+1.	Poortwachters van validatie: Een Bitcoin-knooppunt houdt een digitale kopie bij van de blockchain, wat een gedeeld grootboek is van alle Bitcoin-transacties. Veel knooppunten over de hele wereld houden ditzelfde register bij.
+
+2.	Communicatiehub: Knooppunten verbinden zich met elkaar en creëren zo een uitgebreid communicatienetwerk. Ze delen informatie, vooral transacties die wachten om te worden toegevoegd aan de blockchain, opgeslagen in een digitale wachtkamer die "de mempool" wordt genoemd.
+
+3.	Kwaliteitschecker: Elke toevoeging aan de blockchain wordt gecontroleerd. Knooppunten zorgen ervoor dat transacties geldig zijn en wijzen transacties af die niet voldoen aan de regels van het Bitcoin-netwerk.
+
+4.	Blockchain Informant: Andere software, zoals wallets, kunnen een node om informatie vragen over de blockchain, zoals bitcoinsaldi. Knooppunten dienen als informatieknooppunten.
+
+5.	Nieuwe Node Welcomer: Wanneer een nieuw knooppunt zich wil aansluiten, stellen bestaande knooppunten genereus een kopie van de blockchain ter beschikking. De nieuwe node controleert onafhankelijk de geldigheid van elke transactie, wat een vertrouwensloos systeem benadrukt.
+
+Activiteit - Video bekijken over Bitcoin-knooppunten: https://youtu.be/xc_TxlByxeY 
+
+Een van de opties om uw eigen node te draaien is om de Bitcoin Core software te downloaden en het wat tijd te geven om de hele blockchain te downloaden. Als het eenmaal klaar is, kunt u het aan laten staan en ongeveer elke 10 minuten komen er nieuwe blokken met transacties binnen. Uw node controleert hun geldigheid en voegt ze toe aan uw lokale kopie van de blockchain.
+
+[RESOURCE QR CODE LINK] Bron: Bitcoin kernsoftware - https://bitcoincore.org/en/download/ 
+
+Het runnen van een knooppunt biedt soevereiniteit en onafhankelijkheid. Je bent niet afhankelijk van anderen; het is je eigen verkeersagent. In tegenstelling tot uw Bitcoin portemonnee, die geen kopie van de blockchain heeft, zorgt een knooppunt voor onafhankelijkheid. In plaats van anderen te vertrouwen over uw bitcoinbezit (en de staat van het Bitcoin-netwerk), communiceert uw portemonnee met uw persoonlijke knooppunt, waardoor uw digitale ervaring veiliger en betrouwbaarder is. 
+
+
+9.2.2. Wat is een Bitcoin Miner en hoe werkt mijnbouw?
+
+"Het doel van mining is niet het creëren van nieuwe bitcoin. Dat is het stimuleringssysteem.
+Mijnbouw is het mechanisme waarmee de veiligheid van Bitcoin wordt gedecentraliseerd."
+Andreas M. Antonopoulos
+
+Zie miners als digitale boekhouders. Net zoals bedrijven accountants betalen om hun financiële administratie bij te houden, worden miners in bitcoin betaald voor het verifiëren en toevoegen van transacties aan de blockchain, om ervoor te zorgen dat het netwerk veilig is en soepel draait. Deze taak vereist serieuze rekenkracht en gespecialiseerde apparatuur. 
+
+[TEKSTVAK].
+ 
+Miners verzamelen onbevestigde transacties, vormen een blok en verbruiken energie om te zoeken naar een waardevolle sleutel die de plek van het blok in de blockchain zal toevoegen en beveiligen. 
+
+[EINDE TEKST KADER].
+
+Miners zijn in een race om het volgende blok aan de blockchain toe te voegen. De gewilde prijs is een "geldige blokhash," slim verborgen tussen miljarden andere, en alleen een specifieke sleutel toegewezen door het netwerk kan het ontgrendelen.
+
+Stel je een enorme hooiberg voor gevuld met miljoenen sleutels, die elk een unieke hash van een blok vertegenwoordigen. Het netwerk heeft één specifieke sleutel gekozen om een waardevolle beloning vrij te spelen. Mijnwerkers doorzoeken de hooiberg en testen elke sleutel in het slot, maar slechts één gelukkige mijnwerker zal de perfecte match ontdekken.
+
+Zodra een miner de juiste block hash vindt, deelt hij die met het netwerk, samen met het blok nieuwe transacties dat hij aangemaakt heeft. Andere miners verifiëren de oplossing om er zeker van te zijn dat deze klopt. Als alles klopt, wordt het blok toegevoegd aan de blockchain, waardoor een veilig en openbaar grootboek ontstaat.
+
+Miners verdienen op twee manieren beloningen voor hun inspanningen:
+1.	Beloningen voor blokken
+2.	Transactiekosten
+
+Blokbeloningen zijn nieuwe bitcoin die in omloop worden gebracht bij elk blok dat aan de blockchain wordt toegevoegd. Transactievergoedingen zijn kleine bitcoinbetalingen die gebruikers doen om hun transacties sneller te laten verwerken en prioriteit te geven door de mijnwerker. Miners kunnen kiezen welke transacties ze opnemen in het blok dat ze mijnen, waarbij ze meestal de voorkeur geven aan transacties met hogere transactiekosten.
+[Afbeelding van BD 2023 pagina 139]
+Bitcoin halvings
+Een Bitcoin halveren is een essentieel onderdeel van het Bitcoin-universum dat helpt om de schaarste en waarde van de Bitcoin in de loop der tijd te behouden. Zoals u weet, is er een vaste voorraad van 21.000.000 bitcoins in totaal. Deze voorraad is niet volledig beschikbaar vanaf de dag dat Bitcoin werd gelanceerd. In plaats daarvan komt deze voorraad stap voor stap het Bitcoin-universum binnen.
+
+Satoshi Nakamoto ontwierp slim een blokbeloningssysteem om nieuwe bitcoins te verdelen zonder een centrale autoriteit. In de begindagen van Bitcoin kregen miners een beloning van 50 bitcoins voor elk blok dat ze minden, wat hen motiveerde om te investeren in krachtige apparatuur en elektriciteit voor hun mijnbouwactiviteiten.
+
+Om het netwerk stabiel te houden en het aanbod van nieuwe bitcoin te beheren, wordt de blokbeloning ongeveer elke 210.000 blokken gehalveerd. Deze gebeurtenis, "de halvering" genoemd, vermindert het aantal nieuwe bitcoin dat in omloop komt en blijft miners motiveren om het netwerk te beschermen en de decentralisatie te handhaven. Historisch gezien hebben halveringen geleid tot aanzienlijke prijsstijgingen op de Bitcoin-markt vanwege het verminderde aanbod van nieuwe bitcoins die in omloop komen.
+
+
+
+
+
+
+[TEKSTVAK].
+ 
+Circulerende voorraad verwijst naar de totale hoeveelheid van een valuta. Bij bitcoin is de totale circulerende voorraad het aantal munten dat is gemined en op een bepaald moment in omloop is, exclusief munten die voor altijd verloren zijn gegaan. 
+
+[EINDE TEKST KADER].
+
+[Afbeelding van BD 2023 pagina 139]
+Tijdens elke halvering ontvangen miners minder Bitcoin-beloningen, wat de uitgiftesnelheid van nieuwe munten verlaagt. Als gevolg hiervan neemt de moeilijkheidsgraad van het delven van Bitcoin toe om een bloktijd van ongeveer 10 minuten te handhaven, zodat er in een gestaag tempo nieuwe blokken aan de blockchain worden toegevoegd. De vermindering in mijnbeloningen betekent niet noodzakelijkerwijs dat mijnwerkers minder winst maken, want ze kunnen ook transactiekosten verdienen voor het verifiëren van transacties en het toevoegen ervan aan de blockchain, wat de vermindering in mijnbeloningen kan compenseren.
+
+Halveringsgebeurtenissen zijn voorgeprogrammeerd in het Bitcoin-protocol, waardoor het leveringsschema van Bitcoin voorspelbaar en transparant is.[Afbeelding van BD 2023 pagina 139-141]
+
+[TEKSTVAK].
+
+Het bitcoin leveringsschema is het vooraf bepaalde en openbare plan voor het in omloop brengen van nieuwe bitcoin, ontworpen om de schaarste van bitcoin in de loop van de tijd te handhaven. 
+
+[EINDE TEKST KADER].
+  
+De volgende tabel geeft een overzicht van de details van komende halveringsevenementen voor Bitcoin, waaronder de verwachte datum van het volgende halveringsevenement, het bloknummer waarop het halveringsevenement zal plaatsvinden, de blokbeloningen (per gemijnd blok) tijdens dat halveringsevenement en het percentage van de totale voorraad dat gemijnd zal worden.[Afbeelding van BD 2023 pagina 139-141]
+ 
+
+Naarmate er meer Bitcoin worden gemined, zal de circulerende voorraad en het percentage van de totale voorraad dat gemined is, blijven stijgen totdat de totale voorraad van 21.000.000 is bereikt. Het verminderde aanbod, gecombineerd met een stijgende vraag, kan de prijs van Bitcoin (gemeten in dollars) opdrijven. Dit is in het voordeel van early adopters en motiveert miners om door te gaan met het beveiligen van het netwerk en hun rekenkracht en middelen in te zetten.
+
+Wat is een geldige blokhash in Bitcoin?
+In Bitcoin is een geldige blokhash een speciale code die miners proberen te vinden. Het is een uniek nummer dat helpt bij het bijhouden van elk blok in de blockchain, waarin informatie over transacties wordt opgeslagen. De blokken verbinden zich in een keten van de eerste (genesis block) tot de laatste, en maken zo een openbaar verslag van alle transacties. Deze hash van het blok is cruciaal omdat het elk blok koppelt aan het blok ervoor, waardoor het voor iedereen gemakkelijk is om de geschiedenis van transacties te controleren. Het is een beetje zoals een vingerafdruk voor elk blok, die ervoor zorgt dat de informatie correct en veilig is. De blokhash fungeert als een manier om te bevestigen dat de gegevens in het blok niet zijn gewijzigd.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Afbeelding uit BD 2023 pagina 139-141]
+
+
+ 
+[TEKSTVAK].
+Satoshi Nakamoto, de bedenker van bitcoin, minde het eerste blok, dat in totaal 50 bitcoins bevatte.
+[EINDE TEKST KADER].
+
+De race om een blok te delven
+Miners gaan een wedstrijd aan om de hash van het blok te vinden die overeenkomt met het doel (een speciaal nummer) dat door het netwerk is ingesteld. De miner die als eerste met succes de juiste hash van het blok ontdekt, krijgt de mogelijkheid om dat blok toe te voegen aan de blockchain en het toe te wijzen met de bijbehorende hash ID. Deze oplossing dient als validatie voor de authenticiteit van het blok.
+[Afbeelding uit BD 2023 pagina 142-144]
+Mijnen kan vergeleken worden met een race waarbij het doel is om zo snel mogelijk de finish te bereiken. Hoe moeilijk het is om de hash van het blok te vinden, wordt periodiek aangepast, zodat elk blok in ongeveer 10 minuten wordt gemined (als er miners bijkomen en vertrekken). Dit mechanisme wordt "de moeilijkheidsaanpassing" genoemd.
+
+Laten we zeggen dat het Bitcoin-netwerk als doel 1000 heeft gesteld. De miners zouden hun rekenkracht en energie moeten gebruiken om een blokhash (een specifiek getal) te zoeken die lager is dan 1000. De eerste miner die een blokhash vindt die lager is dan 1000 mag het nieuwe blok toevoegen aan de blockchain en wordt beloond met bitcoin. De eerste miner die een blokhash vindt die lager is dan 1000 mag het nieuwe blok toevoegen aan de blockchain en wordt beloond met bitcoin.
+
+[TEKSTVAK].
+
+De moeilijkheidsgraad in Bitcoin mining is een maat voor hoe moeilijk het is om een geldige hash van een blok te vinden die voldoet aan de doelstelling van het netwerk. De moeilijkheidsgraad wordt elke 2016 blokken aangepast, of ongeveer elke twee weken, om ervoor te zorgen dat blokken in een consistent tempo worden toegevoegd aan de blockchain. De moeilijkheidsgraad wordt uitgedrukt als een getal en hoe hoger de moeilijkheidsgraad, hoe moeilijker het is om een geldige hash van een blok te vinden.
+
+[EINDE TEKST KADER].
+ 
+Neem bijvoorbeeld twee verschillende hashes:
+?	Hash 1: 0000A1mINgF0RbL0cK5wItHth3hAy5tAcK
+Moeilijkheidsgraad: 1
+?	Hash 2: 00000000A1mINgF0RbL0cK5wItHth3hAy5tAcK
+Moeilijkheidsgraad: 2
+
+In dit voorbeeld heeft Hash 2 een hogere moeilijkheidsgraad dan Hash 1, omdat het een langere hash is met meer nullen aan het begin. Het zou moeilijker zijn voor miners om Hash 2 te vinden omdat hun computers meer werk zouden moeten doen.
+
+[TEKSTVAK].
+
+Door een geldige hash van een blok te vinden, laat een miner zien dat hij het werk heeft gedaan dat nodig is om het nieuwe blok aan de blockchain toe te voegen en krijgt hij een beloning in bitcoin, plus transactiekosten voor zijn inspanning. Proof of Work (PoW) is de methode die het Bitcoin-netwerk gebruikt om transacties te valideren en nieuwe blokken aan de blockchain toe te voegen. 
+
+[EINDE TEKST KADER].
+ 
+PoW houdt Bitcoin veilig door het moeilijk te maken voor iemand met kwade bedoelingen om de controle over te nemen.
+
+
+
+
+
+
+Samengevat bestaan de taken van mijnwerkers uit:
+1.	Bundelen van transacties in blokken: Terwijl nodes nieuw aangemaakte transacties verifiëren die in "de mempool" wachten, selecteren miners een subset hiervan om in hun kandidaatblok op te nemen.
+2.	Bewijs van werk: Miners wedijveren met elkaar om de geldige blokhash te vinden.
+3.	Geldige blokken uitzenden: Na het vinden van de geldige blokhash, verspreiden ze het nieuwe blok naar het netwerk.
+4.	Beloningen verdienen: Tot slot ontvangen ze nieuw gecreëerde bitcoins en transactiekosten voor het succesvol toevoegen van het blok aan de blockchain.
+
+
+
+
+
+[Afbeelding uit BD 2023 pagina 142-144]
+ 
+
+Meerdere miners kunnen tegelijkertijd werken aan het creëren van nieuwe blokken. De eerste miner die een hash van een blok ontdekt die voldoet aan de doelstelling van het netwerk, kondigt dit aan het netwerk aan en de andere miners controleren dan de transacties in het kandidaatblok van die miner om er zeker van te zijn dat ze geldig zijn. Als de transacties inderdaad geldig zijn, wordt het blok toegevoegd aan de blockchain. De andere blokken die op dat moment door de andere miners zijn aangemaakt, worden niet toegevoegd en weggegooid. Dit proces helpt de consensus binnen het netwerk te behouden en voorkomt dubbel spenden.
+
+[TEKSTVAK].
+
+Een kandidaatblok is een verzameling transacties die wordt overwogen om aan de blockchain te worden toegevoegd, maar die nog niet is toegevoegd.
+ 
+
+
+[EINDE TEKST KADER].
+
+
+
+
+
+
+
+
+
+
+
+
+[Afbeelding van BD 2023 pagina 155]
+ 
+
+9.4 Wat is de Mempool?
+De "Mempool" of geheugenpool is als een wachtkamer voor transacties in het Bitcoin-netwerk. Wanneer u een transactie doet, wordt deze eerst uitgezonden naar de Mempool voordat deze wordt geverifieerd, geselecteerd en toegevoegd aan de blockchain.
+
+Stel je voor dat je in de rij staat bij een restaurant. Je naam wordt toegevoegd aan een lijst van mensen die op een tafel wachten. Als er een tafel vrij komt, roept de gastheer je naam en geeft je een plaats. Op dezelfde manier wordt een bitcoin-transactie toegevoegd aan de Mempool wanneer deze wordt gemaakt, en wordt bevestigd en toegevoegd aan de blockchain wanneer een miner deze opneemt in een blok.
+
+
+
+
+
+
+
+
+[Afbeelding uit BD 2023 pagina 128-130]
+ 
+
+Hoe worden transacties geverifieerd en toegevoegd aan de Mempool?
+
+Wanneer nieuwe transacties worden uitgezonden naar het Bitcoin-netwerk, verifiëren nodes deze transacties om er zeker van te zijn dat ze geldig zijn en dat het geld niet eerder is uitgegeven. Zodra deze transacties zijn geverifieerd, voegen de nodes ze toe aan hun Mempool. Vervolgens delen de nodes de transacties met andere nodes om ze dubbel te controleren. Als de meerderheid van de nodes akkoord gaat, worden de transacties beschikbaar gemaakt voor miners om ze te selecteren en op te nemen in een blok. Er zijn echter verschillende redenen waarom een transactie na 72 uur nog niet bevestigd is:
+
+1.	Lage transactiekosten: Transacties met een lage vergoeding worden mogelijk niet snel genoeg verwerkt, omdat miners eerder geneigd zijn om transacties met hogere vergoedingen te kiezen om in hun blokken op te nemen.
+2.	Netwerkcongestie: Als het netwerk overbelast is, kan er vertraging optreden bij het bevestigen van transacties, zelfs als ze een hoge vergoeding hebben.
+3.	Poging tot dubbele uitgave: Als een kwaadwillende probeert dubbel te spenderen, kan zijn transactie worden geweigerd door het netwerk.
+4.	Onjuiste of onvolledige gegevens: Als een transactie onjuiste of onvolledige gegevens bevat, kan deze door het netwerk worden geweigerd.
+5.	Misvormde transactie: Als een transactie misvormd is, kan deze worden geweigerd door het netwerk.
+
+Om te voorkomen dat transacties worden geweigerd, is het aan te raden om een vergoeding op te nemen die hoog genoeg is om ervoor te zorgen dat de transactie tijdig wordt verwerkt, en om dubbel te controleren of alle gegevens in de transactie correct zijn voordat je deze verstuurt.
+[Afbeelding van BD 2023 pagina 152]
+
+Activiteit - Mempool
+
+1.	Scan de volgende QR-code:
+
+
+
+
+
+
+
+--------------------------------- Alleen aantekeningen - Hieronder niet in werkboek 2024 ----------------------------
+
+Opmerking voor de ontwerper: bewaar de QR-code die doorstuurt naar mempool.space en VERWIJDER de andere uit de afbeelding ? 	?		?
+----------------------------- Alleen aantekeningen - Boven niet in werkboek 2024 ----------------------------------
+
+
+2.	Bekijk de verschillende elementen die op de pagina worden weergegeven, waaronder de laatste blokken, bevestigde transacties, het aantal transacties, geheugengebruik en de geschatte waarde van het hele blok. Beantwoord de vragen:
+?	Wat was het laatst gemijnde blok?
+?	Hoeveel transacties zaten er in dat blok?
+?	Wat is de totale waarde die in bitcoin wordt verhandeld?
+?	Wat was de grootte in megabytes van het blok?
+?	Met hoeveel nullen begint de nonce van het blok?
+?	Hoeveel bitcoin heeft de mijnwerker in totaal verdiend?
+?	Wat was de totale waarde van de vergoedingen die de miner ontving voor het toevoegen van de transacties aan het netwerk?
+?	Kies een van de transacties met de hoogste waarde in het blok. Over hoeveel Bitcoin-adressen werd het bedrag verdeeld?
+
+9.5 Hoe bitcoin-transacties van begin tot eind werken
+
+1.	Adam wil bitcoin naar Gerardo sturen. Hij kiest een van zijn UTXO's, maakt een transactie aan en voegt alle benodigde details toe, waaronder de hoeveelheid bitcoin die hij wil versturen, Gerardo's ontvangende adres en een bovengemiddeld bedrag aan transactiekosten.
+2.	Na een laatste controle of alle details correct zijn, gebruikt Adam zijn privésleutel om de transactie te ondertekenen.
+3.	Adam zendt de transactie uit naar het Bitcoin-netwerk.
+[Afbeelding uit de map met afbeeldingen van hoofdstuk 9]
+
+ 
+Uit: Stevenot, Ted, "Wat is een bitcoin-node en hoe werkt er een?". Unchained Capital, 17, januari, 2023, https://unchained.com/blog/what-is-a-bitcoin-node/
+
+4.	De knooppunten op het netwerk ontvangen de transactie en verifiëren de geldigheid ervan volgens de consensusregels (zoals controleren of Adams handtekening geldig is en of hij voldoende geld heeft om de transactie te doen).
+5.	De transactie wordt als geldig gemarkeerd en de knooppunten propageren het naar andere knooppunten op het netwerk en voegen het toe aan de Mempool.
+6.	Omdat Adam een transactievergoeding heeft gekozen die hoog genoeg is, nemen bijna alle Miners zijn transactie op in hun blokken.
+7.	Bewijs van werk: Miners racen en proberen hun blok te delven door de geldige hash van het blok te vinden. Een van de miners vindt de hash en zendt zijn blok uit naar het netwerk.
+8.	De Nodes ontvangen het nieuw gemijnde blok en verifiëren de geldigheid ervan. Dit omvat het valideren van alle transacties binnen het blok en ervoor zorgen dat aan de Proof of Work vereiste wordt voldaan.
+9.	De meerderheid van de Nodes is het ermee eens dat het blok geldig is en voegt het toe aan de blockchain. Gerardo ontvangt de bevestigde bitcoin op zijn ontvangstadres.
+10.	Naarmate er in het volgende uur meer blokken aan de blockchain worden toegevoegd, groeit het aantal bevestigingen voor de transactie. Naarmate het aantal bevestigingen voor de transactie toeneemt, krijgt Gerardo meer vertrouwen in het succes en de onomkeerbaarheid ervan.
+
+[TEKSTVAK].
+
+Samengevat ondertekent de verzender de transactie met zijn privésleutel, de knooppunten verifiëren de transactie UTXO's en de miners voegen de geverifieerde transactie toe aan de blockchain. De ontvanger heeft dan toegang tot de bitcoin met behulp van zijn privésleutel. Zodra een blok is gemined, worden alle transacties die erin zijn opgenomen als bevestigd beschouwd en de UTXO's die zijn gebruikt als inputs in deze transacties worden als verbruikt beschouwd en zullen niet opnieuw worden gebruikt. 
+
+[EINDE TEKST KADER].
+ 
+
+Nu we dit hoofdstuk afsluiten, hebt u waardevolle inzichten gekregen in de fundamentele concepten van hoe Bitcoin werkt. We hebben essentiële aspecten behandeld, van de basis van geld tot de technische kant van Bitcoin-technologie. Nu gaan we alles samenbrengen in het volgende hoofdstuk. Hoofdstuk 10 wacht, waarin we dieper ingaan op de belangrijke vraag: "Waarom Bitcoin?"
+
+
+
+--------------------------------- Alleen aantekeningen - Hieronder niet in werkboek 2024 ----------------------------
+
+
+?	Opmerkingen voor de ontwerper:
+
+
+¦	Bronafbeeldingen getagd "[Afbeelding uit hoofdstuk 9 Afbeeldingen map]" van: https://drive.google.com/drive/folders/1Dbg9PL0OpkJ78PDMFZ5HyKYu31sFDllU?usp=sharing 
+
+
+
+
+----------------------------- Alleen aantekeningen - Boven niet in werkboek 2024 ----------------------------------
+

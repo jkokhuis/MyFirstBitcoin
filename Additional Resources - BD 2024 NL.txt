@@ -1,0 +1,43 @@
+Aanvullende bronnen
+
+Opmerkingen:
+-	Beschouw mijnbouwinformatie als "Aanvullende bronnen" en een voorproefje van onze volgende cursus over bitcoin-mijnbouw. 
+
+-	Citeer het volgende:
+-	Nieuwsgierige uitvinder (youtube video) https://www.youtube.com/@CuriousInventor 
+-	Anil Patel (alleen als we zijn spullen gebruiken) - Anil Patel - Twitter: @anilsaidso
+
+-	Belangrijke auteurs Pagina 183
+-	Lyn Alden
+-	Jeff Booth
+
+-	Verder leren Pagina 182 
+-	Boeken: 
+-	Bitcoin voor baby's? door John C. Vanden-Heuvel Sr. (Auteur), Tom Holmes 
+
+-	Podcasts:
+-	Preston Pysh
+-	Saifedean Ammous
+-	Peter McCormack - Wat Bitcoin deed
+-	Cursussen: 
+-	BTC Sessies - YouTube - https://www.youtube.com/@BTCSessies 
+-	De zomer van Bitcoin - Summerofbitcoin.org
+-	Chaincode Labs - Chaincodelabs.nl
+
+-	Belangrijke hulpmiddelen en gratis bronnen:
+-	Saylor Academy - Gratis onderwijs in meerdere disciplines: https://www.saylor.org/ 
+-	NOSTR - sociale media waar je daadwerkelijk eigenaar bent van je gegevens - https://nostr.com/ 
+-	SImple X - particulier, gedecentraliseerd applicatieprotocol - https://simplex.chat/ 
+-	Bitcoin-knooppunt:
+-	Raspberry Pi DIY door Keith Mukai: https://github.com/kdmukai/raspi4_bitcoin_node_tutorial?tab=readme-ov-file 
+-	Hoe kies ik een bitcoin portemonnee?
+-	https://bitcoin.org/en/choose-your-wallet 
+-	Bitcoin.Design - Open-source bitcoin-ontwerpafbeeldingen: https://bitcoin.design/guide/resources/design-files/ 
+-	BitcoinIcons.com - Een verzameling gratis bitcoin-pictogrammen: https://bitcoinicons.com/ 
+-	Bitcoin.Design - Speel hier met een demo bitcoin portemonnee:
+-	https://www.figma.com/proto/lf2Xyw2I2OXPsHiFQVQdiG/Daily-spending-wallet-prototype?page-id=4167%3A92515&node-id=4167-92516&viewport=253%2C104%2C0.08&scaling=min-zoom&starting-point-node-id=4167%3A92516&show-proto-sidebar=1 
+-	Bitcoin voor lokale bedrijven - Een set folders om u te helpen de waarde van bitcoin te delen met uw favoriete lokale bedrijven https://bitcoinforlocalbusiness.com/
+-	Mempool.Space - een open source mempool-project dat ook bliksemnetwerkgegevens en -grafieken bevat: https://mempool.space/ 
+
+
+
