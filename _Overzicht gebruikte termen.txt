@@ -8,6 +8,8 @@ Bitcoin ledger - Bitcoin grootboek
 
 (non)custodial - (non)custodial
 
+Digital assets - digitale bezittingen
+
 Genesis-block - Genesis-blok
 
 Key concepts - begrippen of concepten
