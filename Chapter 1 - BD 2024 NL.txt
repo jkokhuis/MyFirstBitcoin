@@ -14,7 +14,7 @@ Hoofdstuk 1: Waarom hebben we geld nodig?
 
 1.0 Inleiding 
 
-Welkom bij het Bitcoin-diploma. In dit hoofdstuk verkennen we de fundamentele vraag waarom geld essentieel is in ons leven. We kijken naar de aard van geld en de verschillende vormen ervan, met als doel een beter begrip te krijgen van de betekenis ervan. Geld is iets dat we bijna elke dag gebruiken, maar begrijpen we eigenlijk wel waarom we het nodig hebben en wat het is? Waarom ruilen onze ouders en familieleden hun tijd voor geld? Waarom hebben sommige mensen er meer van dan anderen? Waarom is geld in andere landen anders? Waarom kunnen we er niet gewoon meer van maken als we het nodig hebben? 
+Welkom bij het Bitcoin-diploma. In dit hoofdstuk verkennen we de fundamentele vraag waarom geld essentieel is in ons leven. We kijken naar de aard van geld en de verschillende vormen ervan, met als doel een beter begrip te krijgen van de betekenis van geld. Geld is iets dat we bijna elke dag gebruiken, maar begrijpen we eigenlijk wel waarom we het nodig hebben en wat het is? Waarom ruilen mensen hun tijd voor geld? Waarom hebben sommige mensen er meer van dan anderen? Waarom is geld in andere landen anders? Waarom kunnen we er niet gewoon meer van maken als we het nodig hebben? 
 
 1.1 Ontmoet Satoshi
 
@@ -27,7 +27,7 @@ Hoi! Ik ben Satoshi, een interactieve assistent die je helpt tijdens het hele Bi
 Activiteit - Laten we het hoofdstuk beginnen met het beantwoorden van de 5 onderstaande vragen: 
 
 
-Denk aan praktische toepassingen zoals het verkrijgen van benodigdheden zoals voedsel en gewenste voorwerpen. Probeer specifiek te zijn in je voorbeelden en zorg voor een evenwicht tussen creativiteit en realisme.
+Denk aan praktische toepassingen zoals het kopen van voedsel en dingen die je nodig hebt. Probeer specifiek te zijn in je voorbeelden en zorg voor een evenwicht tussen creativiteit en realisme.
 
 Waarom hebben we geld nodig?
 _______________________________________________________________________
@@ -55,4 +55,4 @@ Breid de discussie uit naar de hele klas, deel en vergelijk lijsten om de vijf b
  
  Aan het einde van de Bitcoin Diploma wordt de klas gevraagd om hun antwoorden en vragen opnieuw te bekijken. 
 
-Nu je duidelijker begrijpt waarom geld nodig is, gaan we in de volgende hoofdstukken onderzoeken wat geld is, hoe het zich in de loop der tijd heeft ontwikkeld, wie het be�nvloedt en wat de nieuwste vorm ervan is. Denk gedurende de rest van de hoodstukken terug aan deze eerste lesdag om verbanden te leggen tussen je inzichten en de evolutie van geldcreatie, -definitie en -gebruik door de tijd heen.
+Nu je duidelijker begrijpt waarom geld nodig is, gaan we in de volgende hoofdstukken onderzoeken wat geld is, hoe het zich in de loop der tijd heeft ontwikkeld, wie het be�nvloedt en wat de nieuwste vorm ervan is. Denk gedurende de rest van de hoodstukken terug aan deze eerste lesdag om verbanden te leggen tussen je inzichten en de evolutie van geld.
